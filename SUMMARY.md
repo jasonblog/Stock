@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [巴小智](chapter/README.md)
-   * [巴小智口袋名單](chapter)
+   * [巴小智口袋名單](chapter/11.md)
    * [大型股A+區](chapter/rgerger.md)
    * [中小型股A區](chapter/tyjtyj.md)
    * [大型股A-區](chapter/a-.md)
