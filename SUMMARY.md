@@ -1,7 +1,7 @@
 # Summary
 
-* [巴小智的投資心路與理念](README.md)
-* [巴小智](chapter/README.md)
+* [[轉]巴小智的投資心路與理念](README.md)
+* [[轉]巴小智](chapter/README.md)
    * [巴小智口袋名單](chapter/11.md)
    * [大型股A+區](chapter/rgerger.md)
    * [中小型股A區](chapter/tyjtyj.md)
@@ -26,4 +26,18 @@
        * [以平靜的心賺股的投資術 ](chapter/1913.md)
        * [Abide one's time 等候時機](chapter/1914.md)
        * [個股買賣點的一些看法](chapter/1915.md)
+* [[轉]Baron's Blog](barons/README.md)
+   * [現金股利與股票股利的意義](barons/21.md)
+   * [分批買進及單筆買進的優缺點](barons/22.md)
+   * [財務自由的計算公式](barons/23.md)
+   * [以股東的心態投資股票](barons/24.md)
+   * [本益比、ROE及ROA的意義](barons/25.md)
+   * [分散持股及集中持股的優缺點](barons/26.md)
+   * [投資之前要做的準備](barons/27.md)
+   * [股市下跌因應之道](barons/28.md)
+   * [買進好股票，長期持有，不要賣](barons/29.md)
+   * [關於反向投資](barons/30.md)
+   * [我的投資流程(上)(下)](barons/211.md)
+   * [陸股投資心得](barons/212.md)
+   * [關於效率市場假說](barons/213.md)
 
