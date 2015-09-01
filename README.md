@@ -1,6 +1,8 @@
 #冷靜 耐心 不賠錢 等待機會
 
-- 轉 http://blog.yam.com/smart0806tw/article/98405476
+### Reference
+
+http://blog.yam.com/smart0806tw/article/98405476
 
 ---
 

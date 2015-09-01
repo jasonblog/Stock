@@ -40,4 +40,7 @@
    * [我的投資流程(上)(下)](barons/211.md)
    * [陸股投資心得](barons/212.md)
    * [關於效率市場假說](barons/213.md)
+* [艾蜜莉](chapter3/README)
+   * [小資女艾蜜莉の投資SOP無私分享](chapter3/31.md)
+   * [小資女艾蜜莉的價值投資分享地圖 ](chapter3/32.md)
 
