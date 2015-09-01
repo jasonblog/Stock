@@ -1,6 +1,3 @@
 {
-    "plugins": [
-        ""
-    ],
-    "pluginsConfig": {}
+    "plugins" : [ "disqus", "google_code_prettify", "collapsible-menu", "maxiang", "livereload"]
 }
