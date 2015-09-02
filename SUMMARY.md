@@ -22,8 +22,8 @@
        * [利空買股票不是件容易事吧?](chapter/199.md)
        * [持股信心](chapter/1910.md)
        * [等待價差收益需要更多耐心持有股票!!](chapter/1911.md)
-       * [關於投資期限問題 ](chapter/1912.md)
-       * [以平靜的心賺股的投資術 ](chapter/1913.md)
+       * [關於投資期限問題](chapter/1912.md)
+       * [以平靜的心賺股的投資術](chapter/1913.md)
        * [Abide one's time 等候時機](chapter/1914.md)
        * [個股買賣點的一些看法](chapter/1915.md)
 * [[轉]Baron's Blog](barons/README.md)
@@ -42,5 +42,6 @@
    * [關於效率市場假說](barons/213.md)
 * [艾蜜莉](chapter3/README)
    * [小資女艾蜜莉の投資SOP無私分享](chapter3/31.md)
-   * [小資女艾蜜莉的價值投資分享地圖 ](chapter3/32.md)
+   * [小資女艾蜜莉的價值投資分享地圖](chapter3/32.md)
+* rtherth
 
