@@ -26,6 +26,7 @@
        * [以平靜的心賺股的投資術](chapter/1913.md)
        * [Abide one's time 等候時機](chapter/1914.md)
        * [個股買賣點的一些看法](chapter/1915.md)
+   * 分享文章
 * [[轉]Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
