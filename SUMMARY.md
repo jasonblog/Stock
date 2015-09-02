@@ -27,7 +27,7 @@
        * [Abide one's time 等候時機](chapter/1914.md)
        * [個股買賣點的一些看法](chapter/1915.md)
    * [分享文章](fen_xiang_wen_zhang.md)
-       * 致富，你需要的是耐心：當股災來時，眼睛放亮點以文找文
+       * [致富，你需要的是耐心：當股災來時，眼睛放亮點以文找文](1.md)
 * [[轉]Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
