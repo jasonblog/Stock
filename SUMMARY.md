@@ -47,4 +47,6 @@
 * [艾蜜莉](chapter3/README)
    * [小資女艾蜜莉の投資SOP無私分享](chapter3/31.md)
    * [小資女艾蜜莉的價值投資分享地圖](chapter3/32.md)
+* [唐大飛](big/README.md)
+   * [尋找投資護城河](big/41.md)
 
