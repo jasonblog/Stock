@@ -1,10 +1,5 @@
 #冷靜 耐心 不賠錢 等待機會
 
-### Reference
-
-http://blog.yam.com/smart0806tw/article/98405476
-
----
 
 
 自2008 年5月20日開立blog之後,
@@ -273,4 +268,5 @@ http://blog.yam.com/smart0806tw/article/98405476
 在 主耶穌的恩典下
 祝福大家都能在股市中 快樂投資  微笑歡呼收割 ~平安喜樂
 以馬利內~
+
 

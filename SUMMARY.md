@@ -1,7 +1,7 @@
 # Summary
 
-* [[轉]巴小智的投資心路與理念](README.md)
-* [[轉]巴小智](chapter/README.md)
+* [巴小智的投資心路與理念](README.md)
+* [巴小智](chapter/README.md)
    * [巴小智口袋名單](chapter/11.md)
    * [大型股A+區](chapter/rgerger.md)
    * [中小型股A區](chapter/tyjtyj.md)
@@ -67,4 +67,9 @@
    * [塞思.卡拉曼-安全邊際 by 巴小智](book/72.md)
    * [安全邊際 by 小梁](book/73.md)
    * [約翰・聶夫談投資：低本益比策略的七大選股條件](book/74.md)
+* [書單&網站](resource/README.md)
+   * [巴小智](resource/81.md)
+   * [尼莫](resource/82.md)
+   * [投資工具書介紹](resource/83.md)
+   * [私房書單：艾蜜莉的投資老師](resource/84.md)
 
