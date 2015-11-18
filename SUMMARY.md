@@ -68,7 +68,7 @@
    * [安全邊際 by 小梁](book/73.md)
    * [約翰・聶夫談投資：低本益比策略的七大選股條件](book/74.md)
    * [非常潛力股：找好股票的15個要點](book/75.md)
-   * 76
+   * [76](book/76.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
