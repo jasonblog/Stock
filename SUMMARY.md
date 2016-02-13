@@ -84,5 +84,5 @@
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
-   * 價值投資法的盲點與缺點（三）關於ROE這個玩具兵
+   * [價值投資法的盲點與缺點（三）關於ROE這個玩具兵](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_sa.md)
 
