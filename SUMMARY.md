@@ -82,5 +82,5 @@
    * [投資者的成功優勢三基石：知識、技能和天賦](redhouse/4.md)
    * [用財務指標篩選、避開炒作公司。](redhouse/5.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
-   * 價值投資法的盲點與缺點（一）
+   * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
 
