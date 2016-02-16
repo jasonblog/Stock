@@ -81,6 +81,7 @@
    * [【財報新手學習地圖—-建議閱讀清單】](redhouse/3.md)
    * [投資者的成功優勢三基石：知識、技能和天賦](redhouse/4.md)
    * [用財務指標篩選、避開炒作公司。](redhouse/5.md)
+   * 投資心法：價值投資，憑甚麼賺錢？
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
