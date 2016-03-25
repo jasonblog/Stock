@@ -93,4 +93,5 @@
 * [阿堯投資筆記](joey980161/a_yao_tou_zi_bi_ji.md)
    * [投資之道讀後心得](joey980161/tou_zi_zhi_dao_du_hou_xin_de.md)
 * [好文章](good/hao_wen_zhang.md)
+   * 龍頭股低買不賣～堅持等到好價錢才進場
 
