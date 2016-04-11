@@ -84,6 +84,7 @@
    * [投資心法：價值投資，憑甚麼賺錢？](redhouse/tou_zi_xin_fa_ff1a_jia_zhi_tou_zi_ff0c_ping_shen_m.md)
    * [如何成為超級投資人？](redhouse/ru_he_cheng_wei_chao_ji_tou_zi_ren_ff1f.md)
    * [滿足一窺投資高手選股及分析流程的渴望](redhouse/man_zu_yi_kui_tou_zi_gao_shou_xuan_gu_ji_fen_xi_li.md)
+   * 檢查清單：提高投資效率的簡單利器。
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
