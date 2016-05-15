@@ -58,6 +58,7 @@
    * [投資什麼?](bankernemo/54.md)
    * [投資成長但不虛胖的公司](bankernemo/55.md)
    * [非常潛力股書摘&閱讀心得](bankernemo/56.md)
+       * 第一章－過去提供的線索
    * [投資績效要進步, 請把焦點放在資產負債表!](bankernemo/57.md)
    * [三○％安全邊際速算公式 危機入市](bankernemo/58.md)
    * [股票要研究到多深入?](bankernemo/59.md)
