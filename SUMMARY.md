@@ -76,6 +76,7 @@
        * [第六章－何時賣出](bankernemo/di_liu_zhang_ff0d_he_shi_mai_chu.md)
        * [第十一章－彙總與結論](bankernemo/di_shi_yi_zhang_ff0d_hui_zong_yu_jie_lun.md)
        * [第五章－何時買進1/2](bankernemo/di_wu_zhang_ff0d_he_shi_mai_jin_1__2.md)
+       * 第五章－何時買進2/2
    * [投資績效要進步, 請把焦點放在資產負債表!](bankernemo/57.md)
    * [三○％安全邊際速算公式 危機入市](bankernemo/58.md)
    * [股票要研究到多深入?](bankernemo/59.md)
