@@ -71,7 +71,7 @@
        * [第七章－股利雜音](bankernemo/di_qi_zhang_ff0d_gu_li_za_yin.md)
        * [第九章－投資人另五不1/3](bankernemo/di_jiu_zhang_ff0d_tou_zi_ren_ling_wu_bu_1__3.md)
        * [第九章－投資人另五不2/3](bankernemo/di_jiu_zhang_ff0d_tou_zi_ren_ling_wu_bu_2__3.md)
-       * 第九章－投資人另五不3/3
+       * [第九章－投資人另五不3/3](bankernemo/di_jiu_zhang_ff0d_tou_zi_ren_ling_wu_bu_3__3.md)
    * [投資績效要進步, 請把焦點放在資產負債表!](bankernemo/57.md)
    * [三○％安全邊際速算公式 危機入市](bankernemo/58.md)
    * [股票要研究到多深入?](bankernemo/59.md)
