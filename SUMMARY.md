@@ -73,6 +73,7 @@
        * [第九章－投資人另五不2/3](bankernemo/di_jiu_zhang_ff0d_tou_zi_ren_ling_wu_bu_2__3.md)
        * [第九章－投資人另五不3/3](bankernemo/di_jiu_zhang_ff0d_tou_zi_ren_ling_wu_bu_3__3.md)
        * [第十章－如何找到成長股](bankernemo/di_shi_zhang_ff0d_ru_he_zhao_dao_cheng_chang_gu.md)
+       * 第六章－何時賣出
    * [投資績效要進步, 請把焦點放在資產負債表!](bankernemo/57.md)
    * [三○％安全邊際速算公式 危機入市](bankernemo/58.md)
    * [股票要研究到多深入?](bankernemo/59.md)
