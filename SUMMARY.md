@@ -67,6 +67,7 @@
        * [第四章－要買什麼](bankernemo/di_si_zhang_ff0d_yao_mai_shi_me.md)
        * [費雪如何發展投資哲學之一](bankernemo/fei_xue_ru_he_fa_zhan_tou_zi_zhe_xue_zhi_yi.md)
        * [費雪如何發展投資哲學之二](bankernemo/fei_xue_ru_he_fa_zhan_tou_zi_zhe_xue_zhi_er.md)
+       * 第八章－投資人五不 090501
    * [投資績效要進步, 請把焦點放在資產負債表!](bankernemo/57.md)
    * [三○％安全邊際速算公式 危機入市](bankernemo/58.md)
    * [股票要研究到多深入?](bankernemo/59.md)
