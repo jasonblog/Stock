@@ -64,6 +64,7 @@
        * [第三章－買進哪些股？選股的十五個要點(NO.4-NO.6)](bankernemo/di_san_zhang_ff0d_mai_jinna_xie_gu_ff1f_xuan_gu_de.md)
        * [第三章－買進哪些股？選股的十五個要點(NO.7-NO.9)](bankernemo/7_9_di_san_zhang_ff0d_mai_jinna_xie_gu_ff1f_xuan_gu_de.md)
        * [第三章－買進哪些股？選股的十五個要點(NO.10-NO.15)](bankernemo/10_15_di_san_zhang_ff0d_mai_jin_na_xie_gu_ff1f_xuan_gu_d.md)
+       * 第四章－要買什麼
    * [投資績效要進步, 請把焦點放在資產負債表!](bankernemo/57.md)
    * [三○％安全邊際速算公式 危機入市](bankernemo/58.md)
    * [股票要研究到多深入?](bankernemo/59.md)
