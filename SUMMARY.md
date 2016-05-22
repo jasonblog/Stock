@@ -115,5 +115,5 @@
    * [投資之道讀後心得](joey980161/tou_zi_zhi_dao_du_hou_xin_de.md)
 * [好文章](good/hao_wen_zhang.md)
    * [龍頭股低買不賣～堅持等到好價錢才進場](good/long_tou_gu_di_mai_bu_mai_ff5e_jian_chi_deng_dao_h.md)
-   * 走向完美的投資研究
+   * [走向完美的投資研究](good/zou_xiang_wan_mei_de_tou_zi_yan_jiu.md)
 
