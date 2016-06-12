@@ -89,7 +89,7 @@
    * [約翰・聶夫談投資：低本益比策略的七大選股條件](book/74.md)
    * [非常潛力股：找好股票的15個要點](book/75.md)
    * [活學活用財報資訊-重點整理](book/76.md)
-   * 智慧型股票投資人心得筆記
+   * [智慧型股票投資人心得筆記](book/zhi_hui_xing_gu_piao_tou_zi_ren_xin_de_bi_ji.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
