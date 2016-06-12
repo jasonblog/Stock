@@ -118,4 +118,5 @@
    * [走向完美的投資研究](good/zou_xiang_wan_mei_de_tou_zi_yan_jiu.md)
    * [存股真的很簡單？](good/cun_gu_zhen_de_hen_jian_dan_ff1f.md)
    * [價值投資這種設定](good/jia_zhi_tou_zi_zhe_zhong_she_ding.md)
+* 溫國信
 
