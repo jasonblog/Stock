@@ -119,7 +119,7 @@
    * [走向完美的投資研究](good/zou_xiang_wan_mei_de_tou_zi_yan_jiu.md)
    * [存股真的很簡單？](good/cun_gu_zhen_de_hen_jian_dan_ff1f.md)
    * [價值投資這種設定](good/jia_zhi_tou_zi_zhe_zhong_she_ding.md)
-   * 長期投資 等於「不賣股票」嗎? 這樣想...你就危險了！
+   * [長期投資 等於「不賣股票」嗎? 這樣想...你就危險了！](good/chang_qi_tou_zi_deng_yu_300c_bu_mai_gu_piao_300d_5.md)
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
 
