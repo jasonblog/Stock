@@ -103,6 +103,7 @@
    * [小資女艾蜜莉 我的資產翻倍存股筆記](book/xiao_zi_nv_ai_mi_li_wo_de_zi_chan_fan_bei_cun_gu_b.md)
    * [窮查理的普通常識](book/qiong_cha_li_de_pu_tong_chang_shi.md)
    * [彼得林區選股戰略](book/bi_de_lin_qu_xuan_gu_zhan_lve.md)
+   * 用心於不交易
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
