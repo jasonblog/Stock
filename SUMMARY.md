@@ -110,7 +110,7 @@
    * [不看盤我才賺到大錢](book/bu_kan_pan_wo_cai_zhuan_dao_da_qian.md)
    * [散戶啟示錄](book/san_hu_qi_shi_lu.md)
    * [股市之神 市川銀藏](book/gu_shi_zhi_shen_shi_chuan_yin_cang.md)
-   * 道瓊 30000點
+   * [道瓊 30000點](book/dao_qiong_30000_dian.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
