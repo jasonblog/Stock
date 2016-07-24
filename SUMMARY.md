@@ -100,6 +100,7 @@
    * [流浪教師存零股存到3000萬](book/liu_lang_jiao_shi_cun_ling_gu_cun_dao_3000_wan.md)
    * [財務自由的世界](book/cai_wu_zi_you_de_shi_jie.md)
    * [財務自由的講堂](book/cai_wu_zi_you_de_jiang_tang.md)
+   * 小資女艾蜜莉 我的資產翻倍存股筆記
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
