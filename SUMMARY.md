@@ -91,7 +91,7 @@
    * [活學活用財報資訊-重點整理](book/76.md)
    * [智慧型股票投資人心得筆記](book/zhi_hui_xing_gu_piao_tou_zi_ren_xin_de_bi_ji.md)
    * [大腦鍊金術](book/da_nao_lian_jin_shu.md)
-   * 尋找投資護城河
+   * [尋找投資護城河](book/xun_zhao_tou_zi_hu_cheng_he.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
