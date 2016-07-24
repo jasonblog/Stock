@@ -107,6 +107,7 @@
    * [我的職業是股東](book/wo_de_zhi_ye_shi_gu_dong.md)
    * [巴菲特選股魔法書](book/ba_fei_te_xuan_gu_mo_fa_shu.md)
    * [巴菲特投資學](book/ba_fei_te_tou_zi_xue.md)
+   * 不看盤我才賺到大錢
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
