@@ -93,7 +93,7 @@
    * [大腦鍊金術](book/da_nao_lian_jin_shu.md)
    * [尋找投資護城河](book/xun_zhao_tou_zi_hu_cheng_he.md)
    * [股神巴菲特的神諭（上）](book/gu_shen_ba_fei_te_de_shen_yu_ff08_shang_ff09.md)
-   * 股神巴菲特的神諭（下）
+   * [股神巴菲特的神諭（下）](book/gu_shen_ba_fei_te_de_shen_yu_ff08_xia_ff09.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
