@@ -96,7 +96,7 @@
    * [股神巴菲特的神諭（下）](book/gu_shen_ba_fei_te_de_shen_yu_ff08_xia_ff09.md)
    * [第一份薪水就該買股票](book/di_yi_fen_xin_shui_jiu_gai_mai_gu_piao.md)
    * [智慧型股票投資人](book/zhi_hui_xing_gu_piao_tou_zi_ren.md)
-   * 投資金律
+   * [投資金律](book/tou_zi_jin_lv.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
