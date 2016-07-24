@@ -104,7 +104,7 @@
    * [窮查理的普通常識](book/qiong_cha_li_de_pu_tong_chang_shi.md)
    * [彼得林區選股戰略](book/bi_de_lin_qu_xuan_gu_zhan_lve.md)
    * [用心於不交易](book/yong_xin_yu_bu_jiao_yi.md)
-   * 我的職業是股東
+   * [我的職業是股東](book/wo_de_zhi_ye_shi_gu_dong.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
