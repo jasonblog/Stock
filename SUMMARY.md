@@ -109,6 +109,7 @@
    * [巴菲特投資學](book/ba_fei_te_tou_zi_xue.md)
    * [不看盤我才賺到大錢](book/bu_kan_pan_wo_cai_zhuan_dao_da_qian.md)
    * [散戶啟示錄](book/san_hu_qi_shi_lu.md)
+   * 股市之神 市川銀藏
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
