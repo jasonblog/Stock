@@ -31,6 +31,7 @@
        * [價值投資與安全邊際](2/2.md)
        * [如何看懂財務報表](2/3.md)
        * [金融股分析](2/jin_rong_gu_fen_xi.md)
+       * 如何當一個存股投資人
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
