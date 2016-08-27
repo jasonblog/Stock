@@ -129,7 +129,7 @@
    * [滿足一窺投資高手選股及分析流程的渴望](redhouse/man_zu_yi_kui_tou_zi_gao_shou_xuan_gu_ji_fen_xi_li.md)
    * [檢查清單：提高投資效率的簡單利器。](redhouse/jian_cha_qing_dan_ff1a_ti_gao_tou_zi_xiao_lv_de_ji.md)
    * [台股大跌！空頭的投資檢查清單！](redhouse/tai_gu_da_die_ff01_kong_tou_de_tou_zi_jian_cha_qin.md)
-   * 巴菲特核心投資法：集中投資法不為人知的秘訣！
+   * [巴菲特核心投資法：集中投資法不為人知的秘訣！](redhouse/ba_fei_te_he_xin_tou_zi_fa_ff1a_ji_zhong_tou_zi_fa.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
