@@ -113,6 +113,7 @@
    * [股市之神 市川銀藏](book/gu_shi_zhi_shen_shi_chuan_yin_cang.md)
    * [道瓊 30000點](book/dao_qiong_30000_dian.md)
    * [一個指標賺遍全世界](book/yi_ge_zhi_biao_zhuan_bian_quan_shi_jie.md)
+   * 巴菲特核心投資法
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
