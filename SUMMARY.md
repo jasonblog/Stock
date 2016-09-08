@@ -148,5 +148,5 @@
    * [專注現金流的理財觀可以克服人性的缺點](good/zhuan_zhu_xian_jin_liu_de_li_cai_guan_ke_yi_ke_fu_.md)
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
-   * 「價值投資人」不要誤認8000點太高
+   * [「價值投資人」不要誤認8000點太高](arsin/300c_jia_zhi_tou_zi_ren_300d_bu_yao_wu_ren_8000_di.md)
 
