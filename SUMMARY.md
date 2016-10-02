@@ -150,5 +150,5 @@
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
    * [「價值投資人」不要誤認8000點太高](arsin/300c_jia_zhi_tou_zi_ren_300d_bu_yao_wu_ren_8000_di.md)
-* 心得
+* [心得](Yao/xin_de.md)
 
