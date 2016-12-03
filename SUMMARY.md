@@ -48,7 +48,7 @@
    * [關於效率市場假說](barons/213.md)
 * [艾蜜莉](chapter3/README.md)
    * [小資女艾蜜莉の投資SOP無私分享](chapter3/31.md)
-   * 當母公司被子公司的獲利拖累，該趁機買進還是敬而遠之？
+   * [當母公司被子公司的獲利拖累，該趁機買進還是敬而遠之？](chapter3/dang_mu_gong_si_bei_zi_gong_si_de_huo_li_tuo_lei_f.md)
 * [唐大飛](big/README.md)
    * [尋找投資護城河](big/41.md)
    * [杜大地板理論](big/42.md)
