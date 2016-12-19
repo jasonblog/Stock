@@ -53,7 +53,7 @@
    * [尋找投資護城河](big/41.md)
    * [杜大地板理論](big/42.md)
    * [大盤一直跌跌跌](big/43.md)
-   * 飛嫂股票的紀律之旅及存股原則
+   * [飛嫂股票的紀律之旅及存股原則](big/fei_sao_gu_piao_de_ji_lv_zhi_lv_ji_cun_gu_yuan_ze.md)
 * [銀行家尼莫](bankernemo/README.md)
    * [尼莫如何閱讀財務報表](bankernemo/51.md)
    * [股市大跌時價值投資人做這5件事](bankernemo/52.md)
