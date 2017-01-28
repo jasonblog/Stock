@@ -34,7 +34,7 @@
        * [如何當一個存股投資人](2/ru_he_dang_yi_ge_cun_gu_tou_zi_ren.md)
        * [雷大的獲利矩陣分析 運用在巴小智的三十檔個股](2/lei_da_de_huo_li_ju_zhen_fen_xi_yun_yong_zai_ba_xi.md)
        * [『青蛙呱呱呱 亂投資法則』以文找文](2/300e_qing_wa_gu_gu_gu_luan_tou_zi_fa_ze_300f_yi_we.md)
-       * 為什麼中長期投資比較容易賺到大波段價差的原因?
+       * [為什麼中長期投資比較容易賺到大波段價差的原因?](2/wei_shi_me_zhong_chang_qi_tou_zi_bi_jiao_rong_yi_z.md)
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
