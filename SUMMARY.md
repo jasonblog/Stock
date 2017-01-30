@@ -138,7 +138,7 @@
    * [台股大跌！空頭的投資檢查清單！](redhouse/tai_gu_da_die_ff01_kong_tou_de_tou_zi_jian_cha_qin.md)
    * [巴菲特核心投資法：集中投資法不為人知的秘訣！](redhouse/ba_fei_te_he_xin_tou_zi_fa_ff1a_ji_zhong_tou_zi_fa.md)
    * [從營收成長率，預估EPS](redhouse/cong_ying_shou_cheng_chang_lv_ff0c_yu_gu_eps.md)
-   * 用EPS反推營收之合理性
+   * [用EPS反推營收之合理性](redhouse/yong_eps_fan_tui_ying_shou_zhi_he_li_xing.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
