@@ -120,6 +120,7 @@
    * [一個指標賺遍全世界](book/yi_ge_zhi_biao_zhuan_bian_quan_shi_jie.md)
    * [巴菲特核心投資法](book/ba_fei_te_he_xin_tou_zi_fa.md)
    * [不買飆股，年均獲利40%](book/bu_mai_biao_gu_ff0c_nian_jun_huo_li_40.md)
+   * 《算股高手》的驚人財富翻倍術
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
