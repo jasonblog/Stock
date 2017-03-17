@@ -48,6 +48,7 @@
            * [仁寶2013年整體評估 by Awei Lin](chapter/ren_bao_2013_nian_zheng_ti_ping_gu_by_awei_lin.md)
            * [仁寶的投資價值?](chapter/ren_bao_de_tou_zi_jia_503c3f.md)
            * [關於仁寶的投資風險](chapter/guan_yu_ren_bao_de_tou_zi_feng_xian.md)
+           * 仁寶與樂視代工貨款問題
    * [社團](chapter/she_tuan.md)
        * [巴小智 2017.2.24](chapter/ba_xiao_zhi_2017__2__24.md)
 * [Baron's Blog](barons/README.md)
