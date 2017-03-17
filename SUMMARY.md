@@ -46,6 +46,7 @@
        * [仁寶](chapter/ren_bao.md)
            * [2016年前三季營運回顧與投資對策](chapter/2016nian_qian_san_ji_ying_yun_hui_gu_yu_tou_zi_dui.md)
            * [仁寶2013年整體評估 by Awei Lin](chapter/ren_bao_2013_nian_zheng_ti_ping_gu_by_awei_lin.md)
+           * 仁寶的投資價值?
    * [社團](chapter/she_tuan.md)
        * [巴小智 2017.2.24](chapter/ba_xiao_zhi_2017__2__24.md)
 * [Baron's Blog](barons/README.md)
