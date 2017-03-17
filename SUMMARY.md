@@ -38,6 +38,7 @@
    * [個股分析](chapter/ge_gu_fen_xi.md)
        * [聯強](chapter/lian_qiang.md)
            * [20173.17](chapter/2017317.md)
+       * 0050ETF
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
