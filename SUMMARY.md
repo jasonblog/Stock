@@ -44,6 +44,7 @@
        * [Other](chapter/other.md)
            * [兩檔股票內挑選一檔投資](chapter/liang_dang_gu_piao_nei_tiao_xuan_yi_dang_tou_zi.md)
    * [社團](chapter/she_tuan.md)
+       * 巴小智 2017.2.24
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
