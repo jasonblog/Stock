@@ -44,6 +44,7 @@
        * [Other](chapter/other.md)
            * [兩檔股票內挑選一檔投資](chapter/liang_dang_gu_piao_nei_tiao_xuan_yi_dang_tou_zi.md)
        * [仁寶](chapter/ren_bao.md)
+           * 2016年前三季營運回顧與投資對策
    * [社團](chapter/she_tuan.md)
        * [巴小智 2017.2.24](chapter/ba_xiao_zhi_2017__2__24.md)
 * [Baron's Blog](barons/README.md)
