@@ -42,6 +42,7 @@
            * [2017.3.16](chapter/2017316.md)
            * [如何回測投資績效](chapter/ru_he_hui_ce_tou_zi_ji_xiao.md)
        * [Other](chapter/other.md)
+           * 兩檔股票內挑選一檔投資
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
