@@ -38,7 +38,7 @@
    * [個股分析](chapter/ge_gu_fen_xi.md)
        * [聯強](chapter/lian_qiang.md)
            * [20173.17](chapter/2017317.md)
-           * 關於聯強的二、三事 單車小子 觀點
+           * [關於聯強的二、三事 單車小子 觀點](chapter/guan_yu_lian_qiang_de_er_3001_san_shi_dan_che_xiao.md)
        * [0050ETF](chapter/0050etf.md)
            * [2017.3.16](chapter/2017316.md)
            * [如何回測投資績效](chapter/ru_he_hui_ce_tou_zi_ji_xiao.md)
