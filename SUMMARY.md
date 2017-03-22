@@ -40,7 +40,7 @@
            * [20173.17](chapter/2017317.md)
            * [關於聯強的二、三事 單車小子 觀點](chapter/guan_yu_lian_qiang_de_er_3001_san_shi_dan_che_xiao.md)
            * [聯強(2347)：2016Q4財報簡評](chapter/lian_5f3728_2347__2016q4_cai_bao_jian_ping.md)
-           * 巴小智 2017.3.22
+           * [巴小智 2017.3.22](chapter/ba_xiao_zhi_2017__3__22.md)
        * [0050ETF](chapter/0050etf.md)
            * [2017.3.16](chapter/2017316.md)
            * [如何回測投資績效](chapter/ru_he_hui_ce_tou_zi_ji_xiao.md)
