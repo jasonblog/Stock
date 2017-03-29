@@ -141,7 +141,7 @@
    * [巴菲特核心投資法](book/ba_fei_te_he_xin_tou_zi_fa.md)
    * [不買飆股，年均獲利40%](book/bu_mai_biao_gu_ff0c_nian_jun_huo_li_40.md)
    * [《算股高手》的驚人財富翻倍術](book/300a_suan_gu_gao_shou_300b_de_jing_ren_cai_fu_fan_.md)
-   * 矩陣式存股法閱讀心得 - 單車小子
+   * [矩陣式存股法閱讀心得 - 單車小子](book/ju_zhen_shi_cun_gu_fa_yue_du_xin_de_-_dan_che_xiao.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
