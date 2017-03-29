@@ -188,5 +188,5 @@
    * [五大關鍵數字力](jl/wu_da_guan_jian_shu_zi_li.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa.md)
-   * 艾蜜莉
+   * [艾蜜莉](qa/ai_mi_li.md)
 
