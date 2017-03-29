@@ -187,5 +187,5 @@
    * [華倫老師的存股教室](jl/hua_lun_lao_shi_de_cun_gu_jiao_shi.md)
    * [五大關鍵數字力](jl/wu_da_guan_jian_shu_zi_li.md)
 * [心得](Yao/xin_de.md)
-* QA
+* [QA](qa.md)
 
