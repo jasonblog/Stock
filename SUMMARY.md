@@ -55,7 +55,7 @@
            * [仁寶與樂視代工貨款問題](chapter/ren_bao_yu_le_shi_dai_gong_huo_kuan_wen_ti.md)
    * [社團](chapter/she_tuan.md)
        * [巴小智 2017.2.24](chapter/ba_xiao_zhi_2017__2__24.md)
-       * 假議題? 投資ETF還是一小籃公司股票?
+       * [假議題? 投資ETF還是一小籃公司股票?](chapter/jia_yi_984c3f_tou_zi_etf_huan_shi_yi_xiao_lan_gong.md)
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
