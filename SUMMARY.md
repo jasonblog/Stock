@@ -188,7 +188,7 @@
    * [華倫老師的存股教室](jl/hua_lun_lao_shi_de_cun_gu_jiao_shi.md)
    * [五大關鍵數字力](jl/wu_da_guan_jian_shu_zi_li.md)
 * [心得](Yao/xin_de.md)
-* [QA](qa/qa.md)
+* [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
        * [大盤近萬點！已經漲高的績優股還可以追嗎？](qa/da_pan_jin_wan_dian_ff01_yi_jing_zhang_gao_de_ji_y.md)
 
