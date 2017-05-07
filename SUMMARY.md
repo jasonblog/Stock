@@ -231,6 +231,7 @@
    * [巴菲特投資學 超越價值、結合成長與管理的投資實學](jl/ba_fei_te_tou_zi_xue_chao_yue_jia_zhi_3001_jie_he_.md)
    * [不看盤 我才賺到大錢](jl/bu_kan_pan_wo_cai_zhuan_dao_da_qian.md)
    * [散戶啟示錄](jl/san_hu_qi_shi_lu.md)
+   * 股市之神 是川銀藏 
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
