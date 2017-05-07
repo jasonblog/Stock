@@ -219,6 +219,7 @@
    * [第一份薪水就該買股票](jl/di_yi_fen_xin_shui_jiu_gai_mai_gu_piao.md)
    * [智慧型股票投資人](jl/zhi_hui_xing_gu_piao_tou_zi_ren.md)
    * [投資金律](jl/tou_zi_jin_lv.md)
+   * 流浪教師存零股存到3000萬
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
