@@ -224,7 +224,7 @@
    * [財務自由的講堂：財務報表是投資的偉大航道](jl/cai_wu_zi_you_de_jiang_tang_ff1a_cai_wu_bao_biao_s.md)
    * [艾蜜莉 存股筆記](jl/ai_mi_li_cun_gu_bi_ji.md)
    * [窮查理的普通常識](jl/qiong_cha_li_de_pu_tong_chang_shi.md)
-   * 彼得林區選股戰略
+   * [彼得林區選股戰略](jl/bi_de_lin_qu_xuan_gu_zhan_lve.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
