@@ -188,7 +188,7 @@
 * [蔡康榮](jl/cai_kang_rong.md)
    * [華倫老師的存股教室](jl/hua_lun_lao_shi_de_cun_gu_jiao_shi.md)
    * [五大關鍵數字力](jl/wu_da_guan_jian_shu_zi_li.md)
-   * 一個投機者告白
+   * [一個投機者告白](jl/yi_ge_tou_ji_zhe_gao_bai.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
