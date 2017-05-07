@@ -193,7 +193,7 @@
    * [雷浩斯教你小薪水存好股又賺波段](jl/cun_hao_gu_you_zhuan_bo_duan_lei_hao_si.md)
    * [錢難賺 保險別亂買](jl/qian_nan_zhuan_bao_xian_bie_luan_mai.md)
    * [被討厭的勇氣](jl/bei_tao_yan_de_yong_qi.md)
-   * 雷浩斯教你矩陣式存股法年賺18%
+   * [雷浩斯教你矩陣式存股法年賺18%](jl/lei_hao_si_jiao_ni_ju_zhen_shi_cun_gu_fa_nian_zhua.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
