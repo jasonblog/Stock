@@ -1,2 +1,5 @@
 # 散戶啟示錄
 
+
+
+<div class="_xlr"><span class="fbPhotosPhotoContext" id="fbPhotoSnowliftContext"></span><span class="fbPhotosPhotoCaption" tabindex="0" aria-live="polite" data-ft="{&quot;tn&quot;:&quot;K&quot;}" id="fbPhotoSnowliftCaption"><span class="hasCaption"><span>透過財務報表判斷公司營運狀況，除了關心損益表中的『稅</span><wbr><span class="word_break"></span><span>後純益』之外，更要進一步比對實際收到的『現金流量』，</span><wbr><span class="word_break"></span><span>仔細分析其差異原因，排除有盈餘虛灌的可能性，才能避開</span><wbr><span class="word_break"></span>一些黑字倒閉的企業。<br> <br><span> 畢竟我們小散戶，並不會因錯失一次行情而有任何損失，卻</span><wbr><span class="word_break"></span>可能因一次誤判或急躁進場，而把多年積蓄付之一炬。<br> <br> 在投資市場上，『耐心』才是長期累積實力的關鍵因素。</span></span><span class="fbPhotoTagList hidden_elem" id="fbPhotoSnowliftTagList"></span><div class="pts fbPhotoProductsTagList" id="fbPhotoSnowliftProductsTagList"></div><div class="pts fbPhotoLegacyTagList" id="fbPhotoSnowliftLegacyTagList"><div></div></div><div class="fbPhotosPhotoButtons" id="fbPhotoSnowliftCallToActionButton"></div><div class="mvm fbPhotosPhotoOwnerButtons stat_elem" id="fbPhotoSnowliftOwnerButtons"></div><div class="_56lj" id="fbPhotoSnowliftOriginalStory"></div></div>
