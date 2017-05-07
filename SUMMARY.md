@@ -199,7 +199,7 @@
    * [蘇黎世投資定律](jl/su_li_shi_tou_zi_ding_lv.md)
    * [用生活常識就能看懂財務報表](jl/yong_sheng_huo_chang_shi_jiu_neng_kan_dong_cai_wu_.md)
    * [接受不完美的勇氣](jl/jie_shou_bu_wan_mei_de_yong_qi.md)
-   * 漫步華爾街
+   * [漫步華爾街](jl/man_bu_hua_er_jie.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
