@@ -204,6 +204,7 @@
    * [年年18%，一生理財這樣做就對了](jl/nian_nian_18_ff0c_yi_sheng_li_cai_zhe_yang_zuo_jiu.md)
    * [我把套牢股變搖錢樹](jl/wo_ba_tao_lao_gu_bian_yao_qian_shu.md)
    * [我的零成本存股術](jl/wo_de_ling_cheng_ben_cun_gu_shu.md)
+   * 財報狗這樣選對成長股
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
