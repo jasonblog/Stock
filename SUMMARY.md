@@ -210,6 +210,7 @@
    * [存好股，我穩穩賺](jl/cun_hao_gu_ff0c_wo_wen_wen_zhuan.md)
    * [非常潛力股](jl/fei_chang_qian_li_gu.md)
    * [坦伯頓投資法](jl/tan_bo_dun_tou_zi_fa.md)
+   * 圖解新制財報選好股
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
