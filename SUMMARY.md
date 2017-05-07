@@ -228,6 +228,7 @@
    * [用心於不交易](jl/yong_xin_yu_bu_jiao_yi.md)
    * [我的職業是股東](jl/wo_de_zhi_ye_shi_gu_dong.md)
    * [巴非特選股魔法書](jl/ba_fei_te_xuan_gu_mo_fa_shu.md)
+   * 巴菲特投資學 超越價值、結合成長與管理的投資實學
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
