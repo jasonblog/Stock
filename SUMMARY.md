@@ -226,6 +226,7 @@
    * [窮查理的普通常識](jl/qiong_cha_li_de_pu_tong_chang_shi.md)
    * [彼得林區選股戰略](jl/bi_de_lin_qu_xuan_gu_zhan_lve.md)
    * [用心於不交易](jl/yong_xin_yu_bu_jiao_yi.md)
+   * 我的職業是股東
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
