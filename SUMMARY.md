@@ -208,6 +208,7 @@
    * [我的第一本投資心理學](jl/wo_de_di_yi_ben_tou_zi_xin_li_xue.md)
    * [財報狗教你挖好股穩賺20%](jl/cai_bao_gou_jiao_ni_wa_hao_gu_wen_zhuan_20.md)
    * [存好股，我穩穩賺](jl/cun_hao_gu_ff0c_wo_wen_wen_zhuan.md)
+   * 非常潛力股
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
