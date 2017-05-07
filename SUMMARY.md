@@ -196,7 +196,7 @@
    * [被討厭的勇氣](jl/bei_tao_yan_de_yong_qi.md)
    * [投資的美麗境界](jl/tou_zi_de_mei_li_jing_jie.md)
    * [公司的品格](jl/gong_si_de_pin_ge.md)
-   * 蘇黎世投資定律
+   * [蘇黎世投資定律](jl/su_li_shi_tou_zi_ding_lv.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
