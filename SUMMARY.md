@@ -223,6 +223,7 @@
    * [財務自由的世界：財務分析就是一場投資的戰爭](jl/cai_wu_zi_you_de_shi_jie_ff1a_cai_wu_fen_xi_jiu_sh.md)
    * [財務自由的講堂：財務報表是投資的偉大航道](jl/cai_wu_zi_you_de_jiang_tang_ff1a_cai_wu_bao_biao_s.md)
    * [艾蜜莉 存股筆記](jl/ai_mi_li_cun_gu_bi_ji.md)
+   * 窮查理的普通常識
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
