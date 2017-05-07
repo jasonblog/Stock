@@ -206,7 +206,7 @@
    * [我的零成本存股術](jl/wo_de_ling_cheng_ben_cun_gu_shu.md)
    * [財報狗這樣選對成長股](jl/cai_bao_gou_zhe_yang_xuan_dui_cheng_chang_gu.md)
    * [我的第一本投資心理學](jl/wo_de_di_yi_ben_tou_zi_xin_li_xue.md)
-   * 財報狗教你挖好股穩賺20%
+   * [財報狗教你挖好股穩賺20%](jl/cai_bao_gou_jiao_ni_wa_hao_gu_wen_zhuan_20.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
