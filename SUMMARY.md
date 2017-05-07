@@ -212,6 +212,7 @@
    * [坦伯頓投資法](jl/tan_bo_dun_tou_zi_fa.md)
    * [圖解新制財報選好股](jl/tu_jie_xin_zhi_cai_bao_xuan_hao_gu.md)
    * [終結零存款](jl/zhong_jie_ling_cun_kuan.md)
+   * 大腦煉金術
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
