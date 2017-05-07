@@ -195,7 +195,6 @@
    * [錢難賺 保險別亂買](jl/qian_nan_zhuan_bao_xian_bie_luan_mai.md)
    * [被討厭的勇氣](jl/bei_tao_yan_de_yong_qi.md)
    * [投資的美麗境界](jl/tou_zi_de_mei_li_jing_jie.md)
-   * 五大關鍵數字力
    * 公司的品格
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
