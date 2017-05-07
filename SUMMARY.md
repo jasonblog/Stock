@@ -201,6 +201,7 @@
    * [接受不完美的勇氣](jl/jie_shou_bu_wan_mei_de_yong_qi.md)
    * [漫步華爾街](jl/man_bu_hua_er_jie.md)
    * [你的夢想就是最棒的存錢筒](jl/ni_de_meng_xiang_jiu_shi_zui_bang_de_cun_qian_tong.md)
+   * 年年18%，一生理財這樣做就對了
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
