@@ -233,7 +233,7 @@
    * [散戶啟示錄](jl/san_hu_qi_shi_lu.md)
    * [股市之神 是川銀藏](jl/gu_shi_zhi_shen_shi_chuan_yin_cang.md)
    * [道瓊三萬點](jl/dao_qiong_san_wan_dian.md)
-   * 一個指標賺遍全世界 fbi教你讀基金術
+   * [一個指標賺遍全世界 fbi教你讀基金術](jl/yi_ge_zhi_biao_zhuan_bian_quan_shi_jie_fbi_jiao_ni.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
