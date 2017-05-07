@@ -216,7 +216,7 @@
    * [尋找投資護城河](jl/xun_zhao_tou_zi_hu_cheng_he.md)
    * [股神巴菲特的神諭 下](jl/gu_shen_ba_fei_te_de_shen_yu_xia.md)
    * [股神巴菲特的神諭 上](jl/gu_shen_ba_fei_te_de_shen_yu_shang.md)
-   * 第一份薪水就該買股票
+   * [第一份薪水就該買股票](jl/di_yi_fen_xin_shui_jiu_gai_mai_gu_piao.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
