@@ -229,7 +229,7 @@
    * [我的職業是股東](jl/wo_de_zhi_ye_shi_gu_dong.md)
    * [巴非特選股魔法書](jl/ba_fei_te_xuan_gu_mo_fa_shu.md)
    * [巴菲特投資學 超越價值、結合成長與管理的投資實學](jl/ba_fei_te_tou_zi_xue_chao_yue_jia_zhi_3001_jie_he_.md)
-   * 不看盤 我才賺到大錢
+   * [不看盤 我才賺到大錢](jl/bu_kan_pan_wo_cai_zhuan_dao_da_qian.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
