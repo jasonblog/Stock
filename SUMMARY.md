@@ -48,6 +48,7 @@
            * [2017.3.16](chapter/2017316.md)
            * [如何回測投資績效](chapter/ru_he_hui_ce_tou_zi_ji_xiao.md)
            * [精選ETF 組合方式](chapter/jing_xuan_etf_zu_he_fang_shi.md)
+           * 找出0050長期表現一直良好的公司來投資
        * [Other](chapter/other.md)
            * [兩檔股票內挑選一檔投資](chapter/liang_dang_gu_piao_nei_tiao_xuan_yi_dang_tou_zi.md)
        * [仁寶](chapter/ren_bao.md)
