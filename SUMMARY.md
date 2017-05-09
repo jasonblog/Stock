@@ -47,6 +47,7 @@
            * [14年其中金融股高達9檔,沒有離開過0050ETF](chapter/14nian_qi_zhong_jin_rong_gu_gao_da_9_6a942c_mei_yo.md)
            * [2017.3.16](chapter/2017316.md)
            * [如何回測投資績效](chapter/ru_he_hui_ce_tou_zi_ji_xiao.md)
+           * 精選ETF 組合方式
        * [Other](chapter/other.md)
            * [兩檔股票內挑選一檔投資](chapter/liang_dang_gu_piao_nei_tiao_xuan_yi_dang_tou_zi.md)
        * [仁寶](chapter/ren_bao.md)
