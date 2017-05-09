@@ -57,6 +57,7 @@
        * [假議題? 投資ETF還是一小籃公司股票?](chapter/jia_yi_984c3f_tou_zi_etf_huan_shi_yi_xiao_lan_gong.md)
        * [持有到停利](chapter/chi_you_dao_ting_li.md)
        * [0050ETF 每季會有個前十大持股名單](chapter/0050etf_mei_ji_hui_you_ge_qian_shi_da_chi_gu_ming_.md)
+       * 任何投資方式都有其侷限性
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
