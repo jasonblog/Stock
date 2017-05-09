@@ -58,7 +58,7 @@
        * [持有到停利](chapter/chi_you_dao_ting_li.md)
        * [0050ETF 每季會有個前十大持股名單](chapter/0050etf_mei_ji_hui_you_ge_qian_shi_da_chi_gu_ming_.md)
        * [任何投資方式都有其侷限性](chapter/ren_he_tou_zi_fang_shi_du_you_qi_ju_xian_xing.md)
-       * 14年其中金融股高達9檔,沒有離開過0050ETF
+       * [14年其中金融股高達9檔,沒有離開過0050ETF](chapter/14nian_qi_zhong_jin_rong_gu_gao_da_9_6a942c_mei_yo.md)
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
