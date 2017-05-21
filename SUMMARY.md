@@ -52,7 +52,7 @@
            * [0050ETF 與 發行量加權股價報酬指數](chapter/0050etf_yu_fa_xing_liang_jia_quan_gu_jia_bao_chou_.md)
            * [投資報酬率回測 ( 2004-2016年)](chapter/tou_zi_bao_chou_lv_hui_ce__2004_-_2016_5e7429.md)
            * [巴小智的投資組合](chapter/ba_xiao_zhi_de_tou_zi_zu_he.md)
-           * 精選20檔-適合防禦型投資人之個股研究
+           * [精選20檔-適合防禦型投資人之個股研究](chapter/jing_xuan_20_6a94-_shi_he_fang_yu_xing_tou_zi_ren_.md)
        * [Other](chapter/other.md)
            * [兩檔股票內挑選一檔投資](chapter/liang_dang_gu_piao_nei_tiao_xuan_yi_dang_tou_zi.md)
        * [仁寶](chapter/ren_bao.md)
