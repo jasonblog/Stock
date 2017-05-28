@@ -51,7 +51,6 @@
            * [找出0050長期表現一直良好的公司來投資](chapter/zhao_chu_0050_chang_qi_biao_xian_yi_zhi_liang_hao_.md)
            * [0050ETF 與 發行量加權股價報酬指數](chapter/0050etf_yu_fa_xing_liang_jia_quan_gu_jia_bao_chou_.md)
            * [投資報酬率回測 ( 2004-2016年)](chapter/tou_zi_bao_chou_lv_hui_ce__2004_-_2016_5e7429.md)
-           * [巴小智的投資組合](chapter/ba_xiao_zhi_de_tou_zi_zu_he.md)
        * [Other](chapter/other.md)
            * [兩檔股票內挑選一檔投資](chapter/liang_dang_gu_piao_nei_tiao_xuan_yi_dang_tou_zi.md)
        * [仁寶](chapter/ren_bao.md)
@@ -65,6 +64,7 @@
        * [假議題? 投資ETF還是一小籃公司股票?](chapter/jia_yi_984c3f_tou_zi_etf_huan_shi_yi_xiao_lan_gong.md)
        * [持有到停利](chapter/chi_you_dao_ting_li.md)
    * [巴小智的投資組合20檔](chapter/ba_xiao_zhi_de_tou_zi_zu_he_20_dang.md)
+       * [巴小智的投資組合](chapter/ba_xiao_zhi_de_tou_zi_zu_he.md)
        * [精選20檔-適合防禦型投資人之個股研究](chapter/jing_xuan_20_6a94-_shi_he_fang_yu_xing_tou_zi_ren_.md)
        * [關於挑選 精選20 個股問題](chapter/guan_yu_tiao_xuan_jing_xuan_20_ge_gu_wen_ti.md)
        * 45642356
