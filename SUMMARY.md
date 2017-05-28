@@ -55,7 +55,6 @@
            * [精選20檔-適合防禦型投資人之個股研究](chapter/jing_xuan_20_6a94-_shi_he_fang_yu_xing_tou_zi_ren_.md)
        * [Other](chapter/other.md)
            * [兩檔股票內挑選一檔投資](chapter/liang_dang_gu_piao_nei_tiao_xuan_yi_dang_tou_zi.md)
-           * [關於挑選 精選20 個股問題](chapter/guan_yu_tiao_xuan_jing_xuan_20_ge_gu_wen_ti.md)
        * [仁寶](chapter/ren_bao.md)
            * [2016年前三季營運回顧與投資對策](chapter/2016nian_qian_san_ji_ying_yun_hui_gu_yu_tou_zi_dui.md)
            * [仁寶2013年整體評估 by Awei Lin](chapter/ren_bao_2013_nian_zheng_ti_ping_gu_by_awei_lin.md)
@@ -67,6 +66,7 @@
        * [假議題? 投資ETF還是一小籃公司股票?](chapter/jia_yi_984c3f_tou_zi_etf_huan_shi_yi_xiao_lan_gong.md)
        * [持有到停利](chapter/chi_you_dao_ting_li.md)
    * [巴小智的投資組合20檔](chapter/ba_xiao_zhi_de_tou_zi_zu_he_20_dang.md)
+       * [關於挑選 精選20 個股問題](chapter/guan_yu_tiao_xuan_jing_xuan_20_ge_gu_wen_ti.md)
        * 45642356
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
