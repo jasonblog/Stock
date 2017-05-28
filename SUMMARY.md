@@ -67,7 +67,6 @@
        * [巴小智的投資組合](chapter/ba_xiao_zhi_de_tou_zi_zu_he.md)
        * [精選20檔-適合防禦型投資人之個股研究](chapter/jing_xuan_20_6a94-_shi_he_fang_yu_xing_tou_zi_ren_.md)
        * [關於挑選 精選20 個股問題](chapter/guan_yu_tiao_xuan_jing_xuan_20_ge_gu_wen_ti.md)
-       * [45642356](chapter/45642356.md)
 * [Baron's Blog](barons/README.md)
    * [現金股利與股票股利的意義](barons/21.md)
    * [分批買進及單筆買進的優缺點](barons/22.md)
