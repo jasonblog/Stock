@@ -246,7 +246,7 @@
    * [股市之神 是川銀藏](jl/gu_shi_zhi_shen_shi_chuan_yin_cang.md)
    * [道瓊三萬點](jl/dao_qiong_san_wan_dian.md)
    * [一個指標賺遍全世界 fbi教你讀基金術](jl/yi_ge_zhi_biao_zhuan_bian_quan_shi_jie_fbi_jiao_ni.md)
-   * 你沒學到的巴菲特：股神默默在做的事
+   * [你沒學到的巴菲特：股神默默在做的事](jl/ni_mei_xue_dao_de_ba_fei_te_ff1a_gu_shen_mo_mo_zai.md)
 * [心得](Yao/xin_de.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
