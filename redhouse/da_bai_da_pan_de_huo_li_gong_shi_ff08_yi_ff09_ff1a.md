@@ -1,15 +1,9 @@
-# 打敗大盤的獲利公式（一）：價值投資者：喬伊‧葛林布雷 (Joel Greenblatt)的神奇公式 MAGIC FORMULA
-
-# 打敗大盤的獲利公式（一）：價值投資者：喬伊‧葛林布雷 (Joel Greenblatt)的神奇公式 MAGIC FORMULA
 
 
 <article id="post-1050" class="post-1050 post type-post status-publish format-standard category-7 tag-joel-greenblatt tag-magic-formula tag-127 tag-125">
   <header class="entry-header">
     <h1 class="entry-title p-name" itemprop="name headline"><a href="https://redhouse.statementdog.com/archives/1050" class="u-url url" title="Permalink to 打敗大盤的獲利公式（一）：價值投資者：喬伊‧葛林布雷 (Joel Greenblatt)的神奇公式 MAGIC FORMULA" rel="bookmark" itemprop="url">打敗大盤的獲利公式（一）：價值投資者：喬伊‧葛林布雷 (Joel Greenblatt)的神奇公式 MAGIC FORMULA</a></h1>
 
-        <div class="entry-meta">      
-      <span class="sep">Posted on </span><a href="https://redhouse.statementdog.com/archives/1050" title="18:05:49" rel="bookmark" class="url u-url"><time class="entry-date updated published dt-updated dt-published" datetime="2014-05-19T18:05:49+00:00" itemprop="dateModified">2014-05-19</time></a><address class="byline"> <span class="sep"> by </span> <span class="author p-author vcard hcard h-card" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><img alt="" src="https://secure.gravatar.com/avatar/ae789a080899eb3842da29d47620477f?s=40&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ae789a080899eb3842da29d47620477f?s=80&amp;d=mm&amp;r=g 2x" class="u-photo avatar avatar-40 photo" height="40" width="40"> <a class="url uid u-url u-uid fn p-name" href="https://redhouse.statementdog.com/archives/author/redhouse" title="View all posts by 雷浩斯" rel="author" itemprop="url"><span itemprop="name">雷浩斯</span></a></span></address>    </div><!-- .entry-meta -->
-      </header><!-- .entry-header -->
 
       <div class="entry-content e-content" itemprop="description articleBody">
     <p><a href="images/ON-AT181_BA_Gre_G_20110514010543-2.jpg"><img class="alignnone size-full wp-image-1051" src="images/ON-AT181_BA_Gre_G_20110514010543-2.jpg" alt="ON-AT181_BA_Gre_G_20110514010543 2" width="553" height="369" srcset="https://redhouse.statementdog.com/wp-content/uploads/2014/05/ON-AT181_BA_Gre_G_20110514010543-2.jpg 553w, https://redhouse.statementdog.com/wp-content/uploads/2014/05/ON-AT181_BA_Gre_G_20110514010543-2-300x200.jpg 300w" sizes="(max-width: 553px) 100vw, 553px"></a></p>
