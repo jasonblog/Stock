@@ -1,5 +1,7 @@
 # 打敗大盤的獲利公式（一）：價值投資者：喬伊‧葛林布雷 (Joel Greenblatt)的神奇公式 MAGIC FORMULA
 
+# 打敗大盤的獲利公式（一）：價值投資者：喬伊‧葛林布雷 (Joel Greenblatt)的神奇公式 MAGIC FORMULA
+
 
 <article id="post-1050" class="post-1050 post type-post status-publish format-standard category-7 tag-joel-greenblatt tag-magic-formula tag-127 tag-125">
   <header class="entry-header">
@@ -10,13 +12,13 @@
       </header><!-- .entry-header -->
 
       <div class="entry-content e-content" itemprop="description articleBody">
-    <p><a href="http://redhouse.statementdog.com/wp-content/uploads/2014/05/ON-AT181_BA_Gre_G_20110514010543-2.jpg"><img class="alignnone size-full wp-image-1051" src="http://redhouse.statementdog.com/wp-content/uploads/2014/05/ON-AT181_BA_Gre_G_20110514010543-2.jpg" alt="ON-AT181_BA_Gre_G_20110514010543 2" width="553" height="369" srcset="https://redhouse.statementdog.com/wp-content/uploads/2014/05/ON-AT181_BA_Gre_G_20110514010543-2.jpg 553w, https://redhouse.statementdog.com/wp-content/uploads/2014/05/ON-AT181_BA_Gre_G_20110514010543-2-300x200.jpg 300w" sizes="(max-width: 553px) 100vw, 553px"></a></p>
+    <p><a href="images/ON-AT181_BA_Gre_G_20110514010543-2.jpg"><img class="alignnone size-full wp-image-1051" src="images/ON-AT181_BA_Gre_G_20110514010543-2.jpg" alt="ON-AT181_BA_Gre_G_20110514010543 2" width="553" height="369" srcset="https://redhouse.statementdog.com/wp-content/uploads/2014/05/ON-AT181_BA_Gre_G_20110514010543-2.jpg 553w, https://redhouse.statementdog.com/wp-content/uploads/2014/05/ON-AT181_BA_Gre_G_20110514010543-2-300x200.jpg 300w" sizes="(max-width: 553px) 100vw, 553px"></a></p>
 <p>（圖片取自網路）</p>
 <p>喬伊‧葛林布雷 &nbsp;(Joel Greenblatt) 是哥倫比亞大學商學院的教授，他所成立的高譚資本投資（Gotham Capital），年化報酬率有40%，相當驚人。</p>
 <p>我最早知道葛林布雷是看過他寫的<a href="http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015630388969" target="_blank">『打敗大盤的獲利公式』</a>，這本書是the little book系列的書之一，英文原名是『The Little Book that Beats the Market』。</p>
 <p>Ｔhe little book 系列的書都是比較輕鬆好讀一點的書，這本也不例外，此書是他寫的第二本書，難度不會很高，很適合輕鬆閱讀。<br>
 <span id="more-1050"></span></p>
-<p><a href="http://redhouse.statementdog.com/wp-content/uploads/2014/01/2013-09-17-09.28.541.jpg"><img class="alignnone size-full wp-image-613" src="http://redhouse.statementdog.com/wp-content/uploads/2014/01/2013-09-17-09.28.541.jpg" alt="" width="239" height="320" srcset="https://redhouse.statementdog.com/wp-content/uploads/2014/01/2013-09-17-09.28.541.jpg 239w, https://redhouse.statementdog.com/wp-content/uploads/2014/01/2013-09-17-09.28.541-224x300.jpg 224w" sizes="(max-width: 239px) 100vw, 239px"></a></p>
+<p><a href="images/2013-09-17-09.28.541.jpg"><img class="alignnone size-full wp-image-613" src="images/2013-09-17-09.28.541.jpg" alt="" width="239" height="320" srcset="https://redhouse.statementdog.com/wp-content/uploads/2014/01/2013-09-17-09.28.541.jpg 239w, https://redhouse.statementdog.com/wp-content/uploads/2014/01/2013-09-17-09.28.541-224x300.jpg 224w" sizes="(max-width: 239px) 100vw, 239px"></a></p>
 <p>其實葛林布雷更受價值投資者推崇的書是<a href="http://www.books.com.tw/products/CN10759096" target="_blank">『你能成為股市天才』</a>(You Can Be a Stock Market Genius)這本書，這也是他寫的第一本書。根據他本人的說法，這本書啟發了不少避險基金經理人。</p>
 <p>傳奇價值投資者 賽斯・卡拉曼（Seth Klarman）的推薦書單中也有這本書。可惜台灣沒有翻譯本，如果要看只能從<a href="http://www.books.com.tw/products/CN10759096" target="_blank">博客來買簡體版</a>。</p>
 <p>後來看<a href="http://www.books.com.tw/products/0010501935" target="_blank">『大賣空』（The Big Short）</a>的時候，書內的價值投資者麥克貝瑞也讀過『你能成為股市天才』這本書，很有趣的是葛林布雷竟然投資了一百萬美金到麥克貝瑞的傳人基金（Scion Capital），並且稱讚麥克貝瑞：『他實在太出色了，這種人才鳳毛麟角』。</p>
