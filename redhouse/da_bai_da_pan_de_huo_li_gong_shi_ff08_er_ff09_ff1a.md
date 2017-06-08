@@ -3,9 +3,6 @@
   <header class="entry-header">
     <h1 class="entry-title p-name" itemprop="name headline"><a href="https://redhouse.statementdog.com/archives/1069" class="u-url url" title="Permalink to 打敗大盤的獲利公式（二）：盈餘殖利率（Earnings Yeild）找出便宜股 !" rel="bookmark" itemprop="url">打敗大盤的獲利公式（二）：盈餘殖利率（Earnings Yeild）找出便宜股 !</a></h1>
 
-        <div class="entry-meta">      
-      <span class="sep">Posted on </span><a href="https://redhouse.statementdog.com/archives/1069" title="14:41:24" rel="bookmark" class="url u-url"><time class="entry-date updated published dt-updated dt-published" datetime="2014-05-21T14:41:24+00:00" itemprop="dateModified">2014-05-21</time></a><address class="byline"> <span class="sep"> by </span> <span class="author p-author vcard hcard h-card" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><img alt="" src="https://secure.gravatar.com/avatar/ae789a080899eb3842da29d47620477f?s=40&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ae789a080899eb3842da29d47620477f?s=80&amp;d=mm&amp;r=g 2x" class="u-photo avatar avatar-40 photo" height="40" width="40"> <a class="url uid u-url u-uid fn p-name" href="https://redhouse.statementdog.com/archives/author/redhouse" title="View all posts by 雷浩斯" rel="author" itemprop="url"><span itemprop="name">雷浩斯</span></a></span></address>    </div><!-- .entry-meta -->
-      </header><!-- .entry-header -->
 
       <div class="entry-content e-content" itemprop="description articleBody">
       <img src="images/e6-89-93-e6-95-97-e5-a4-a7-e7-9b-a4-e7-9a-84-e7-8d-b2-e5-88-a9-e5-85-ac-e5-bc-8f-e8-8b-b1-e6-96-87-e7-89-88.jpg">
