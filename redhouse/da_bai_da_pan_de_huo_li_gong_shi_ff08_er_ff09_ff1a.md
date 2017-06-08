@@ -8,7 +8,7 @@
       </header><!-- .entry-header -->
 
       <div class="entry-content e-content" itemprop="description articleBody">
-    <p><a href="images/e6-89-93-e6-95-97-e5-a4-a7-e7-9b-a4-e7-9a-84-e7-8d-b2-e5-88-a9-e5-85-ac-e5-bc-8f-e8-8b-b1-e6-96-87-e7-89-88.jpg"><img class="alignnone  wp-image-1070" src="images/e6-89-93-e6-95-97-e5-a4-a7-e7-9b-a4-e7-9a-84-e7-8d-b2-e5-88-a9-e5-85-ac-e5-bc-8f-e8-8b-b1-e6-96-87-e7-89-88-714x1024.jpg" alt="打敗大盤的獲利公式英文版" width="327" height="469" srcset="images/e6-89-93-e6-95-97-e5-a4-a7-e7-9b-a4-e7-9a-84-e7-8d-b2-e5-88-a9-e5-85-ac-e5-bc-8f-e8-8b-b1-e6-96-87-e7-89-88-714x1024.jpg 714w, images/e6-89-93-e6-95-97-e5-a4-a7-e7-9b-a4-e7-9a-84-e7-8d-b2-e5-88-a9-e5-85-ac-e5-bc-8f-e8-8b-b1-e6-96-87-e7-89-88-209x300.jpg 209w, images/e6-89-93-e6-95-97-e5-a4-a7-e7-9b-a4-e7-9a-84-e7-8d-b2-e5-88-a9-e5-85-ac-e5-bc-8f-e8-8b-b1-e6-96-87-e7-89-88-668x958.jpg 668w, images/e6-89-93-e6-95-97-e5-a4-a7-e7-9b-a4-e7-9a-84-e7-8d-b2-e5-88-a9-e5-85-ac-e5-bc-8f-e8-8b-b1-e6-96-87-e7-89-88.jpg 1046w" sizes="(max-width: 327px) 100vw, 327px"></a></p>
+      <img src="images/e6-89-93-e6-95-97-e5-a4-a7-e7-9b-a4-e7-9a-84-e7-8d-b2-e5-88-a9-e5-85-ac-e5-bc-8f-e8-8b-b1-e6-96-87-e7-89-88.jpg">
 <p>(圖片取自網路)</p>
 <p><a href="http://redhouse.statementdog.com/archives/1050" target="_blank">上一篇文章我們提到了葛林布雷的『神奇公式MAGIC FORMULA』</a>，這公式有兩個參數：高 盈餘殖利率（Earnings Yield）和高 資本報酬率（Return on capital），接下來我們來談什麼叫做 盈餘殖利率 （Earnings Yield）</p>
 <p><strong><span style="color: #800000;">什麼叫做 盈餘殖利率（Earnings Yield）？</span></strong></p>
