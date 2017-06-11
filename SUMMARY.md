@@ -179,6 +179,7 @@
    * [買好公司or買好價格？（一）ROE回歸均值下的量化投資策略](redhouse/mai_hao_gong_si_or_mai_hao_jia_ge_ff1f_ff08_yi_ff0.md)
    * [打敗大盤的獲利公式（一）：價值投資者：喬伊‧葛林布雷 (Joel Greenblatt)的神奇公式 MAGIC FORMULA](redhouse/da_bai_da_pan_de_huo_li_gong_shi_ff08_yi_ff09_ff1a.md)
    * [打敗大盤的獲利公式（二）：盈餘殖利率（Earnings Yeild）找出便宜股 !](redhouse/da_bai_da_pan_de_huo_li_gong_shi_ff08_er_ff09_ff1a.md)
+   * 3步驟 撈出被低估的高殖利率好股
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
