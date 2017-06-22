@@ -180,7 +180,7 @@
    * [打敗大盤的獲利公式（一）：價值投資者：喬伊‧葛林布雷 (Joel Greenblatt)的神奇公式 MAGIC FORMULA](redhouse/da_bai_da_pan_de_huo_li_gong_shi_ff08_yi_ff09_ff1a.md)
    * [打敗大盤的獲利公式（二）：盈餘殖利率（Earnings Yeild）找出便宜股 !](redhouse/da_bai_da_pan_de_huo_li_gong_shi_ff08_er_ff09_ff1a.md)
    * [3步驟 撈出被低估的高殖利率好股](redhouse/3bu_zou_lao_chu_bei_di_gu_de_gao_zhi_li_lv_hao_gu.md)
-   * 勝券在握的四大滾雪球投資法的整理表格！
+   * [勝券在握的四大滾雪球投資法的整理表格！](redhouse/sheng_quan_zai_wo_de_si_da_gun_xue_qiu_tou_zi_fa_d.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
