@@ -63,6 +63,7 @@
        * [巴小智 2017.2.24](chapter/ba_xiao_zhi_2017__2__24.md)
        * [假議題? 投資ETF還是一小籃公司股票?](chapter/jia_yi_984c3f_tou_zi_etf_huan_shi_yi_xiao_lan_gong.md)
        * [持有到停利](chapter/chi_you_dao_ting_li.md)
+       * 對於投資新手本人強烈建議買0050ETF
    * [巴小智的投資組合20檔](chapter/ba_xiao_zhi_de_tou_zi_zu_he_20_dang.md)
        * [巴小智的投資組合](chapter/ba_xiao_zhi_de_tou_zi_zu_he.md)
        * [精選20檔-適合防禦型投資人之個股研究](chapter/jing_xuan_20_6a94-_shi_he_fang_yu_xing_tou_zi_ren_.md)
