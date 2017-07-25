@@ -184,7 +184,7 @@
    * [勝券在握的四大滾雪球投資法的整理表格！](redhouse/sheng_quan_zai_wo_de_si_da_gun_xue_qiu_tou_zi_fa_d.md)
    * [從選股到停利，新手入門價值投資五心法！](redhouse/cong_xuan_gu_dao_ting_li_ff0c_xin_shou_ru_men_jia_.md)
    * [被動等待相對低點，投資勝率即可大幅提高！](redhouse/bei_dong_deng_dai_xiang_dui_di_dian_ff0c_tou_zi_sh.md)
-   * 存股買了之後就不用再管了嗎？3狀況提醒你別再傻傻抱股！
+   * [存股買了之後就不用再管了嗎？3狀況提醒你別再傻傻抱股！](redhouse/cun_gu_mai_le_zhi_hou_jiu_bu_yong_zai_guan_le_ma_f.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
