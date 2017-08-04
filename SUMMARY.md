@@ -88,7 +88,7 @@
    * [當母公司被子公司的獲利拖累，該趁機買進還是敬而遠之？](chapter3/dang_mu_gong_si_bei_zi_gong_si_de_huo_li_tuo_lei_f.md)
    * [確認利空原因是否會傷及公司筋骨（艾蜜莉教你自動化存股小資也能年賺15%）](chapter3/que_ren_li_kong_yuan_yin_shi_fou_hui_shang_ji_gong.md)
    * [【如果想要選到「抗跌」的股票，要怎麼選？】](chapter3/3010_ru_guo_xiang_yao_xuan_dao_300c_kang_die_300d_.md)
-   * 他買的股票跌了 50 %，但今年竟然還賺 13 % ？
+   * [他買的股票跌了 50 %，但今年竟然還賺 13 % ？](chapter3/ta_mai_de_gu_piao_die_le_50_ff0c_dan_jin_nian_jing.md)
 * [唐大飛](big/README.md)
    * [尋找投資護城河](big/41.md)
    * [杜大地板理論](big/42.md)
