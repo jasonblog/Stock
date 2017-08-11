@@ -59,6 +59,7 @@
            * [仁寶的投資價值?](chapter/ren_bao_de_tou_zi_jia_503c3f.md)
            * [關於仁寶的投資風險](chapter/guan_yu_ren_bao_de_tou_zi_feng_xian.md)
            * [仁寶與樂視代工貨款問題](chapter/ren_bao_yu_le_shi_dai_gong_huo_kuan_wen_ti.md)
+           * 回首一下三次重大利空發生的時間點
    * [社團](chapter/she_tuan.md)
        * [巴小智 2017.2.24](chapter/ba_xiao_zhi_2017__2__24.md)
        * [假議題? 投資ETF還是一小籃公司股票?](chapter/jia_yi_984c3f_tou_zi_etf_huan_shi_yi_xiao_lan_gong.md)
