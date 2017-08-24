@@ -125,7 +125,7 @@
    * [投資績效要進步, 請把焦點放在資產負債表!](bankernemo/57.md)
    * [三○％安全邊際速算公式 危機入市](bankernemo/58.md)
    * [股票要研究到多深入?](bankernemo/59.md)
-   * 人為什麼要投資股票?
+   * [人為什麼要投資股票?](bankernemo/ren_wei_shi_me_yao_tou_zi_gu_79683f.md)
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
