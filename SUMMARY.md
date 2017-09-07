@@ -127,6 +127,7 @@
    * [股票要研究到多深入?](bankernemo/59.md)
    * [人為什麼要投資股票?](bankernemo/ren_wei_shi_me_yao_tou_zi_gu_79683f.md)
    * [卡拉曼從巴菲特（Warren Buffett）身上學到的12件事](bankernemo/qia_la_man_cong_ba_fei_te_ff08_warren_buffett_ff09.md)
+   * 聊聊致富之道的兩個簡，簡樸和簡單。
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
