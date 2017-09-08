@@ -92,7 +92,7 @@
    * [他買的股票跌了 50 %，但今年竟然還賺 13 % ？](chapter3/ta_mai_de_gu_piao_die_le_50_ff0c_dan_jin_nian_jing.md)
    * [國巨減資加配息 殖利率高達 8%？](chapter3/guo_ju_jian_zi_jia_pei_xi_zhi_li_lv_gao_da_8.md)
    * [【長期投資帳戶的分享】](chapter3/3010_chang_qi_tou_zi_zhang_hu_de_fen_xiang_3011.md)
-   * 【2017/9仁寶買賣記錄】
+   * [【2017/9仁寶買賣記錄】](chapter3/20179ren_bao_mai_mai_ji_lu_3011.md)
 * [唐大飛](big/README.md)
    * [尋找投資護城河](big/41.md)
    * [杜大地板理論](big/42.md)
