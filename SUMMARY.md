@@ -35,7 +35,7 @@
        * [雷大的獲利矩陣分析 運用在巴小智的三十檔個股](2/lei_da_de_huo_li_ju_zhen_fen_xi_yun_yong_zai_ba_xi.md)
        * [『青蛙呱呱呱 亂投資法則』以文找文](2/300e_qing_wa_gu_gu_gu_luan_tou_zi_fa_ze_300f_yi_we.md)
        * [為什麼中長期投資比較容易賺到大波段價差的原因?](2/wei_shi_me_zhong_chang_qi_tou_zi_bi_jiao_rong_yi_z.md)
-       * 蟲出墨 態度，對理財與投資的思考
+       * [蟲出墨 態度，對理財與投資的思考](2/chong_chu_mo_tai_du_ff0c_dui_li_cai_yu_tou_zi_de_s.md)
    * [個股分析](chapter/ge_gu_fen_xi.md)
        * [聯強](chapter/lian_qiang.md)
            * [20173.17](chapter/2017317.md)
