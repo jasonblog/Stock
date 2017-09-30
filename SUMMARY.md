@@ -26,7 +26,7 @@
        * [以平靜的心賺股的投資術](chapter/1913.md)
        * [Abide one's time 等候時機](chapter/1914.md)
        * [個股買賣點的一些看法](chapter/1915.md)
-       * 2017 巴小智公開持股報告書
+       * [2017 巴小智公開持股報告書](chapter/2017_ba_xiao_zhi_gong_kai_chi_gu_bao_gao_shu.md)
    * [分享文章](2/README.md)
        * [致富，你需要的是耐心：當股災來時，眼睛放亮點以文找文](2/1.md)
        * [價值投資與安全邊際](2/2.md)
