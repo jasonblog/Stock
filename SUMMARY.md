@@ -272,7 +272,7 @@
    * [你沒學到的巴菲特：股神默默在做的事](jl/ni_mei_xue_dao_de_ba_fei_te_ff1a_gu_shen_mo_mo_zai.md)
    * [我的資產翻倍存股筆記](jl/wo_de_zi_chan_fan_bei_cun_gu_bi_ji.md)
 * [心得](Yao/xin_de.md)
-   * 簡單股票
+   * [簡單股票](Yao/jian_dan_gu_piao.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
        * [大盤近萬點！已經漲高的績優股還可以追嗎？](qa/da_pan_jin_wan_dian_ff01_yi_jing_zhang_gao_de_ji_y.md)
