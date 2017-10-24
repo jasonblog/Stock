@@ -187,6 +187,7 @@
            * [第7章 控制風險](book/di_7_zhang_kong_zhi_feng_xian.md)
            * [第8章 關注週期](book/di_8_zhang_guan_zhu_zhou_qi.md)
            * [第9章 鐘擺意識](book/di_9_zhang_zhong_bai_yi_shi.md)
+           * 第10章 抵禦消極影響
    * [智慧型股票投資人 by 巴小智](book/zhi_hui_xing_gu_piao_tou_zi_ren_by_ba_xiao_zhi.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
