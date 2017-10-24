@@ -184,6 +184,7 @@
            * [第4章 價格與價值的關係](book/di_4_zhang_jia_ge_yu_jia_zhi_de_guan_xi.md)
            * [第5章 理解風險](book/di_5_zhang_li_jie_feng_xian.md)
            * [第6章 識別風險](book/di_6_zhang_shi_bie_feng_xian.md)
+           * 第7章 控制風險
    * [智慧型股票投資人 by 巴小智](book/zhi_hui_xing_gu_piao_tou_zi_ren_by_ba_xiao_zhi.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
