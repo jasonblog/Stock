@@ -189,6 +189,7 @@
            * [第9章 鐘擺意識](book/di_9_zhang_zhong_bai_yi_shi.md)
            * [第10章 抵禦消極影響](book/di_10_zhang_di_yu_xiao_ji_ying_xiang.md)
            * [第11章 逆向投資](book/di_11_zhang_ni_xiang_tou_zi.md)
+           * 第12章 尋找便宜貨
    * [智慧型股票投資人 by 巴小智](book/zhi_hui_xing_gu_piao_tou_zi_ren_by_ba_xiao_zhi.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
