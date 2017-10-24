@@ -173,7 +173,7 @@
    * [矩陣式存股法閱讀心得 - 單車小子](book/ju_zhen_shi_cun_gu_fa_yue_du_xin_de_-_dan_che_xiao.md)
    * [投資最重要的事](book/tou_zi_zui_zhong_yao_de_shi.md)
        * [霍華馬克斯《投資最重要的事》 – 對「好的不像是真的」抱持懷疑](book/huo_hua_ma_ke_si_300a_tou_zi_zui_zhong_yao_de_shi_.md)
-       * 投資最重要的事 閱讀心得 by 巴小智
+       * [投資最重要的事 閱讀心得 by 巴小智](book/tou_zi_zui_zhong_yao_de_shi_yue_du_xin_de_by_ba_xi.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
