@@ -177,6 +177,7 @@
            * [一本巴菲特讀了兩遍的投資書](book/yi_ben_ba_fei_te_du_le_liang_bian_de_tou_zi_shu.md)
            * [前言與簡介](book/qian_yan_yu_jian_jie.md)
            * [作者簡介](book/zuo_zhe_jian_jie.md)
+           * 你有自己的投資備忘錄嗎？
    * [智慧型股票投資人 by 巴小智](book/zhi_hui_xing_gu_piao_tou_zi_ren_by_ba_xiao_zhi.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
