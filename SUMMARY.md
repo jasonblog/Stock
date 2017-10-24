@@ -180,7 +180,7 @@
            * [你有自己的投資備忘錄嗎？](book/ni_you_zi_ji_de_tou_zi_bei_wang_lu_ma_ff1f.md)
            * [第一章 學習第二層次思維](book/di_yi_zhang_xue_xi_di_er_ceng_ci_si_wei.md)
            * [第二章 理解市場有效性及局限性](book/di_er_zhang_li_jie_shi_chang_you_xiao_xing_ji_ju_x.md)
-           * 第三章 準確估計價值
+           * [第三章 準確估計價值](book/di_san_zhang_zhun_que_gu_ji_jia_zhi.md)
    * [智慧型股票投資人 by 巴小智](book/zhi_hui_xing_gu_piao_tou_zi_ren_by_ba_xiao_zhi.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
