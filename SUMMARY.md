@@ -293,6 +293,7 @@
    * [一個指標賺遍全世界 fbi教你讀基金術](jl/yi_ge_zhi_biao_zhuan_bian_quan_shi_jie_fbi_jiao_ni.md)
    * [你沒學到的巴菲特：股神默默在做的事](jl/ni_mei_xue_dao_de_ba_fei_te_ff1a_gu_shen_mo_mo_zai.md)
    * [我的資產翻倍存股筆記](jl/wo_de_zi_chan_fan_bei_cun_gu_bi_ji.md)
+   * 華倫與成長雙贏實戰
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [心得](Yao/xin_de.md)
