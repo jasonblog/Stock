@@ -238,6 +238,7 @@
    * [新手一定要避開的 4 大投資陷阱](good/xin_shou_yi_ding_yao_bi_kai_de_4_da_tou_zi_xian_ji.md)
    * [不動心投資法6---14年大賺47倍的投資法](good/bu_dong_xin_tou_zi_fa_6_---_14_nian_da_zhuan_47_be.md)
    * [景氣循環股不適合存股  華倫老師](good/jing_qi_xun_huan_gu_bu_shi_he_cun_gu_hua_lun_lao_s.md)
+   * 霍華德·馬克斯備忘錄 2017-01-10：專家觀點 
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
    * [「價值投資人」不要誤認8000點太高](arsin/300c_jia_zhi_tou_zi_ren_300d_bu_yao_wu_ren_8000_di.md)
