@@ -297,7 +297,7 @@
    * [我的資產翻倍存股筆記](jl/wo_de_zi_chan_fan_bei_cun_gu_bi_ji.md)
    * [華倫與成長雙贏實戰](jl/hua_lun_yu_cheng_chang_shuang_ying_shi_zhan.md)
 * [蕾咪](ramihaha/lei_mi.md)
-   * 財務自由投資書單推薦與被動收入實踐心得分享
+   * [財務自由投資書單推薦與被動收入實踐心得分享](ramihaha/cai_wu_zi_you_tou_zi_shu_dan_tui_jian_yu_bei_dong_.md)
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [心得](Yao/xin_de.md)
