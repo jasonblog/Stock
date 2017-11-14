@@ -296,6 +296,7 @@
    * [你沒學到的巴菲特：股神默默在做的事](jl/ni_mei_xue_dao_de_ba_fei_te_ff1a_gu_shen_mo_mo_zai.md)
    * [我的資產翻倍存股筆記](jl/wo_de_zi_chan_fan_bei_cun_gu_bi_ji.md)
    * [華倫與成長雙贏實戰](jl/hua_lun_yu_cheng_chang_shuang_ying_shi_zhan.md)
+* [蕾咪](ramihaha/lei_mi.md)
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [心得](Yao/xin_de.md)
@@ -303,5 +304,4 @@
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
        * [大盤近萬點！已經漲高的績優股還可以追嗎？](qa/da_pan_jin_wan_dian_ff01_yi_jing_zhang_gao_de_ji_y.md)
-* [蕾咪](ramihaha/lei_mi.md)
 
