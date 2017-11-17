@@ -38,7 +38,7 @@
        * [為什麼中長期投資比較容易賺到大波段價差的原因?](2/wei_shi_me_zhong_chang_qi_tou_zi_bi_jiao_rong_yi_z.md)
        * [蟲出墨 態度，對理財與投資的思考](2/chong_chu_mo_tai_du_ff0c_dui_li_cai_yu_tou_zi_de_s.md)
        * [股票投資建議文](2/gu_piao_tou_zi_jian_yi_wen.md)
-       * 第三季季報後,開
+       * 第三季季報後,開始佈局的好時機！
    * [個股分析](chapter/ge_gu_fen_xi.md)
        * [聯強](chapter/lian_qiang.md)
            * [20173.17](chapter/2017317.md)
