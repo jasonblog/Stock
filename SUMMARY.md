@@ -140,7 +140,7 @@
    * [卡拉曼從巴菲特（Warren Buffett）身上學到的12件事](bankernemo/qia_la_man_cong_ba_fei_te_ff08_warren_buffett_ff09.md)
    * [聊聊致富之道的兩個簡，簡樸和簡單。](bankernemo/liao_liao_zhi_fu_zhi_dao_de_liang_ge_jian_ff0c_jia.md)
    * [線上投資聚會筆記20160825](bankernemo/xian_shang_tou_zi_ju_hui_bi_ji_20160825.md)
-   * 巴菲特：如果你每年評估一家企業
+   * [巴菲特：如果你每年評估一家企業](bankernemo/ba_fei_te_ff1a_ru_guo_ni_mei_nian_ping_gu_yi_jia_q.md)
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
