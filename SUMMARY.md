@@ -105,7 +105,7 @@
    * [3分鐘學會用股價淨值比法算出合理價](chapter3/3fen_zhong_xue_hui_yong_gu_jia_jing_zhi_bi_fa_suan.md)
    * [【艾蜜莉盡量避開的 2種股票：金融股、景氣循環股】](chapter3/3010_ai_mi_li_jin_liang_bi_kai_de_2_zhong_gu_piao_.md)
    * [找到 安全穩健的「好股票」！](chapter3/zhao_dao_an_quan_wen_jian_de_300c_hao_gu_piao_300d.md)
-   * 遵守 SOP 5步驟，買進績優好公司、做好資金控管、避開風險，穩健獲利，不再是難事！
+   * [遵守 SOP 5步驟，買進績優好公司、做好資金控管、避開風險，穩健獲利，不再是難事！](chapter3/zun_shou_sop_5_bu_zou_ff0c_mai_jin_ji_you_hao_gong.md)
 * [唐大飛](big/README.md)
    * [尋找投資護城河](big/41.md)
    * [杜大地板理論](big/42.md)
