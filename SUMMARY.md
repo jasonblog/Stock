@@ -309,6 +309,7 @@
    * [JSS-Success外匯投資講座說明會筆記心得 x 蕾咪篩選投資課程的3個小技巧](ramihaha/jss-successwai_hui_tou_zi_jiang_zuo_shuo_ming_hui_.md)
 * [陳重銘](chungming/chen_zhong_ming.md)
    * [不受景氣影響 7個心法賺別人口袋的錢](chungming/bu_shou_jing_qi_ying_xiang_7_ge_xin_fa_zhuan_bie_r.md)
+   * 分散投資
 * [林明樟](MJ1095/lin_ming_zhang.md)
    * [投資界的四個祕密武器](MJ1095/tou_zi_jie_de_si_ge_mi_mi_wu_qi.md)
 * [高森](gao_sen.md)
