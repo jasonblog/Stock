@@ -320,6 +320,7 @@
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
        * [大盤近萬點！已經漲高的績優股還可以追嗎？](qa/da_pan_jin_wan_dian_ff01_yi_jing_zhang_gao_de_ji_y.md)
+* [財報分析入門筆記](Financial/cai_bao_fen_xi_ru_men_bi_ji.md)
 * [財報](Financial/cai_bao.md)
    * [財報分析入門筆記](Financial/cai_bao_fen_xi_ru_men_bi_ji.md)
    * [永遠需要優先看的報表 — 資產負債表（資產篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan.md)
