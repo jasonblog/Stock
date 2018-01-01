@@ -323,5 +323,5 @@
 * [財報](Financial/cai_bao.md)
    * [財報分析入門筆記](Financial/cai_bao_fen_xi_ru_men_bi_ji.md)
    * [永遠需要優先看的報表 — 資產負債表（資產篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan.md)
-   * 永遠需要優先看的報表 — 資產負債表（權益篇）
+   * [永遠需要優先看的報表 — 資產負債表（權益篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan1.md)
 
