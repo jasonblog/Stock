@@ -35,6 +35,8 @@ EPS的公式＝稅後淨利÷股本×10
 淨利率<br>
 
 
+溫國信 : 從近年來的毛利 營收 ROE 股股利變化就知道公司是成長或是衰退
+
 ![](images/net-profit-vs-other1.jpg)
 
 ![](images/41.png)
