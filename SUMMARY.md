@@ -317,6 +317,7 @@
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [心得](Yao/xin_de.md)
+   * 名詞解釋
 * [簡單股票](Yao/jian_dan_gu_piao.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
