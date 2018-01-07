@@ -254,7 +254,7 @@
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
    * [「價值投資人」不要誤認8000點太高](arsin/300c_jia_zhi_tou_zi_ren_300d_bu_yao_wu_ren_8000_di.md)
-   * 「存好股，我穩穩賺」~讀書重點
+   * [「存好股，我穩穩賺」~讀書重點](arsin/300c_cun_hao_gu_ff0c_wo_wen_wen_zhuan_300d7e_du_sh.md)
 * [蔡康榮](jl/cai_kang_rong.md)
    * [華倫老師的存股教室](jl/hua_lun_lao_shi_de_cun_gu_jiao_shi.md)
    * [五大關鍵數字力](jl/wu_da_guan_jian_shu_zi_li.md)
