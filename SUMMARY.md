@@ -148,6 +148,7 @@
    * [線上投資聚會筆記20160825](bankernemo/xian_shang_tou_zi_ju_hui_bi_ji_20160825.md)
    * [巴菲特：如果你每年評估一家企業](bankernemo/ba_fei_te_ff1a_ru_guo_ni_mei_nian_ping_gu_yi_jia_q.md)
    * [銀行家尼莫的投資之旅 會後整理](bankernemo/yin_xing_jia_ni_mo_de_tou_zi_zhi_lv_hui_hou_zheng_.md)
+   * 淺談資產負債表在財報分析的重要性
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
