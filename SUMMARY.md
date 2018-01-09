@@ -335,5 +335,5 @@
    * [如何快速讀懂財務報表？](Financial/ru_he_kuai_su_du_dong_cai_wu_bao_biao_ff1f.md)
    * [11 個必看數字與解讀流程：一分鐘找出「好股票」](Financial/11_ge_bi_kan_shu_zi_yu_jie_du_liu_cheng_ff1a_yi_fe.md)
 * [華倫](hua_lun/hua_lun.md)
-   * 靠零股存到3000萬，華倫老師的存股教室
+   * [靠零股存到3000萬，華倫老師的存股教室](hua_lun/kao_ling_gu_cun_dao_3000_wan_ff0c_hua_lun_lao_shi_.md)
 
