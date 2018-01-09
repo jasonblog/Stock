@@ -312,6 +312,8 @@
 * [蕾咪](ramihaha/lei_mi.md)
    * [財務自由投資書單推薦與被動收入實踐心得分享](ramihaha/cai_wu_zi_you_tou_zi_shu_dan_tui_jian_yu_bei_dong_.md)
    * [JSS-Success外匯投資講座說明會筆記心得 x 蕾咪篩選投資課程的3個小技巧](ramihaha/jss-successwai_hui_tou_zi_jiang_zuo_shuo_ming_hui_.md)
+* [華倫](hua_lun/hua_lun.md)
+   * [靠零股存到3000萬，華倫老師的存股教室](hua_lun/kao_ling_gu_cun_dao_3000_wan_ff0c_hua_lun_lao_shi_.md)
 * [陳重銘](chungming/chen_zhong_ming.md)
    * [不受景氣影響 7個心法賺別人口袋的錢](chungming/bu_shou_jing_qi_ying_xiang_7_ge_xin_fa_zhuan_bie_r.md)
    * [分散投資](chungming/fen_san_tou_zi.md)
@@ -334,6 +336,4 @@
    * [溫國信 財報分析](Financial/wen_guo_xin_cai_bao_fen_xi.md)
    * [如何快速讀懂財務報表？](Financial/ru_he_kuai_su_du_dong_cai_wu_bao_biao_ff1f.md)
    * [11 個必看數字與解讀流程：一分鐘找出「好股票」](Financial/11_ge_bi_kan_shu_zi_yu_jie_du_liu_cheng_ff1a_yi_fe.md)
-* [華倫](hua_lun/hua_lun.md)
-   * [靠零股存到3000萬，華倫老師的存股教室](hua_lun/kao_ling_gu_cun_dao_3000_wan_ff0c_hua_lun_lao_shi_.md)
 
