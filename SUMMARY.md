@@ -332,5 +332,5 @@
    * [資產負債表─企業的財力證明](Financial/zi_chan_fu_zhai_biao_2500_qi_ye_de_cai_li_zheng_mi.md)
    * [資產負債表和損益表的關聯性–有車 有房 沒煩惱？](Financial/zi_chan_fu_zhai_biao_he_sun_yi_biao_de_guan_lian_x.md)
    * [溫國信 財報分析](Financial/wen_guo_xin_cai_bao_fen_xi.md)
-   * 如何快速讀懂財務報表？
+   * [如何快速讀懂財務報表？](Financial/ru_he_kuai_su_du_dong_cai_wu_bao_biao_ff1f.md)
 
