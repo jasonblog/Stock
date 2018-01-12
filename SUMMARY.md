@@ -74,7 +74,7 @@
        * [持有到停利](chapter/chi_you_dao_ting_li.md)
        * [對於投資新手本人強烈建議買0050ETF](chapter/dui_yu_tou_zi_xin_shou_ben_ren_qiang_lie_jian_yi_m.md)
        * [中長期投資者 需要的是](chapter/zhong_chang_qi_tou_zi_zhe_xu_yao_de_shi.md)
-       * 巴大107.01.05筆記
+       * [巴大107.01.05筆記](chapter/ba_da_107__01__05_bi_ji.md)
    * [巴小智的投資組合20檔](chapter/ba_xiao_zhi_de_tou_zi_zu_he_20_dang.md)
        * [巴小智的投資組合](chapter/ba_xiao_zhi_de_tou_zi_zu_he.md)
        * [精選20檔-適合防禦型投資人之個股研究](chapter/jing_xuan_20_6a94-_shi_he_fang_yu_xing_tou_zi_ren_.md)
