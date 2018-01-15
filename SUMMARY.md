@@ -320,6 +320,7 @@
    * [分散投資](chungming/fen_san_tou_zi.md)
 * [林明樟](MJ1095/lin_ming_zhang.md)
    * [投資界的四個祕密武器](MJ1095/tou_zi_jie_de_si_ge_mi_mi_wu_qi.md)
+   * 用生活常識就能看懂財務報表
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [心得](Yao/xin_de.md)
