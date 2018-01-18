@@ -150,7 +150,7 @@
    * [巴菲特：如果你每年評估一家企業](bankernemo/ba_fei_te_ff1a_ru_guo_ni_mei_nian_ping_gu_yi_jia_q.md)
    * [銀行家尼莫的投資之旅 會後整理](bankernemo/yin_xing_jia_ni_mo_de_tou_zi_zhi_lv_hui_hou_zheng_.md)
    * [淺談資產負債表在財報分析的重要性](bankernemo/qian_tan_zi_chan_fu_zhai_biao_zai_cai_bao_fen_xi_d.md)
-   * 價值投資是一套概念簡單實踐複雜的投資技術
+   * [價值投資是一套概念簡單實踐複雜的投資技術](bankernemo/jia_zhi_tou_zi_shi_yi_tao_gai_nian_jian_dan_shi_ji.md)
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
