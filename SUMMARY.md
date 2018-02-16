@@ -347,4 +347,5 @@
    * [財務報表十堂課 by 黃國華](Financial/cai_wu_bao_biao_shi_tang_ke_by_huang_guo_hua.md)
    * [會計觀念篇-財務報表](Financial/hui_ji_guan_nian_7bc7-_cai_wu_bao_biao.md)
    * [資產負債表](Financial/zi_chan_fu_zhai_biao.md)
+       *  資產負債表 (Balance Sheet)
 
