@@ -319,7 +319,7 @@
 * [蕾咪](ramihaha/lei_mi.md)
    * [財務自由投資書單推薦與被動收入實踐心得分享](ramihaha/cai_wu_zi_you_tou_zi_shu_dan_tui_jian_yu_bei_dong_.md)
    * [JSS-Success外匯投資講座說明會筆記心得 x 蕾咪篩選投資課程的3個小技巧](ramihaha/jss-successwai_hui_tou_zi_jiang_zuo_shuo_ming_hui_.md)
-   * 買股都挑
+   * [買股都挑](ramihaha/mai_gu_du_tiao.md)
 * [華倫](hua_lun/hua_lun.md)
    * [靠零股存到3000萬，華倫老師的存股教室](hua_lun/kao_ling_gu_cun_dao_3000_wan_ff0c_hua_lun_lao_shi_.md)
 * [陳重銘](chungming/chen_zhong_ming.md)
