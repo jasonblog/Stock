@@ -112,6 +112,7 @@
    * [遵守 SOP 5步驟，買進績優好公司、做好資金控管、避開風險，穩健獲利，不再是難事！](chapter3/zun_shou_sop_5_bu_zou_ff0c_mai_jin_ji_you_hao_gong.md)
    * [股票分3類 各有適用估價法](chapter3/gu_piao_fen_3_lei_ge_you_shi_yong_gu_jia_fa.md)
    * [股神巴菲特使用的「投資法」竟然分「2 種」！](chapter3/gu_shen_ba_fei_te_shi_yong_de_300c_tou_zi_fa_300d_.md)
+   * 3 分鐘 了解 「股神巴菲特」愛用的投資法
 * [唐大飛](big/README.md)
    * [尋找投資護城河](big/41.md)
    * [杜大地板理論](big/42.md)
