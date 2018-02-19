@@ -241,7 +241,7 @@
    * [存股買了之後就不用再管了嗎？3狀況提醒你別再傻傻抱股！](redhouse/cun_gu_mai_le_zhi_hou_jiu_bu_yong_zai_guan_le_ma_f.md)
    * [學巴菲特看年報：質化分析七大重點一次看完！](redhouse/xue_ba_fei_te_kan_nian_bao_ff1a_zhi_hua_fen_xi_qi_.md)
    * [『股市真規則』書摘：成功投資的五個原則！](redhouse/300e_gu_shi_zhen_gui_ze_300f_shu_zhai_ff08_yi_ff09.md)
-   * 如何閱讀經典投資書，融入自己的投資哲學？
+   * [如何閱讀經典投資書，融入自己的投資哲學？](redhouse/ru_he_yue_du_jing_dian_tou_zi_shu_ff0c_rong_ru_zi_.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
