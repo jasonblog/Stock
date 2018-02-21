@@ -258,7 +258,7 @@
    * [財報狗心得 by 蔡康榮](dog/cai_bao_gou_xin_de_by_cai_kang_rong.md)
 * [阿堯投資筆記](joey980161/a_yao_tou_zi_bi_ji.md)
    * [投資之道讀後心得](joey980161/tou_zi_zhi_dao_du_hou_xin_de.md)
-   * 智慧型股票投資人心得
+   * [智慧型股票投資人心得](joey980161/zhi_hui_xing_gu_piao_tou_zi_ren_xin_de.md)
 * [好文章](good/hao_wen_zhang.md)
    * [龍頭股低買不賣～堅持等到好價錢才進場](good/long_tou_gu_di_mai_bu_mai_ff5e_jian_chi_deng_dao_h.md)
    * [走向完美的投資研究](good/zou_xiang_wan_mei_de_tou_zi_yan_jiu.md)
