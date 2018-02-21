@@ -244,7 +244,7 @@
    * [如何閱讀經典投資書，融入自己的投資哲學？](redhouse/ru_he_yue_du_jing_dian_tou_zi_shu_ff0c_rong_ru_zi_.md)
    * [如何學以致用？透過要點解構，提高輸出功率！](redhouse/ru_he_xue_yi_zhi_yong_ff1f_tou_guo_yao_dian_jie_go.md)
    * [養成多元思維模型，變身贏家！](redhouse/yang_cheng_duo_yuan_si_wei_mo_xing_ff0c_bian_shen_.md)
-   * 巴菲特如何運用《刻意練習》的秘訣？
+   * [巴菲特如何運用《刻意練習》的秘訣？](redhouse/ba_fei_te_ru_he_yun_yong_300a_ke_yi_lian_xi_300b_d.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
