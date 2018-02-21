@@ -247,6 +247,7 @@
    * [巴菲特如何運用《刻意練習》的秘訣？](redhouse/ba_fei_te_ru_he_yun_yong_300a_ke_yi_lian_xi_300b_d.md)
    * [五本書掌握股神投資精髓！](redhouse/wu_ben_shu_zhang_wo_gu_shen_tou_zi_jing_sui_ff01.md)
    * [操盤快思Ｘ投資慢想](redhouse/cao_pan_kuai_si_ff38_tou_zi_man_xiang.md)
+   * 從股神人生三階段學成功關鍵！
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
