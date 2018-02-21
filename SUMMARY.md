@@ -358,4 +358,5 @@
    * [會計觀念篇-財務報表](Financial/hui_ji_guan_nian_7bc7-_cai_wu_bao_biao.md)
    * [資產負債表](Financial/zi_chan_fu_zhai_biao.md)
        * [資產負債表 (Balance Sheet)](Financial/zi_chan_fu_zhai_biao__balance_sheet.md)
+   * 想看懂公司財報，先學會這7個關鍵數字！
 
