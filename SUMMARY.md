@@ -358,5 +358,5 @@
    * [11 個必看數字與解讀流程：一分鐘找出「好股票」](Financial/11_ge_bi_kan_shu_zi_yu_jie_du_liu_cheng_ff1a_yi_fe.md)
    * [財務報表十堂課 by 黃國華](Financial/cai_wu_bao_biao_shi_tang_ke_by_huang_guo_hua.md)
    * [會計觀念篇-財務報表](Financial/hui_ji_guan_nian_7bc7-_cai_wu_bao_biao.md)
-   * 想看懂公司財報，先學會這7個關鍵數字！
+   * [想看懂公司財報，先學會這7個關鍵數字！](Financial/xiang_kan_dong_gong_si_cai_bao_ff0c_xian_xue_hui_z.md)
 
