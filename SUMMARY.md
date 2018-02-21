@@ -346,6 +346,8 @@
    * [艾蜜莉](qa/ai_mi_li.md)
        * [大盤近萬點！已經漲高的績優股還可以追嗎？](qa/da_pan_jin_wan_dian_ff01_yi_jing_zhang_gao_de_ji_y.md)
 * [財報](Financial/cai_bao.md)
+   * [資產負債表](Financial/zi_chan_fu_zhai_biao.md)
+       * [資產負債表 (Balance Sheet)](Financial/zi_chan_fu_zhai_biao__balance_sheet.md)
    * [財報分析入門筆記](Financial/cai_bao_fen_xi_ru_men_bi_ji.md)
    * [永遠需要優先看的報表 — 資產負債表（資產篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan.md)
    * [永遠需要優先看的報表 — 資產負債表（權益篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan1.md)
@@ -356,7 +358,5 @@
    * [11 個必看數字與解讀流程：一分鐘找出「好股票」](Financial/11_ge_bi_kan_shu_zi_yu_jie_du_liu_cheng_ff1a_yi_fe.md)
    * [財務報表十堂課 by 黃國華](Financial/cai_wu_bao_biao_shi_tang_ke_by_huang_guo_hua.md)
    * [會計觀念篇-財務報表](Financial/hui_ji_guan_nian_7bc7-_cai_wu_bao_biao.md)
-   * [資產負債表](Financial/zi_chan_fu_zhai_biao.md)
-       * [資產負債表 (Balance Sheet)](Financial/zi_chan_fu_zhai_biao__balance_sheet.md)
    * 想看懂公司財報，先學會這7個關鍵數字！
 
