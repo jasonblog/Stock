@@ -351,7 +351,7 @@
        * [資產負債表 (Balance Sheet)](Financial/zi_chan_fu_zhai_biao__balance_sheet.md)
        * [想看懂公司的「資產負債表」，先學會這10個數字](Financial/xiang_kan_dong_gong_si_de_300c_zi_chan_fu_zhai_bia.md)
    * [現金流量表](Financial/xian_jin_liu_liang_biao.md)
-       * [ 應收帳款(增)減] 與 [應付帳款增(減)] 在財報上的流動方向
+       * [[ 應收帳款(增)減] 與 [應付帳款增(減)] 在財報上的流動方向](Financial/[_ying_shou_zhang_6b3e28_589e29_6e1b5d_yu_ying_fu_.md)
    * [財報分析入門筆記](Financial/cai_bao_fen_xi_ru_men_bi_ji.md)
    * [永遠需要優先看的報表 — 資產負債表（資產篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan.md)
    * [永遠需要優先看的報表 — 資產負債表（權益篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan1.md)
