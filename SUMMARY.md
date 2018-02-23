@@ -343,7 +343,7 @@
 * [心得](Yao/xin_de.md)
    * [簡單股票](Yao/jian_dan_gu_piao.md)
    * [名詞解釋](Yao/ming_ci_jie_shi.md)
-   * 財報狗選股
+   * [財報狗選股](Yao/cai_bao_gou_xuan_gu.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
        * [大盤近萬點！已經漲高的績優股還可以追嗎？](qa/da_pan_jin_wan_dian_ff01_yi_jing_zhang_gao_de_ji_y.md)
