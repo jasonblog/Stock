@@ -19,3 +19,8 @@
 
 
 - 係藉由不同產業財務比率特性判斷所屬產業 ?? 
+
+
+
+## 參考
+http://www.jerry-finance.com/index.php  // Jerry 財報知識網
