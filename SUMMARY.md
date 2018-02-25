@@ -370,5 +370,5 @@
        * [財報的終極解讀](Financial/cai_bao_de_zhong_ji_jie_du.md)
    * [合併財務數字VS.非合併財務數字](Financial/he_bing_cai_wu_shu_zi_vs_fei_he_bing_cai_wu_shu_zi.md)
    * [心得](Financial/xin_de.md)
-   * 學財報有用嗎？
+   * [學財報有用嗎？](Financial/xue_cai_bao_you_yong_ma_ff1f.md)
 
