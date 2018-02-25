@@ -348,6 +348,7 @@
    * [艾蜜莉](qa/ai_mi_li.md)
        * [大盤近萬點！已經漲高的績優股還可以追嗎？](qa/da_pan_jin_wan_dian_ff01_yi_jing_zhang_gao_de_ji_y.md)
 * [財報](Financial/cai_bao.md)
+   * [學財報有用嗎？](Financial/xue_cai_bao_you_yong_ma_ff1f.md)
    * [資產負債表](Financial/zi_chan_fu_zhai_biao.md)
        * [永遠需要優先看的報表 — 資產負債表（資產篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan.md)
        * [永遠需要優先看的報表 — 資產負債表（權益篇）](Financial/yong_yuan_xu_yao_you_xian_kan_de_bao_biao__zi_chan1.md)
@@ -370,5 +371,4 @@
        * [財報的終極解讀](Financial/cai_bao_de_zhong_ji_jie_du.md)
    * [合併財務數字VS.非合併財務數字](Financial/he_bing_cai_wu_shu_zi_vs_fei_he_bing_cai_wu_shu_zi.md)
    * [心得](Financial/xin_de.md)
-   * [學財報有用嗎？](Financial/xue_cai_bao_you_yong_ma_ff1f.md)
 
