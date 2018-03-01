@@ -212,6 +212,7 @@
            * [第12章 尋找便宜貨](book/di_12_zhang_xun_zhao_bian_yi_huo.md)
    * [智慧型股票投資人 by 巴小智](book/zhi_hui_xing_gu_piao_tou_zi_ren_by_ba_xiao_zhi.md)
    * [超值投資：價值投資贏家的選股策略](book/chao_zhi_tou_zi_ff1a_jia_zhi_tou_zi_ying_jia_de_xu.md)
+   * 華爾街之狼從良記讀後感
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
