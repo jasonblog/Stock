@@ -251,6 +251,7 @@
    * [從股神人生三階段學成功關鍵！](redhouse/cong_gu_shen_ren_sheng_san_jie_duan_xue_cheng_gong.md)
    * [巴菲特的勝券在握之道](redhouse/ba_fei_te_de_sheng_quan_zai_wo_zhi_dao.md)
    * [華爾街之狼從良記：一個價值投資者的旅程](redhouse/hua_er_jie_zhi_lang_cong_liang_ji_ff1a_yi_ge_jia_z.md)
+   * 《葛拉漢教你看懂財務報表》讀書心得
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
