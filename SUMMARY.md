@@ -253,7 +253,7 @@
    * [華爾街之狼從良記：一個價值投資者的旅程](redhouse/hua_er_jie_zhi_lang_cong_liang_ji_ff1a_yi_ge_jia_z.md)
    * [《葛拉漢教你看懂財務報表》讀書心得](redhouse/300a_ge_la_han_jiao_ni_kan_dong_cai_wu_bao_biao_30.md)
    * [誰禁得起景氣榮枯？財務體質佳才值得長久抱股！](redhouse/shui_jin_de_qi_jing_qi_rong_ku_ff1f_cai_wu_ti_zhi_.md)
-   * 讀友蘇正仁：存好股又賺波段，資產配置＋微笑曲線！
+   * [讀友蘇正仁：存好股又賺波段，資產配置＋微笑曲線！](redhouse/du_you_su_zheng_ren_ff1a_cun_hao_gu_you_zhuan_bo_d.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
