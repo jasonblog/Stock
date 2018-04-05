@@ -41,6 +41,7 @@
        * [股票投資建議文](2/gu_piao_tou_zi_jian_yi_wen.md)
        * [第三季季報後,開始佈局的好時機！](2/di_san_ji_ji_bao_5f8c2c_kai_shi_bu_ju_de_hao_shi_j.md)
        * [股災何時來？](2/gu_zai_he_shi_lai_ff1f.md)
+       * 如何預估2347聯強股利範圍？
    * [個股分析](chapter/ge_gu_fen_xi.md)
        * [聯強](chapter/lian_qiang.md)
            * [20173.17](chapter/2017317.md)
