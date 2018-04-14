@@ -380,5 +380,5 @@
    * [Jerry 財報知識網](Financial/jerry_cai_bao_zhi_shi_wang.md)
        * [財報的終極解讀](Financial/cai_bao_de_zhong_ji_jie_du.md)
    * [合併財務數字VS.非合併財務數字](Financial/he_bing_cai_wu_shu_zi_vs_fei_he_bing_cai_wu_shu_zi.md)
-   * 財報陷阱
+   * [財報陷阱](Financial/cai_bao_xian_jing.md)
 
