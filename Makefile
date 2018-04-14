@@ -18,7 +18,7 @@ serve:
 	@gitbook serve
 
 build:
-	@gitbook build --gitbook=2.6
+	@gitbook build --gitbook=2.6.7
 
 clean:
 	rm -fr _book
