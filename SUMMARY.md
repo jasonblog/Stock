@@ -114,7 +114,7 @@
    * [股票分3類 各有適用估價法](chapter3/gu_piao_fen_3_lei_ge_you_shi_yong_gu_jia_fa.md)
    * [股神巴菲特使用的「投資法」竟然分「2 種」！](chapter3/gu_shen_ba_fei_te_shi_yong_de_300c_tou_zi_fa_300d_.md)
    * [3 分鐘 了解 「股神巴菲特」愛用的投資法](chapter3/3_fen_zhong_le_jie_300c_gu_shen_ba_fei_te_300d_ai_.md)
-   * 企業美化財報的手法操
+   * [企業美化財報的手法操](chapter3/qi_ye_mei_hua_cai_bao_de_shou_fa_cao.md)
 * [唐大飛](big/README.md)
    * [尋找投資護城河](big/41.md)
    * [杜大地板理論](big/42.md)
