@@ -71,6 +71,7 @@
            * [企業的營運一直在變動](chapter/qi_ye_de_ying_yun_yi_zhi_zai_bian_dong.md)
        * [創見](chapter/chuang_jian.md)
            * [20171203](chapter/20171203.md)
+       * 廣達
    * [社團](chapter/she_tuan.md)
        * [巴小智 2017.2.24](chapter/ba_xiao_zhi_2017__2__24.md)
        * [假議題? 投資ETF還是一小籃公司股票?](chapter/jia_yi_984c3f_tou_zi_etf_huan_shi_yi_xiao_lan_gong.md)
