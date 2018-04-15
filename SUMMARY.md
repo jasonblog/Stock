@@ -72,7 +72,7 @@
        * [創見](chapter/chuang_jian.md)
            * [20171203](chapter/20171203.md)
        * [廣達](chapter/guang_da.md)
-           * 關於2382 廣達 合理價、便宜價 觀點
+           * [關於2382 廣達 合理價、便宜價 觀點](chapter/guan_yu_2382_guang_da_he_li_jia_3001_bian_yi_jia_g.md)
    * [社團](chapter/she_tuan.md)
        * [巴小智 2017.2.24](chapter/ba_xiao_zhi_2017__2__24.md)
        * [假議題? 投資ETF還是一小籃公司股票?](chapter/jia_yi_984c3f_tou_zi_etf_huan_shi_yi_xiao_lan_gong.md)
