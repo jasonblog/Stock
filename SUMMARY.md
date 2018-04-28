@@ -260,6 +260,7 @@
    * [讀友蘇正仁：存好股又賺波段，資產配置＋微笑曲線！](redhouse/du_you_su_zheng_ren_ff1a_cun_hao_gu_you_zhuan_bo_d.md)
    * [強大財務持久力的三項要素](redhouse/qiang_da_cai_wu_chi_jiu_li_de_san_xiang_yao_su.md)
    * [再談ROE杜邦方程式：一知半解會吃大虧](redhouse/zai_tan_roe_du_bang_fang_cheng_shi_ff1a_yi_zhi_ban.md)
+   * 投資複利的力量要配合80/20的法則才能夠徹底提高威力!
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
