@@ -262,7 +262,7 @@
    * [再談ROE杜邦方程式：一知半解會吃大虧](redhouse/zai_tan_roe_du_bang_fang_cheng_shi_ff1a_yi_zhi_ban.md)
    * [投資複利的力量要配合80/20的法則才能夠徹底提高威力!](redhouse/tou_zi_fu_li_de_li_liang_yao_pei_he_80__20_de_fa_z.md)
    * [台灣五十ETF 的兩個結構性缺點！](redhouse/tai_wan_wu_shi_etf_de_liang_ge_jie_gou_xing_que_di.md)
-   * 中型100（排除金融）獲利能力矩陣分析！
+   * [中型100（排除金融）獲利能力矩陣分析！](redhouse/zhong_xing_100_ff08_pai_chu_jin_rong_ff09_huo_li_n.md)
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
