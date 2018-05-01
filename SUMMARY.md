@@ -357,7 +357,7 @@
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [小樂](allenslifestyle/xiao_le.md)
-   * 超越祖魯法則摘記
+   * [超越祖魯法則摘記](allenslifestyle/chao_yue_zu_lu_fa_ze_zhai_ji.md)
 * [心得](Yao/xin_de.md)
    * [簡單股票](Yao/jian_dan_gu_piao.md)
    * [名詞解釋](Yao/ming_ci_jie_shi.md)
