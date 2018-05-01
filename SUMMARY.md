@@ -356,7 +356,7 @@
    * [用生活常識就能看懂財務報表](MJ1095/yong_sheng_huo_chang_shi_jiu_neng_kan_dong_cai_wu_.md)
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
-* 小樂
+* [小樂](allenslifestyle/xiao_le.md)
 * [心得](Yao/xin_de.md)
    * [簡單股票](Yao/jian_dan_gu_piao.md)
    * [名詞解釋](Yao/ming_ci_jie_shi.md)
