@@ -393,5 +393,5 @@
    * [財報陷阱](Financial/cai_bao_xian_jing.md)
 * [技術面](technology/ji_shu_mian.md)
    * [多空操作秘笈](technology/duo_kong_cao_zuo_mi_ji.md)
-   * 多空操作秘笈
+   * 多空操作秘笈心得
 
