@@ -397,5 +397,5 @@
    * [獻給想踏進金融操作的初學者【投資寶庫精華版】](technology/xian_gei_xiang_ta_jin_jin_rong_cao_zuo_de_chu_xue_.md)
    * [王醫師的投資建議](technology/wang_yi_shi_de_tou_zi_jian_yi.md)
    * [全職投資好嗎?](technology/quan_zhi_tou_zi_hao_55ce3f.md)
-   * 致富長期贏家論方法策略
+   * [致富長期贏家論方法策略](technology/zhi_fu_chang_qi_ying_jia_lun_fang_fa_ce_lve.md)
 
