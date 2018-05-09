@@ -398,5 +398,5 @@
    * [王醫師的投資建議](technology/wang_yi_shi_de_tou_zi_jian_yi.md)
    * [全職投資好嗎?](technology/quan_zhi_tou_zi_hao_55ce3f.md)
    * [致富長期贏家論方法策略](technology/zhi_fu_chang_qi_ying_jia_lun_fang_fa_ce_lve.md)
-   * 投資三部曲~及多空操作秘笈 
+   * [投資三部曲~及多空操作秘笈](technology/tou_zi_san_bu_66f27e_ji_duo_kong_cao_zuo_mi_ji.md)
 
