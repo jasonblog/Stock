@@ -394,5 +394,5 @@
 * [技術面](technology/ji_shu_mian.md)
    * [多空操作秘笈](technology/duo_kong_cao_zuo_mi_ji.md)
    * [多空操作秘笈心得](technology/duo_kong_cao_zuo_mi_ji_xin_de.md)
-   * 獻給想踏進金融操作的初學者【投資寶庫精華版】
+   * [獻給想踏進金融操作的初學者【投資寶庫精華版】](technology/xian_gei_xiang_ta_jin_jin_rong_cao_zuo_de_chu_xue_.md)
 
