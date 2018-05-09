@@ -392,5 +392,5 @@
    * [合併財務數字VS.非合併財務數字](Financial/he_bing_cai_wu_shu_zi_vs_fei_he_bing_cai_wu_shu_zi.md)
    * [財報陷阱](Financial/cai_bao_xian_jing.md)
 * [技術面](technology/ji_shu_mian.md)
-   * 多空操作秘笈
+   * [多空操作秘笈](technology/duo_kong_cao_zuo_mi_ji.md)
 
