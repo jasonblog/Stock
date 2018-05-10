@@ -400,5 +400,5 @@
    * [致富長期贏家論方法策略](technology/zhi_fu_chang_qi_ying_jia_lun_fang_fa_ce_lve.md)
    * [投資三部曲~及多空操作秘笈](technology/tou_zi_san_bu_66f27e_ji_duo_kong_cao_zuo_mi_ji.md)
    * [多空操作秘笈 by 王醫生](technology/duo_kong_cao_zuo_mi_ji_by_wang_yi_sheng.md)
-   * 台灣頂級炒股高手羅威的十年總結
+   * [台灣頂級炒股高手羅威的十年總結](technology/tai_wan_ding_ji_chao_gu_gao_shou_luo_wei_de_shi_ni.md)
 
