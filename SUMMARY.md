@@ -160,6 +160,7 @@
    * [淺談資產負債表在財報分析的重要性](bankernemo/qian_tan_zi_chan_fu_zhai_biao_zai_cai_bao_fen_xi_d.md)
    * [價值投資是一套概念簡單實踐複雜的投資技術](bankernemo/jia_zhi_tou_zi_shi_yi_tao_gai_nian_jian_dan_shi_ji.md)
    * [雜談](bankernemo/za-tan.md)
+   * 寶勝，難得回沖
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
