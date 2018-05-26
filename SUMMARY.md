@@ -382,7 +382,7 @@
        * [\[ 應收帳款\(增\)減\] 與 \[應付帳款增\(減\)\] 在財報上的流動方向](Financial/[_ying_shou_zhang_6b3e28_589e29_6e1b5d_yu_ying_fu_.md)
        * [不專業財務報表學習筆記 - 現金流量表](Financial/bu_zhuan_ye_cai_wu_bao_biao_xue_xi_bi_ji_-_xian_ji.md)
        * [現金流量表分析-營運現金流量](Financial/xian_jin_liu_liang_biao_fen_6790-_ying_yun_xian_ji.md)
-       * 判斷一間企業是否持續燒錢
+       * [判斷一間企業是否持續燒錢](Financial/pan_duan_yi_jian_qi_ye_shi_fou_chi_xu_shao_qian.md)
    * [財報分析入門筆記](Financial/cai_bao_fen_xi_ru_men_bi_ji.md)
    * [資產負債表和損益表的關聯性–有車 有房 沒煩惱？](Financial/zi_chan_fu_zhai_biao_he_sun_yi_biao_de_guan_lian_x.md)
    * [溫國信 財報分析](Financial/wen_guo_xin_cai_bao_fen_xi.md)
