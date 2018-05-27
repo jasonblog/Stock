@@ -1,5 +1,9 @@
 # 價值投資七大法則
 
+![](images/JUU3JUIwJUExJUU1JUEwJUIxMjAxODA0MjAwMTE=.jpg)
+
+
+
 巴菲特名言：「第一條規則：永遠不要虧損；第二條規則：永遠不要忘記第一條。」
 
 ```sh
