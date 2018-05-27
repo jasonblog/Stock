@@ -1,7 +1,6 @@
 # Summary
 
 * [投資心路與理念](README.md)
-   * 洪鑑穩
 * [巴小智](chapter/README.md)
    * [巴小智口袋名單](chapter/11.md)
    * [大型股A+區](chapter/rgerger.md)
