@@ -411,5 +411,5 @@
    * [高ROE+低盈再率](Michael/gaoroe_di_ying_zai_lv.md)
    * [盈再率](Michael/ying_zai_lv.md)
    * [盈再率跟您想的不一樣](Michael/ying_zai_lv_gen_nin_xiang_de_bu_yi_yang.md)
-   * 巴菲特選股神功-重點整理
+   * [巴菲特選股神功-重點整理](Michael/ba_fei_te_xuan_gu_shen_529f-_zhong_dian_zheng_li.md)
 
