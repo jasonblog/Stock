@@ -407,4 +407,5 @@
    * [台灣頂級炒股高手羅威的十年總結](technology/tai_wan_ding_ji_chao_gu_gao_shou_luo_wei_de_shi_ni.md)
 * [洪鑑穩](iqvalue/hong_jian_wen.md)
    * [價值投資七大法則](iqvalue/xuan_gu_fang_shi.md)
+* 洪瑞泰
 
