@@ -409,4 +409,5 @@
    * [價值投資七大法則](iqvalue/xuan_gu_fang_shi.md)
 * [洪瑞泰](Michael/hong_rui_tai.md)
    * [高ROE+低盈再率](Michael/gaoroe_di_ying_zai_lv.md)
+   * 盈再率
 
