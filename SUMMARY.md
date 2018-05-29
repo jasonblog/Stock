@@ -415,4 +415,5 @@
 * [選股指標](pointer/xuan_gu_zhi_biao.md)
    * [自由現金流與盈再率](pointer/zi_you_xian_jin_liu_yu_ying_zai_lv.md)
    * [自由現金流量結論下錯](pointer/zi_you_xian_jin_liu_liang_jie_lun_xia_cuo.md)
+   * 流動比率(Current Ratio) 和 速動比率(Quick Ratio)
 
