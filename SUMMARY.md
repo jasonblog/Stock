@@ -162,7 +162,7 @@
    * [雜談](bankernemo/za-tan.md)
    * [寶勝，難得回沖](bankernemo/bao_sheng_ff0c_nan_de_hui_chong.md)
    * [持股幾檔比較適合](bankernemo/chi_gu_ji_dang_bi_jiao_shi_he.md)
-   * 財報是這樣看的
+   * [財報是這樣看的](bankernemo/cai_bao_shi_zhe_yang_kan_de.md)
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
