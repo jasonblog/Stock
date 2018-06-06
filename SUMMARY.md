@@ -361,6 +361,7 @@
    * [投資界的四個祕密武器](MJ1095/tou_zi_jie_de_si_ge_mi_mi_wu_qi.md)
    * [用生活常識就能看懂財務報表](MJ1095/yong_sheng_huo_chang_shi_jiu_neng_kan_dong_cai_wu_.md)
 * [陳喬泓](joe0717/chen_qiao_hong.md)
+   * 通常研究一檔股票
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [小樂](allenslifestyle/xiao_le.md)
