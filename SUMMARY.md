@@ -360,6 +360,7 @@
 * [林明樟](MJ1095/lin_ming_zhang.md)
    * [投資界的四個祕密武器](MJ1095/tou_zi_jie_de_si_ge_mi_mi_wu_qi.md)
    * [用生活常識就能看懂財務報表](MJ1095/yong_sheng_huo_chang_shi_jiu_neng_kan_dong_cai_wu_.md)
+* [陳喬泓](joe0717/chen_qiao_hong.md)
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [小樂](allenslifestyle/xiao_le.md)
@@ -418,5 +419,4 @@
    * [自由現金流與盈再率](pointer/zi_you_xian_jin_liu_yu_ying_zai_lv.md)
    * [自由現金流量結論下錯](pointer/zi_you_xian_jin_liu_liang_jie_lun_xia_cuo.md)
    * [流動比率(Current Ratio) 和 速動比率(Quick Ratio)](pointer/liu_dong_bi_738728_current_ratio__he_su_dong_bi_73.md)
-* [陳喬泓](joe0717/chen_qiao_hong.md)
 
