@@ -414,6 +414,7 @@
        * [財報的終極解讀](Financial/cai_bao_de_zhong_ji_jie_du.md)
    * [合併財務數字VS.非合併財務數字](Financial/he_bing_cai_wu_shu_zi_vs_fei_he_bing_cai_wu_shu_zi.md)
    * [財報陷阱](Financial/cai_bao_xian_jing.md)
+   * 折舊會產生現金嗎？為何現金流量表視折舊為現金流量的加項？
 * [心得](Yao/xin_de.md)
    * [簡單股票](Yao/jian_dan_gu_piao.md)
    * [名詞解釋](Yao/ming_ci_jie_shi.md)
