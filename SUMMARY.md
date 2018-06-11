@@ -427,4 +427,5 @@
 * [aaronhychen](aaronhychen/aaronhychen.md)
    * [論買進與賣出的重要性(上)](aaronhychen/lun_mai_jin_yu_mai_chu_de_zhong_yao_602728_4e0a29.md)
    * [論買進與賣出的重要性(下)](aaronhychen/lun_mai_jin_yu_mai_chu_de_zhong_yao_602728_4e0b29.md)
+   * 關於反向投資
 
