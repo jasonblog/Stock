@@ -424,5 +424,5 @@
    * [自由現金流與盈再率](pointer/zi_you_xian_jin_liu_yu_ying_zai_lv.md)
    * [自由現金流量結論下錯](pointer/zi_you_xian_jin_liu_liang_jie_lun_xia_cuo.md)
    * [流動比率(Current Ratio) 和 速動比率(Quick Ratio)](pointer/liu_dong_bi_738728_current_ratio__he_su_dong_bi_73.md)
-* aaronhychen
+* [aaronhychen](aaronhychen/aaronhychen.md)
 
