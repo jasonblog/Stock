@@ -428,5 +428,5 @@
    * [論買進與賣出的重要性(上)](aaronhychen/lun_mai_jin_yu_mai_chu_de_zhong_yao_602728_4e0a29.md)
    * [論買進與賣出的重要性(下)](aaronhychen/lun_mai_jin_yu_mai_chu_de_zhong_yao_602728_4e0b29.md)
    * [關於反向投資](aaronhychen/guan_yu_fan_xiang_tou_zi.md)
-   * 投資之前要做的準備
+   * [投資之前要做的準備](aaronhychen/tou_zi_zhi_qian_yao_zuo_de_zhun_bei.md)
 
