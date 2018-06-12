@@ -426,10 +426,4 @@
    * [自由現金流與盈再率](pointer/zi_you_xian_jin_liu_yu_ying_zai_lv.md)
    * [自由現金流量結論下錯](pointer/zi_you_xian_jin_liu_liang_jie_lun_xia_cuo.md)
    * [流動比率(Current Ratio) 和 速動比率(Quick Ratio)](pointer/liu_dong_bi_738728_current_ratio__he_su_dong_bi_73.md)
-* [aaronhychen](aaronhychen/aaronhychen.md)
-   * [論買進與賣出的重要性(上)](aaronhychen/lun_mai_jin_yu_mai_chu_de_zhong_yao_602728_4e0a29.md)
-   * [論買進與賣出的重要性(下)](aaronhychen/lun_mai_jin_yu_mai_chu_de_zhong_yao_602728_4e0b29.md)
-   * [關於反向投資](aaronhychen/guan_yu_fan_xiang_tou_zi.md)
-   * [投資之前要做的準備](aaronhychen/tou_zi_zhi_qian_yao_zuo_de_zhun_bei.md)
-   * [以股東的心態投資股票](aaronhychen/yi_gu_dong_de_xin_tai_tou_zi_gu_piao.md)
 
