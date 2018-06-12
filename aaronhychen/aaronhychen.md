@@ -1,4 +1,0 @@
-# aaronhychen
-
-
-https://aaronhychen.com/
