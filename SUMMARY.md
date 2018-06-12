@@ -109,6 +109,7 @@
    * [護城河與質化分析(上)](barons/hu_cheng_he_yu_zhi_hua_fen_679028_4e0a29.md)
    * [護城河與質化分析(下)](barons/hu_cheng_he_yu_zhi_hua_fen_679028_4e0b29.md)
    * [關於效率市場假說](barons/guan_yu_xiao_lv_shi_chang_jia_shuo.md)
+   * 選擇自己要投資的市場
 * [艾蜜莉](chapter3/README.md)
    * [小資女艾蜜莉の投資SOP無私分享](chapter3/31.md)
    * [當母公司被子公司的獲利拖累，該趁機買進還是敬而遠之？](chapter3/dang_mu_gong_si_bei_zi_gong_si_de_huo_li_tuo_lei_f.md)
