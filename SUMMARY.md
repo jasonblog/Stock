@@ -105,6 +105,7 @@
    * [演繹分析：使股票報酬率最大化的因素](barons/yan_yi_fen_xi_ff1a_shi_gu_piao_bao_chou_lv_zui_da_.md)
    * [ROA的意義與公司的成長性](barons/roade_yi_yi_yu_gong_si_de_cheng_chang_xing.md)
    * [再論現金股利與股票股利](barons/zai_lun_xian_jin_gu_li_yu_gu_piao_gu_li.md)
+   * 論投資中的歸納與演繹
 * [艾蜜莉](chapter3/README.md)
    * [小資女艾蜜莉の投資SOP無私分享](chapter3/31.md)
    * [當母公司被子公司的獲利拖累，該趁機買進還是敬而遠之？](chapter3/dang_mu_gong_si_bei_zi_gong_si_de_huo_li_tuo_lei_f.md)
