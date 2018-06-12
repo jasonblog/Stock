@@ -106,6 +106,7 @@
    * [ROA的意義與公司的成長性](barons/roade_yi_yi_yu_gong_si_de_cheng_chang_xing.md)
    * [再論現金股利與股票股利](barons/zai_lun_xian_jin_gu_li_yu_gu_piao_gu_li.md)
    * [論投資中的歸納與演繹](barons/lun_tou_zi_zhong_de_gui_na_yu_yan_yi.md)
+   * 護城河與質化分析(上)
 * [艾蜜莉](chapter3/README.md)
    * [小資女艾蜜莉の投資SOP無私分享](chapter3/31.md)
    * [當母公司被子公司的獲利拖累，該趁機買進還是敬而遠之？](chapter3/dang_mu_gong_si_bei_zi_gong_si_de_huo_li_tuo_lei_f.md)
