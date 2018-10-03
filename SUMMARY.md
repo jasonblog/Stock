@@ -81,7 +81,7 @@
        * [中長期投資者 需要的是](chapter/zhong_chang_qi_tou_zi_zhe_xu_yao_de_shi.md)
        * [巴大107.01.05筆記](chapter/ba_da_107__01__05_bi_ji.md)
        * [創見 股價的疑惑](chapter/chuang_jian_gu_jia_de_yi_huo.md)
-       * 107.10.03蘇正仁分享巴大看法
+       * [107.10.03蘇正仁分享巴大看法](chapter/1071003su_zheng_ren_fen_xiang_ba_da_kan_fa.md)
    * [巴小智的投資組合20檔](chapter/ba_xiao_zhi_de_tou_zi_zu_he_20_dang.md)
        * [巴小智的投資組合](chapter/ba_xiao_zhi_de_tou_zi_zu_he.md)
        * [精選20檔-適合防禦型投資人之個股研究](chapter/jing_xuan_20_6a94-_shi_he_fang_yu_xing_tou_zi_ren_.md)
