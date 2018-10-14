@@ -132,7 +132,7 @@
    * [價值投資始祖葛拉漢 30年平均獲利20%解密：買得便宜\(不虧本\)、買得安全\(少負債\)，還要分散風險！](chapter3/jia_zhi_tou_zi_shi_zu_ge_la_han_30_nian_ping_jun_h.md)
    * [淨利為正，就保證公司不會破產嗎？](chapter3/jing_li_wei_zheng_ff0c_jiu_bao_zheng_gong_si_bu_hu.md)
    * [減資分 3種，絕對不是每種減資都是利多！](chapter3/jian_zi_fen_3_zhong_ff0c_jue_dui_bu_shi_mei_zhong_.md)
-   * 「10 元 ~ 80 元」的股票最好
+   * [「10 元 ~ 80 元」的股票最好](chapter3/10_yuan_~_80_yuan_300d_de_gu_piao_zui_hao.md)
 * [唐大飛](big/README.md)
    * [尋找投資護城河](big/41.md)
    * [杜大地板理論](big/42.md)
