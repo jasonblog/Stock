@@ -384,6 +384,8 @@
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [小樂](allenslifestyle/xiao_le.md)
    * [超越祖魯法則摘記](allenslifestyle/chao_yue_zu_lu_fa_ze_zhai_ji.md)
+* [tivo168](tivo168/tivo168.md)
+   * [彼得‧林區的暴跌應對之道](tivo168/bi_de_2027_lin_qu_de_bao_die_ying_dui_zhi_dao.md)
 * [QA](qa/qa/qamd.md)
    * [艾蜜莉](qa/ai_mi_li.md)
        * [大盤近萬點！已經漲高的績優股還可以追嗎？](qa/da_pan_jin_wan_dian_ff01_yi_jing_zhang_gao_de_ji_y.md)
@@ -443,6 +445,4 @@
    * [自由現金流量結論下錯](pointer/zi_you_xian_jin_liu_liang_jie_lun_xia_cuo.md)
    * [流動比率\(Current Ratio\) 和 速動比率\(Quick Ratio\)](pointer/liu_dong_bi_738728_current_ratio__he_su_dong_bi_73.md)
    * [資產報酬率（ROA）、股東權益報酬率（ROE）](pointer/zi_chan_bao_chou_lv_ff08_roa_ff09_3001_gu_dong_qua.md)
-* [tivo168](tivo168/tivo168.md)
-   * [彼得‧林區的暴跌應對之道](tivo168/bi_de_2027_lin_qu_de_bao_die_ying_dui_zhi_dao.md)
 
