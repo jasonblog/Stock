@@ -383,7 +383,7 @@
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [Mr_Market](mrmarket/mrmarket.md)
-   * 彼得林區選股戰略》10句投資經典語錄
+   * [彼得林區選股戰略》10句投資經典語錄](mrmarket/bi_de_lin_qu_xuan_gu_zhan_lve_300b_10_ju_tou_zi_ji.md)
 * [小樂](allenslifestyle/xiao_le.md)
    * [超越祖魯法則摘記](allenslifestyle/chao_yue_zu_lu_fa_ze_zhai_ji.md)
 * [tivo168](tivo168/tivo168.md)
