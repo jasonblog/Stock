@@ -383,6 +383,7 @@
 * [高森](gao_sen.md)
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [孫慶龍](luckylong/sun_qing_long.md)
+   * 技術面選股
 * [Mr_Market](mrmarket/mrmarket.md)
    * [彼得林區選股戰略》10句投資經典語錄](mrmarket/bi_de_lin_qu_xuan_gu_zhan_lve_300b_10_ju_tou_zi_ji.md)
 * [小樂](allenslifestyle/xiao_le.md)
