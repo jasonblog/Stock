@@ -7,7 +7,7 @@
 <div>
 	<div><span style="font-size: 18px;">北京新浪網 (2007-03-01 09:22)</span>
 	</div>
-	<p><img src="https://pic.pimg.tw/tivo168/1452163983-3466984618_n.jpg" original="https://pic.pimg.tw/tivo168/1452163983-3466984618_n.jpg"><br>
+	<p><img src="./images/1452163983-3466984618_n.jpg" original="./images/1452163983-3466984618_n.jpg"><br>
 	</p>
 	<div><span style="font-size: 18px;">2007年2月27日，中國股市上演『黑色星期二』，深成指大跌9.29%，上証指數跌 幅也高達8.84%，分別創下兩市近10年來的最大單日跌幅，滬深300指數下跌9.24%，接近跌停，一個交易日兩市市值損失超過了1萬億。<span style="color: rgb(255, 0, 0);">面對如此暴跌，每個人都首先會問一個問題：為什麼？</span></span>
 	</div>
