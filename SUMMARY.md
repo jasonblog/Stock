@@ -386,7 +386,7 @@
    * [技術面選股](luckylong/ji_shu_mian_xuan_gu.md)
 * [Mr_Market](mrmarket/mrmarket.md)
    * [彼得林區選股戰略》10句投資經典語錄](mrmarket/bi_de_lin_qu_xuan_gu_zhan_lve_300b_10_ju_tou_zi_ji.md)
-   * 《一個投機者的告白》一分鐘快速心得與導讀分享
+   * [《一個投機者的告白》一分鐘快速心得與導讀分享](mrmarket/300a_yi_ge_tou_ji_zhe_de_gao_bai_300b_yi_fen_zhong.md)
 * [小樂](allenslifestyle/xiao_le.md)
    * [超越祖魯法則摘記](allenslifestyle/chao_yue_zu_lu_fa_ze_zhai_ji.md)
 * [tivo168](tivo168/tivo168.md)
