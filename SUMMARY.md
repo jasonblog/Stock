@@ -412,7 +412,7 @@
    * [盈再率](Michael/ying_zai_lv.md)
    * [盈再率跟您想的不一樣](Michael/ying_zai_lv_gen_nin_xiang_de_bu_yi_yang.md)
    * [巴菲特選股神功-重點整理](Michael/ba_fei_te_xuan_gu_shen_529f-_zhong_dian_zheng_li.md)
-   * 七項財務指標分辨好公司 (淺論篇)
+   * [七項財務指標分辨好公司 (淺論篇)](Michael/qi_xiang_cai_wu_zhi_biao_fen_bian_hao_gong_si_qian.md)
 * [洪鑑穩](iqvalue/hong_jian_wen.md)
    * [價值投資七大法則](iqvalue/xuan_gu_fang_shi.md)
 * [財報](Financial/cai_bao.md)
