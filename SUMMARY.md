@@ -414,7 +414,7 @@
    * [巴菲特選股神功-重點整理](Michael/ba_fei_te_xuan_gu_shen_529f-_zhong_dian_zheng_li.md)
    * [七項財務指標分辨好公司 (淺論篇)](Michael/qi_xiang_cai_wu_zhi_biao_fen_bian_hao_gong_si_qian.md)
    * [七項財務指標分辨好公司 (深論篇)](Michael/qi_xiang_cai_wu_zhi_biao_fen_bian_hao_gong_si_shen.md)
-   * 【中美貿易戰即將結束?】 
+   * [【中美貿易戰即將結束?】](Michael/3010_zhong_mei_mao_yi_zhan_ji_jiang_jie_675f3f_301.md)
 * [洪鑑穩](iqvalue/hong_jian_wen.md)
    * [價值投資七大法則](iqvalue/xuan_gu_fang_shi.md)
 * [財報](Financial/cai_bao.md)
