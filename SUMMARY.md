@@ -415,7 +415,7 @@
    * [七項財務指標分辨好公司 (淺論篇)](Michael/qi_xiang_cai_wu_zhi_biao_fen_bian_hao_gong_si_qian.md)
    * [七項財務指標分辨好公司 (深論篇)](Michael/qi_xiang_cai_wu_zhi_biao_fen_bian_hao_gong_si_shen.md)
    * [【中美貿易戰即將結束?】](Michael/3010_zhong_mei_mao_yi_zhan_ji_jiang_jie_675f3f_301.md)
-   *  總經觀察指標 2018 / 10 / 22
+   * [總經觀察指標 2018 / 10 / 22](Michael/zong_jing_guan_cha_zhi_biao_2018__10__22.md)
 * [洪鑑穩](iqvalue/hong_jian_wen.md)
    * [價值投資七大法則](iqvalue/xuan_gu_fang_shi.md)
 * [財報](Financial/cai_bao.md)
