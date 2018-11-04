@@ -419,7 +419,7 @@
    * [總經觀察指標 2018 / 10 / 22](Michael/zong_jing_guan_cha_zhi_biao_2018__10__22.md)
    * [智股網口袋名單](Michael/zhi_gu_wang_kou_dai_ming_dan.md)
    * [【中美貿易戰即將結束?】](Michael/3010_zhong_mei_mao_yi_zhan_ji_jiang_jie_675f3f_301.md)
-   * 【修正≠熊市，該進場了嗎?】
+   * [【修正≠熊市，該進場了嗎?】](iqvalue/3010_xiu_zheng_2260_xiong_shi_ff0c_gai_jin_chang_l.md)
 * [財報](Financial/cai_bao.md)
    * [學財報有用嗎？](Financial/xue_cai_bao_you_yong_ma_ff1f.md)
    * [心得](Financial/xin_de.md)
