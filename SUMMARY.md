@@ -295,6 +295,7 @@
    * [關於利率上漲對於金控業的影響](bonddealerbook/guan_yu_li_lv_shang_zhang_dui_yu_jin_kong_ye_de_yi.md)
    * [總大黃國華擇股流程介紹](bonddealerbook/zong_da_huang_guo_hua_ze_gu_liu_cheng_jie_shao.md)
    * [用總幹事的 10個選股流程](bonddealerbook/yong_zong_gan_shi_de_10_ge_xuan_gu_liu_cheng.md)
+   * 2018年兩大特殊政經族群
 * [財報狗](dog/cai_bao_gou.md)
    * [2013十大飆股 – 財報與產業分析](dog/2013shi_da_biao_gu__cai_bao_yu_chan_ye_fen_xi.md)
    * [財報狗心得 by 蔡康榮](dog/cai_bao_gou_xin_de_by_cai_kang_rong.md)
