@@ -299,6 +299,7 @@
 * [財報狗](dog/cai_bao_gou.md)
    * [2013十大飆股 – 財報與產業分析](dog/2013shi_da_biao_gu__cai_bao_yu_chan_ye_fen_xi.md)
    * [財報狗心得 by 蔡康榮](dog/cai_bao_gou_xin_de_by_cai_kang_rong.md)
+   * 因應中美貿易戰的持股對策
 * [阿堯投資筆記](joey980161/a_yao_tou_zi_bi_ji.md)
    * [投資之道讀後心得](joey980161/tou_zi_zhi_dao_du_hou_xin_de.md)
    * [智慧型股票投資人心得](joey980161/zhi_hui_xing_gu_piao_tou_zi_ren_xin_de.md)
