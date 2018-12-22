@@ -182,7 +182,7 @@
    * [財報是這樣看的](bankernemo/cai_bao_shi_zhe_yang_kan_de.md)
    * [學習初會提升財報閱讀力](bankernemo/xue_xi_chu_hui_ti_sheng_cai_bao_yue_du_li.md)
    * [績優股夢想家](bankernemo/ji_you_gu_meng_xiang_jia.md)
-       * 2018公益演講心得文之一BY李兄
+       * [2018公益演講心得文之一BY李兄](bankernemo/2018gong_yi_yan_jiang_xin_de_wen_zhi_yi_by_li_xion.md)
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
