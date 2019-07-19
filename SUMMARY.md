@@ -464,7 +464,7 @@
    * [名詞解釋](Yao/ming_ci_jie_shi.md)
    * [財報狗選股](Yao/cai_bao_gou_xuan_gu.md)
    * [題材股](Yao/Yao/ti_cai_gu.md)
-   * 成長股
+   * [成長股](Yao/Yao/cheng_chang_gu.md)
 * [選股指標](pointer/xuan_gu_zhi_biao.md)
    * [自由現金流與盈再率](pointer/zi_you_xian_jin_liu_yu_ying_zai_lv.md)
    * [自由現金流量結論下錯](pointer/zi_you_xian_jin_liu_liang_jie_lun_xia_cuo.md)
