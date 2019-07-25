@@ -394,6 +394,7 @@
    * [類似專業投資者的樣子](sen_kao/lei_si_zhuan_ye_tou_zi_zhe_de_yang_zi.md)
 * [孫慶龍](luckylong/sun_qing_long.md)
    * [技術面選股](luckylong/ji_shu_mian_xuan_gu.md)
+   * 高手看現金流量表，以豐達科(3004)為例!
 * [Mr_Market](mrmarket/mrmarket.md)
    * [彼得林區選股戰略》10句投資經典語錄](mrmarket/bi_de_lin_qu_xuan_gu_zhan_lve_300b_10_ju_tou_zi_ji.md)
    * [《一個投機者的告白》一分鐘快速心得與導讀分享](mrmarket/300a_yi_ge_tou_ji_zhe_de_gao_bai_300b_yi_fen_zhong.md)
