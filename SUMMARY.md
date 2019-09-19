@@ -185,7 +185,7 @@
        * [2018公益演講心得文之一BY李兄](bankernemo/2018gong_yi_yan_jiang_xin_de_wen_zhi_yi_by_li_xion.md)
        * [2018公益演講心得文之二BY黃兄](bankernemo/2018gong_yi_yan_jiang_xin_de_wen_zhi_er_by_huang_x.md)
    * [孟格和巴菲特如何評價分散投資或集中投資](bankernemo/meng_ge_he_ba_fei_te_ru_he_ping_jia_fen_san_tou_zi.md)
-   * 成長股考驗耐心
+   * [成長股考驗耐心](bankernemo/cheng_chang_gu_kao_yan_nai_xin.md)
 * [財務報表分析（Financial statements analysis）](fsa/README.md)
    * [操盤人教你看財務報表重點整理](fsa/61.md)
 * [讀書心得](book/README.md)
