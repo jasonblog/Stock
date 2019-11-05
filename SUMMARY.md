@@ -480,5 +480,5 @@
    * [資產報酬率（ROA）、股東權益報酬率（ROE）](pointer/zi_chan_bao_chou_lv_ff08_roa_ff09_3001_gu_dong_qua.md)
 * [選擇權](Option/xuan_ze_quan.md)
    * [選擇權搖錢樹 專業投資 | 選擇權教學](Option/xuan_ze_quan_yao_qian_shu_zhuan_ye_tou_zi__xuan_ze.md)
-* BOS巴菲特
+* [BOS巴菲特](BOS/bosba_fei_te.md)
 
