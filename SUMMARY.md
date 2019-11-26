@@ -293,6 +293,7 @@
    * [中型100（排除金融）獲利能力矩陣分析！](redhouse/zhong_xing_100_ff08_pai_chu_jin_rong_ff09_huo_li_n.md)
    * [投資只要學兩件事情：如何評估一家企業以及如何思考市場](redhouse/tou_zi_zhi_yao_xue_liang_jian_shi_qing_ff1a_ru_he_.md)
    * [如果巴菲特是台灣人，他可能會買哪些股票？](redhouse/ru_guo_ba_fei_te_shi_tai_wan_ren_ff0c_ta_ke_neng_h.md)
+   * 巴菲特選股法，從『資本支出』額度，篩出三種不同等級『自由現金流』的公司！
 * [黃國華](bonddealerbook/huang_guo_hua.md)
    * [價值投資法的盲點與缺點（一）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_yi.md)
    * [價值投資法的盲點與缺點（二）](bonddealerbook/jia_zhi_tou_zi_fa_de_mang_dian_yu_que_dian_ff08_er.md)
