@@ -481,6 +481,7 @@
    * [流動比率\(Current Ratio\) 和 速動比率\(Quick Ratio\)](pointer/liu_dong_bi_738728_current_ratio__he_su_dong_bi_73.md)
    * [資產報酬率（ROA）、股東權益報酬率（ROE）](pointer/zi_chan_bao_chou_lv_ff08_roa_ff09_3001_gu_dong_qua.md)
 * [市場求生手冊](maikefeng/shi_chang_qiu_sheng_shou_ce.md)
+   * 入門：白痴基本面選股法
 * [選擇權](Option/xuan_ze_quan.md)
    * [選擇權搖錢樹 專業投資 | 選擇權教學](Option/xuan_ze_quan_yao_qian_shu_zhuan_ye_tou_zi__xuan_ze.md)
 * [BOS巴菲特](BOS/bosba_fei_te.md)
