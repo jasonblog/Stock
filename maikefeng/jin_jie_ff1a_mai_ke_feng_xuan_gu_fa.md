@@ -83,15 +83,21 @@ b.在股價上漲一定程度，PE提高時(eg.PE>16)開始使用移動停利，
 
 當然也可以自己去設定想要的條件，以下為簡易教學：
 
-1. 進入撿股讚（http://stock.wespai.com/）首頁後，點選左上方的撿股區
 
-2. 選擇平均指標，點選「3年平均ROE」、「3年平均配息」
+1. 進入撿股讚（http://stock.wespai.com/）首頁後，點選左上方的撿股區
+![](images/assets_-LtET6TDCVmUjH1zesyw_-LtMt-8TMDibEfzUSBB2_-LtMt59bdoO9hH6Kgn9O_wespai1.jpg)
+
+2.  選擇平均指標，點選「3年平均ROE」、「3年平均配息」
+![](images/assets_-LtET6TDCVmUjH1zesyw_-LtMt9eQuSbgtq-rSEg8_-LtMtWC-gcwZBZGg9S2l_wespai2.jpg)
 
 3. 選擇殖利率資料，點選「以3年平均現金股利換算殖利率」
+![](images/assets_-LtET6TDCVmUjH1zesyw_-LtMt9eQuSbgtq-rSEg8_-LtMtaT1oJG-RlhiBnpf_wespai3.jpg)
 
 4. 畫面往下拉，調整過濾的數值後，點選「已選擇4個指標」
+![](images/assets_-LtET6TDCVmUjH1zesyw_-LtMt9eQuSbgtq-rSEg8_-LtMtdTGAmspPDS7_uCI_wespai4.jpg)
 
 5. 清單跑出來後，點選「以3年平均現金股利換算殖利率」兩次，讓清單從殖利率高的開始排
+![](images/assets_-LtET6TDCVmUjH1zesyw_-LtMt9eQuSbgtq-rSEg8_-LtMtsQG1n49LHNqtzXF_wespai5.jpg)
 
 
 最後還是要強調，這樣篩出來的只是口袋清單，實際在建構投資組合的時候還是要做更多分析。
