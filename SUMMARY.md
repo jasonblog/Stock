@@ -487,5 +487,5 @@
    * [選擇權搖錢樹 專業投資 | 選擇權教學](Option/xuan_ze_quan_yao_qian_shu_zhuan_ye_tou_zi__xuan_ze.md)
 * [BOS巴菲特](BOS/bosba_fei_te.md)
 * [美股投資](US_STOCK/mei_gu_tou_zi.md)
-   * 全球最強生活概念股!一次帶你認識10家最強企業
+   * [全球最強生活概念股!一次帶你認識10家最強企業](US_STOCK/quan_qiu_zui_qiang_sheng_huo_gai_nian_80a121_yi_ci.md)
 
