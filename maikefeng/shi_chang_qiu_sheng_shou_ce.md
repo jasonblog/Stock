@@ -24,5 +24,7 @@
 3. 看週線圖的量
 
 
+## 減碼
+- 
 
 https://www.youtube.com/watch?v=h8kEJGK7gMA
