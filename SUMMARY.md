@@ -479,6 +479,7 @@
    * [自由現金流量結論下錯](pointer/zi_you_xian_jin_liu_liang_jie_lun_xia_cuo.md)
    * [流動比率\(Current Ratio\) 和 速動比率\(Quick Ratio\)](pointer/liu_dong_bi_738728_current_ratio__he_su_dong_bi_73.md)
    * [資產報酬率（ROA）、股東權益報酬率（ROE）](pointer/zi_chan_bao_chou_lv_ff08_roa_ff09_3001_gu_dong_qua.md)
+   * Goodinfo
 * [市場求生手冊](maikefeng/shi_chang_qiu_sheng_shou_ce.md)
    * [入門：白痴基本面選股法](maikefeng/ru_men_ff1a_bai_chi_ji_ben_mian_xuan_gu_fa.md)
    * [進階：麥克風選股法](maikefeng/jin_jie_ff1a_mai_ke_feng_xuan_gu_fa.md)
