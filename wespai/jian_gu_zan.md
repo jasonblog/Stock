@@ -1,6 +1,5 @@
 # 撿股讚
 
-https://stock.wespai.com/p/8097
 
 
 ## 溫國信選股法
@@ -8,3 +7,5 @@ https://stock.wespai.com/p/8097
 - (年)股東權益報酬率(ROE)(%)介於15 ~ 100　 
 - 5年平均配息介於1 ~ 50　 
 - (年)每股淨值(元)介於10 ~ 3000
+
+https://stock.wespai.com/p/8097
