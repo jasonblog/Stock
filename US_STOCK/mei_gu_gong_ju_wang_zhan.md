@@ -58,6 +58,6 @@
 ###[Dataroma](https://dataroma.com/m/home.php)
 整理各大師的持股組合,網站介面簡潔清爽,而且完全免費。
 
-###OpenInsider
+###[OpenInsider](http://openinsider.com/)
 查詢內部人持股變化的網站,不論買進或賣出都會即時顯示,內部人通常比一般投資人更早預期未來獲利變
 化,因此內部人持股變化是很值得參考的。
