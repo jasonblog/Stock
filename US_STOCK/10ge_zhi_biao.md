@@ -19,3 +19,6 @@
 - IPO date > 10 years
 
 ![](images/1510452404-2552649047_l.png)
+
+
+https://finviz.com/screener.ashx?v=111&f=fa_debteq_u1,fa_eps5years_o10,fa_estltgrowth_o10,fa_fpe_u20,fa_grossmargin_o20,fa_netmargin_o5,fa_opermargin_o10,fa_roe_o15,fa_sales5years_o10,ipodate_more10&ft=2
