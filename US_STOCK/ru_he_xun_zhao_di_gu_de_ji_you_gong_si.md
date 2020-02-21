@@ -56,3 +56,48 @@ https://docs.google.com/spreadsheets/d/14HWrd3TK4JLH7NUGsUyICa6k5V71TuCtC17nww4L
 確認公司過去財務比率穩定向上後，接者閱讀公司年報(10-K)及股東會通知(DEF 14A)，可至美國SEC網站下載。
 
 讀公司年報為的是了解公司商業模式及競爭力，讀股東會通知為的是了解公司經營階層，有關公司資料的蒐集是越完善越好，蒐集程度因人而異，與個人生活經驗比較有關，只要蒐集到「股價下跌也不怕」的程度就可以了。
+
+
+
+# finviz 篩選程式
+
+
+```sh
+https://github.com/mariostoev/finviz
+```
+
+- Installation finviz
+    - pip install finviz 
+
+
+```py
+from finviz.screener import Screener
+
+filters = ['fa_eps5years_pos', 'fa_pe_u20' ,'fa_roa_o5', 'fa_sales5years_pos', 'idx_sp500']  # Shows companies in NASDAQ which are in the S&P500
+# Get the first 50 results sorted by price ascending
+stock_list = Screener(filters=filters, order='price')
+
+# Export the screener results to .csv
+stock_list.to_csv()
+
+# Create a SQLite database
+stock_list.to_sqlite('./aa')
+
+#for stock in stock_list[9:19]:  # Loop through 10th - 20th stocks
+#    print(stock['Ticker'], stock['Price']) # Print symbol and price
+#
+## Add more filters
+#stock_list.add(filters=['fa_div_high'])  # Show stocks with high dividend yield
+## or just stock_list(filters=['fa_div_high'])
+#
+## Print the table into the console
+#print(stock_list)
+```
+
+- Installation sqlitebrowser
+    -  sudo apt-get install sqlitebrowser
+    
+
+
+- Browse sqite data
+    -  sqlitebrowser aa
