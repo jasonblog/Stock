@@ -55,7 +55,7 @@
         data-chapter-title="如何尋找低估的績優公司"
         data-filepath="US_STOCK/ru_he_xun_zhao_di_gu_de_ji_you_gong_si.md"
         data-basepath=".."
-        data-revision="Sat Feb 22 2020 03:12:21 GMT+0800 (CST)"
+        data-revision="Sat Feb 22 2020 03:28:55 GMT+0800 (CST)"
         data-innerlanguage="">
     
 
@@ -7762,7 +7762,7 @@
                         
                             <b>38.4.</b>
                         
-                        美股工具網站
+                        美股資源
                     </a>
             
             
@@ -7873,6 +7873,12 @@
                     <section class="normal" id="section-">
                     
                         <h1 id="&#x5982;&#x4F55;&#x5C0B;&#x627E;&#x4F4E;&#x4F30;&#x7684;&#x7E3E;&#x512A;&#x516C;&#x53F8;">&#x5982;&#x4F55;&#x5C0B;&#x627E;&#x4F4E;&#x4F30;&#x7684;&#x7E3E;&#x512A;&#x516C;&#x53F8;</h1>
+<p>finviz &#x8A2D;&#x5B9A;&#x7B2C;&#x4E00;&#x7D44; &#x6A19;&#x6E96;&#x9078;&#x80A1;
+<a href="http://finviz.com/screener.ashx?v=111&amp;f=fa_debteq_u0.6,fa_div_pos,fa_eps5years_pos,fa_epsyoy_pos,fa_roa_pos,fa_roe_o15,geo_usa,sh_avgvol_o1000,sh_curvol_o1000&amp;ft=4&amp;o=ticker" target="_blank">http://finviz.com/screener.ashx?v=111&amp;f=fa_debteq_u0.6,fa_div_pos,fa_eps5years_pos,fa_epsyoy_pos,fa_roa_pos,fa_roe_o15,geo_usa,sh_avgvol_o1000,sh_curvol_o1000&amp;ft=4&amp;o=ticker</a></p>
+<p>finviz &#x8A2D;&#x5B9A;&#x7B2C;&#x4E8C;&#x7D44; &#x6A19;&#x6E96;&#x9078;&#x80A1;+pe&lt;15
+<a href="http://finviz.com/screener.ashx?v=111&amp;f=fa_debteq_u0.6,fa_div_pos,fa_eps5years_pos,fa_epsyoy_pos,fa_pe_u15,fa_roa_pos,fa_roe_o15,geo_usa,sh_avgvol_o1000,sh_curvol_o1000&amp;ft=4&amp;o=ticker" target="_blank">http://finviz.com/screener.ashx?v=111&amp;f=fa_debteq_u0.6,fa_div_pos,fa_eps5years_pos,fa_epsyoy_pos,fa_pe_u15,fa_roa_pos,fa_roe_o15,geo_usa,sh_avgvol_o1000,sh_curvol_o1000&amp;ft=4&amp;o=ticker</a></p>
+<p>finviz &#x8A2D;&#x5B9A;&#x7B2C;&#x4E09;&#x7D44; &#x9AD8;&#x6B96;&#x5229;&#x7387;
+<a href="http://finviz.com/screener.ashx?v=111&amp;f=fa_debteq_u0.8,fa_div_veryhigh,fa_eps5years_pos,fa_epsyoy_pos,fa_roe_pos,geo_usa&amp;ft=4&amp;o=ticker" target="_blank">http://finviz.com/screener.ashx?v=111&amp;f=fa_debteq_u0.8,fa_div_veryhigh,fa_eps5years_pos,fa_epsyoy_pos,fa_roe_pos,geo_usa&amp;ft=4&amp;o=ticker</a></p>
 <p>&#x5982;&#x4F55;&#x5C0B;&#x627E;&#x4F4E;&#x4F30;&#x7684;&#x7E3E;&#x512A;&#x516C;&#x53F8;
 &#x7531;&#x65BC;&#x7F8E;&#x570B;&#x6709;6000&#x591A;&#x5BB6;&#x516C;&#x53F8;&#xFF0C;&#x4E00;&#x6642;&#x4E4B;&#x9593;&#x53EF;&#x80FD;&#x4E0D;&#x77E5;&#x9053;&#x8981;&#x6295;&#x8CC7;&#x54EA;&#x5BB6;&#x516C;&#x53F8;&#xFF0C;&#x53EF;&#x7528;&#x4E0B;&#x5217;&#x9078;&#x80A1;&#x7DB2;&#x7AD9;Finviz&#xFF0C;&#x4E26;&#x8A2D;&#x5B9A;&#x4E0B;&#x5217;&#x689D;&#x4EF6;:</p>
 <pre><code>1.SP500&#x6307;&#x6578;&#x6210;&#x5206;&#x80A1;:&#x4EE3;&#x8868;&#x516C;&#x53F8;&#x5927;&#x5230;&#x4E0D;&#x80FD;&#x5012;
@@ -7914,7 +7920,33 @@
 
 filters = [<span class="hljs-string">&apos;fa_eps5years_pos&apos;</span>, <span class="hljs-string">&apos;fa_pe_u20&apos;</span> ,<span class="hljs-string">&apos;fa_roa_o5&apos;</span>, <span class="hljs-string">&apos;fa_sales5years_pos&apos;</span>, <span class="hljs-string">&apos;idx_sp500&apos;</span>]  <span class="hljs-comment"># Shows companies in NASDAQ which are in the S&amp;P500</span>
 <span class="hljs-comment"># Get the first 50 results sorted by price ascending</span>
-stock_list = Screener(filters=filters, order=<span class="hljs-string">&apos;price&apos;</span>)
+<span class="hljs-comment"># </span>
+
+<span class="hljs-string">&apos;&apos;&apos;
+def __init__(self, tickers=None, filters=None, rows=None, order=&apos;&apos;, signal=&apos;&apos;, table=None, custom=None):
+    &quot;&quot;&quot;
+    Initilizes all variables to its values
+
+    :param tickers: collection of ticker strings eg.: [&apos;AAPL&apos;, &apos;AMD&apos;, &apos;WMT&apos;]
+    :type tickers: list
+    :param filters: collection of filters strings eg.: [&apos;exch_nasd&apos;, &apos;idx_sp500&apos;, &apos;fa_div_none&apos;]
+    :type filters: list
+    :param rows: total number of rows to get
+    :type rows: int
+    :param order: table order eg.: &apos;-price&apos; (to sort table by descending price)
+    :type order: str
+    :param signal: show by signal eg.: &apos;n_majornews&apos; (for stocks with major news)
+    :type signal: str
+    :param table: table type eg.: &apos;Performance&apos;
+    :type table: str
+    :param custom: collection of custom columns eg.: [&apos;1&apos;, &apos;21&apos;, &apos;23&apos;, &apos;45&apos;]
+    :type custom: list
+    :var self.data: list of dictionaries containing row data
+    :type self.data: list
+    &quot;&quot;&quot;
+&apos;&apos;&apos;</span>
+
+stock_list = Screener(filters=filters, order=<span class="hljs-string">&apos;price&apos;</span>, table=<span class="hljs-string">&apos;Valuation&apos;</span>)
 
 <span class="hljs-comment"># Export the screener results to .csv</span>
 stock_list.to_csv()
