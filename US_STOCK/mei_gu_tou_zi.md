@@ -18,6 +18,3 @@ https://www.moneydj.com/ETF/X/Basic/Basic0003.xdjhtm?etfid=PFF
 - http://hclovenote.blogspot.com/2015/01/etfbacktest-20150111.html
 
 
-## CNBC
-
-https://www.cnbc.com/stock-screener/
