@@ -16,7 +16,7 @@
 
 ###安全指標: 
 - 債股比Debt /Equity < 1  
-- IPO date > 10 years
+- IPO date > 10 years  ;上市超過10年
 
 ![](images/1510452404-2552649047_l.png)
 
