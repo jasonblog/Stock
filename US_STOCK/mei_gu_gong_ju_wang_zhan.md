@@ -12,10 +12,12 @@
 ##基本面
 ###[MoneyDJ](https://money.moneydj.com/us/basic/basic0001/KO)
 可以看到公司在做什麼業務的中文網站,連結以可口可樂為例,更改網址股票代號,即可查詢不同公司。
+
+### [CNBC](https://www.cnbc.com/stock-screener/)
+
 ###[Moody](https://www.moodys.com/)
 
 
-## [CNBC](https://www.cnbc.com/stock-screener/)
 
 
 可以查詢公司信評走勢的地方,也有一些免費信評報告可以下載,可以學習信評公司怎麼評估償債能力,如
