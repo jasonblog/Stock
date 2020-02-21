@@ -1,5 +1,42 @@
-# 美股工具網站
+# 美股資源
 
+##價值投資資源 
+
+###Value Investing College Investors Group
+https://www.facebook.com/groups/valueinvestingcollege/videos/
+
+###VIC價值投資學院中文組/价值投资学院 (Value Investing College Chinese Investors Group)
+https://www.facebook.com/groups/taiwanvic/?fref=ts
+
+###MorningStar 
+http://financials.morningstar.com/ratios/r.html?t=AAPL
+
+###巴菲特的投資組合
+https://www.gurufocus.com/StockBuy.php?GuruName=Warren+Buffett&rec=2
+
+###CNYES鉅亨網
+http://www.cnyes.com/usastock/
+
+--------------------------------------------------
+
+###finviz 設定第一組 標準選股
+http://finviz.com/screener.ashx?v=111&f=fa_debteq_u0.6,fa_div_pos,fa_eps5years_pos,fa_epsyoy_pos,fa_roa_pos,fa_roe_o15,geo_usa,sh_avgvol_o1000,sh_curvol_o1000&ft=4&o=ticker
+
+###finviz 設定第二組 標準選股+pe<15
+http://finviz.com/screener.ashx?v=111&f=fa_debteq_u0.6,fa_div_pos,fa_eps5years_pos,fa_epsyoy_pos,fa_pe_u15,fa_roa_pos,fa_roe_o15,geo_usa,sh_avgvol_o1000,sh_curvol_o1000&ft=4&o=ticker
+
+###finviz 設定第三組 高殖利率
+http://finviz.com/screener.ashx?v=111&f=fa_debteq_u0.8,fa_div_veryhigh,fa_eps5years_pos,fa_epsyoy_pos,fa_roe_pos,geo_usa&ft=4&o=ticker
+
+###價值投資評估系統 - 護城河 / PIEC / RISK
+
+http://richfree1226.blogspot.tw/search?q=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87%E8%A9%95%E4%BC%B0%E7%B3%BB%E7%B5%B1
+
+###finviz 設定美股 選項 
+http://finviz.com/screener.ashx?v=111&f=geo_usa&ft=4&o=ticker
+
+
+---
 
 ##總體經濟
 ###[Fred](https://fred.stlouisfed.org/)
