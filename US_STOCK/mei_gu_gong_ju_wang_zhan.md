@@ -1,5 +1,15 @@
 # 美股資源
 
+
+## 常用
+
+- CNBC 基本面
+    -  https://www.cnbc.com/stock-screener/
+- 股利篩選
+    - https://www.dividend.com/dividend-stock-screener/
+- 技術面篩選
+    - https://finviz.com/screener.ashx
+
 ##價值投資資源 
 
 ###Value Investing College Investors Group
