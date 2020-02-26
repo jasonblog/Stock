@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.gitbook.com	TRUE	/	FALSE	1999999999	__cfduid	d9acda7ce51142caff3e92a82572dec021582382946
+app.gitbook.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
