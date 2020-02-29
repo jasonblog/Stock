@@ -244,6 +244,7 @@
    * [超值投資：價值投資贏家的選股策略](book/chao_zhi_tou_zi_ff1a_jia_zhi_tou_zi_ying_jia_de_xu.md)
    * [華爾街之狼從良記讀後感](book/hua_er_jie_zhi_lang_cong_liang_ji_du_hou_gan.md)
    * [安全邊際 Margin of Safety by Seth Klarman (valuepartnersblog)](book/an_quan_bian_ji_margin_of_safety_by_seth_klarman__.md)
+   * 景氣循環投資
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
