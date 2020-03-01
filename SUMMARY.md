@@ -487,7 +487,7 @@
    * [價值選股加季線控制水位](maikefeng/jia_zhi_xuan_gu_jia_ji_xian_kong_zhi_shui_wei.md)
 * [選擇權](Option/xuan_ze_quan.md)
    * [選擇權搖錢樹 專業投資 | 選擇權教學](Option/xuan_ze_quan_yao_qian_shu_zhuan_ye_tou_zi__xuan_ze.md)
-   * 選 擇 權 名 詞 解 釋
+   * [選 擇 權 名 詞 解 釋](Option/xuan_ze_quan_ming_ci_jie_shi.md)
 * [撿股讚](wespai/jian_gu_zan.md)
 * [BOS巴菲特](BOS/bosba_fei_te.md)
 * [美股投資](US_STOCK/mei_gu_tou_zi.md)
