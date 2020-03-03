@@ -245,7 +245,7 @@
    * [華爾街之狼從良記讀後感](book/hua_er_jie_zhi_lang_cong_liang_ji_du_hou_gan.md)
    * [安全邊際 Margin of Safety by Seth Klarman (valuepartnersblog)](book/an_quan_bian_ji_margin_of_safety_by_seth_klarman__.md)
    * [景氣循環投資](book/jing_qi_xun_huan_tou_zi.md)
-       * 洞悉轉折密碼，佈局長線獲利
+       * [洞悉轉折密碼，佈局長線獲利](book/dong_xi_zhuan_zhe_mi_ma_ff0c_bu_ju_chang_xian_huo_.md)
    * [投機客養成教育](book/tou_ji_ke_yang_cheng_jiao_yu.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
