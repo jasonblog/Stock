@@ -488,6 +488,7 @@
    * [入門：白痴基本面選股法](maikefeng/ru_men_ff1a_bai_chi_ji_ben_mian_xuan_gu_fa.md)
    * [進階：麥克風選股法](maikefeng/jin_jie_ff1a_mai_ke_feng_xuan_gu_fa.md)
    * [價值選股加季線控制水位](maikefeng/jia_zhi_xuan_gu_jia_ji_xian_kong_zhi_shui_wei.md)
+   * 上班族懶人投資法：低檔價值選股、高檔順勢操作
 * [選擇權](Option/xuan_ze_quan.md)
    * [選 擇 權 名 詞 解 釋](Option/xuan_ze_quan_ming_ci_jie_shi.md)
    * [選擇權搖錢樹 專業投資 | 選擇權教學](Option/xuan_ze_quan_yao_qian_shu_zhuan_ye_tou_zi__xuan_ze.md)
