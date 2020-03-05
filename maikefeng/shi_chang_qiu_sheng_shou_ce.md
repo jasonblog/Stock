@@ -110,6 +110,9 @@ https://www.youtube.com/watch?v=h8kEJGK7gMA
 
 ##  補充
 
+### 起漲股票特點
+- 股價創新高 & 成交帶量
+
 
 ###二低一高原則 追求相對報酬
  
