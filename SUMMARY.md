@@ -247,7 +247,7 @@
    * [景氣循環投資](book/jing_qi_xun_huan_tou_zi.md)
        * [洞悉轉折密碼，佈局長線獲利](book/dong_xi_zhuan_zhe_mi_ma_ff0c_bu_ju_chang_xian_huo_.md)
    * [投機客養成教育](book/tou_ji_ke_yang_cheng_jiao_yu.md)
-   * 專業投機原理
+   * [專業投機原理](book/zhuan_ye_tou_ji_yuan_li.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
