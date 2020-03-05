@@ -27,6 +27,7 @@
 ## 減碼 or 出清
 - 大盤跌破季線 ＆ OTC跌破季線
 
+https://www.youtube.com/watch?v=h8kEJGK7gMA
 
 ##  補充
 
@@ -128,5 +129,3 @@
 
 
 
-
-https://www.youtube.com/watch?v=h8kEJGK7gMA
