@@ -477,6 +477,7 @@
    * [題材股](Yao/Yao/ti_cai_gu.md)
    * [成長股](Yao/Yao/cheng_chang_gu.md)
    * [找飆股](Yao/zhao_biao_gu.md)
+       * 挑股2步驟，免費網站也能挖出月漲幅60%的飆股！
    * [存股](Yao/cun_gu.md)
 * [選股指標](pointer/xuan_gu_zhi_biao.md)
    * [自由現金流與盈再率](pointer/zi_you_xian_jin_liu_yu_ying_zai_lv.md)
