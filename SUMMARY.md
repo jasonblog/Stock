@@ -491,7 +491,7 @@
    * [價值選股加季線控制水位](maikefeng/jia_zhi_xuan_gu_jia_ji_xian_kong_zhi_shui_wei.md)
    * [上班族懶人投資法：低檔價值選股、高檔順勢操作](maikefeng/shang_ban_zu_lan_ren_tou_zi_fa_ff1a_di_dang_jia_zh.md)
    * [不買熱門股20年來賺超過8位數的訣竅大公開](maikefeng/bu_mai_re_men_gu_20_nian_lai_zhuan_chao_guo_8_wei_.md)
-   * 麥克風-懶人股票投資法(新聞挖挖哇) 
+   * [麥克風-懶人股票投資法(新聞挖挖哇)](maikefeng/mai_ke_98a8-_lan_ren_gu_piao_tou_zi_6cd528_xin_wen.md)
 * [選擇權](Option/xuan_ze_quan.md)
    * [選 擇 權 名 詞 解 釋](Option/xuan_ze_quan_ming_ci_jie_shi.md)
    * [選擇權搖錢樹 專業投資 | 選擇權教學](Option/xuan_ze_quan_yao_qian_shu_zhuan_ye_tou_zi__xuan_ze.md)
