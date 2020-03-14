@@ -331,6 +331,7 @@
    * [商周上流哥講座重點筆記](good/shang_zhou_shang_liu_ge_jiang_zuo_zhong_dian_bi_ji.md)
    * [上流哥的人生智慧語錄](good/shang_liu_ge_de_ren_sheng_zhi_hui_yu_lu.md)
    * [哆啦王的投資之路](good/duo_la_wang_de_tou_zi_zhi_lu.md)
+   * 麥克風的佛系操盤
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
    * [「價值投資人」不要誤認8000點太高](arsin/300c_jia_zhi_tou_zi_ren_300d_bu_yao_wu_ren_8000_di.md)
