@@ -431,6 +431,7 @@
    * [台灣頂級炒股高手羅威的十年總結](technology/tai_wan_ding_ji_chao_gu_gao_shou_luo_wei_de_shi_ni.md)
    * [要研判盤勢是否會發生大反轉](technology/yao_yan_pan_pan_shi_shi_fou_hui_fa_sheng_da_fan_zh.md)
 * [籌碼面](positioncalculation/chou_ma_mian.md)
+   * 籌碼面止跌號
 * [洪瑞泰](Michael/hong_rui_tai.md)
    * [巴菲特選股神功-重點整理](Michael/ba_fei_te_xuan_gu_shen_529f-_zhong_dian_zheng_li.md)
    * [高ROE+低盈再率](Michael/gaoroe_di_ying_zai_lv.md)
