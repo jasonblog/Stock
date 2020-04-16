@@ -336,7 +336,7 @@
    * [顛覆認知 你不知道的巴菲特投資策略](good/dian_fu_ren_zhi_ni_bu_zhi_dao_de_ba_fei_te_tou_zi_.md)
    * [危機入市"受害概念股](good/wei_ji_ru_5e0222_shou_hai_gai_nian_gu.md)
    * [張松允20200414](good/zhang_song_yun_20200414.md)
-   * Seth Klarman：巴菲特教我的事
+   * [Seth Klarman：巴菲特教我的事](good/seth_klarmanff1a_ba_fei_te_jiao_wo_de_shi.md)
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
    * [「價值投資人」不要誤認8000點太高](arsin/300c_jia_zhi_tou_zi_ren_300d_bu_yao_wu_ren_8000_di.md)
