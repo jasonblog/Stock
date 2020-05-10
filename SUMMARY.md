@@ -337,7 +337,7 @@
    * [危機入市"受害概念股](good/wei_ji_ru_5e0222_shou_hai_gai_nian_gu.md)
    * [張松允20200414](good/zhang_song_yun_20200414.md)
    * [Seth Klarman：巴菲特教我的事](good/seth_klarmanff1a_ba_fei_te_jiao_wo_de_shi.md)
-   * 巴菲特最新專訪：先懂會計，才會看懂資產，然後才有投資
+   * [巴菲特最新專訪：先懂會計，才會看懂資產，然後才有投資](good/ba_fei_te_zui_xin_zhuan_fang_ff1a_xian_dong_hui_ji.md)
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
    * [「價值投資人」不要誤認8000點太高](arsin/300c_jia_zhi_tou_zi_ren_300d_bu_yao_wu_ren_8000_di.md)
