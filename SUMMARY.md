@@ -414,7 +414,7 @@
 * [孫慶龍](luckylong/sun_qing_long.md)
    * [技術面選股](luckylong/ji_shu_mian_xuan_gu.md)
    * [高手看現金流量表，以豐達科(3004)為例!](luckylong/gao_shou_kan_xian_jin_liu_liang_biao_ff0c_yi_feng_.md)
-   * 別說你跟飆股無緣 看懂「合約負債」從股市挖寶
+   * [別說你跟飆股無緣 看懂「合約負債」從股市挖寶](luckylong/bie_shuo_ni_gen_biao_gu_wu_yuan_kan_dong_300c_he_y.md)
 * [Mr_Market](mrmarket/mrmarket.md)
    * [彼得林區選股戰略》10句投資經典語錄](mrmarket/bi_de_lin_qu_xuan_gu_zhan_lve_300b_10_ju_tou_zi_ji.md)
    * [《一個投機者的告白》一分鐘快速心得與導讀分享](mrmarket/300a_yi_ge_tou_ji_zhe_de_gao_bai_300b_yi_fen_zhong.md)
