@@ -37,8 +37,6 @@
 是等原物料價格反轉, 毛利率就下來了. 跟原物料相關的類股如水泥, 鋼鐵, 塑化, 面板,<br>
 LED等.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15378655f69777.jpg"><br>
-<br>
 從財報狗網站跑出來的圖中可看到台積電過去7年的毛利都在40%~50%之間, 而聯電<br>
 除了2010年接近30%之外, 其他多在10%~20%之間. 從毛利率可看出晶圓雙雄的製<br>
 程競爭力確實有一段不小的差距.<br>
@@ -60,7 +58,6 @@ C. 研發費用--開發新產品的費用, 例如:研發人員的薪水與獎金
 軟體公司, IC設計, 生技藥業等, 主要支出為研發費用, 因此須特別透過營業利益率來確定<br>
 公司的費用有沒有失控.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/1537866eea56bf.jpg"></p>
 
 <div><br>
 從營業利益率來看, 台積電過去在30%~40%, 代表營業費用約佔營業收入的10%左右. 而<br>
@@ -85,7 +82,6 @@ C. 研發費用--開發新產品的費用, 例如:研發人員的薪水與獎金
 書中特別提到長期投資的標的, 淨利率不宜低於10%. 日本的經營之聖稻盛和夫曾提到<br>
 10%是經營一家企業的底線, 如果淨利不到10%不值得經營.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15378680710eb1.jpg"></p>
 
 <div>
 <div>從聯電的淨利率跟營業利率差異較大可以看出聯電的業外損益比率較大, 投資者可以進一步<br>
@@ -139,10 +135,7 @@ B. 應收帳款周轉天數持續上升, 盈餘品質可能惡化, 很多地雷�
 &nbsp; &nbsp; &nbsp;作假銷貨, 就會造成營收大幅成長, 但應收帳款周轉天數也大幅增加的情形, 因為錢根本<br>
 &nbsp; &nbsp; &nbsp;收不回來.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/153786f55b1919.jpg"><br>
 從存貨周轉天數可看出台積電自2007年以後就把距離拉開了, 過去三年大約差了5~8天左右.<br>
-<br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/153786fef85b8e.jpg"><br>
 <br>
 二家公司的應收帳款收現天數也是自2007年後拉開, 收款天數差了8~18天左右, 可看出台<br>
 積電在產業的地位確實較聯電高, 可以跟客戶拿到較好的付款條件.<br>
@@ -224,7 +217,6 @@ ROE = (淨利 / 股東權益) * 100%<br>
 可發現二家公司的負債比都在提高, 也許跟晶圓廠的投資金額愈來愈大有關, 但都還在<br>
 40%以下, 都算安全.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/1538994955be6b.jpg"><br>
 <br>
 <br>
 &nbsp;<br>
@@ -246,7 +238,6 @@ ROE = (淨利 / 股東權益) * 100%<br>
 <br>
 從下圖可看出台積電跟聯電過去7年的獲利含金量都在100以上, 也可說是非常健康.<br>
 <br>
-&nbsp;<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389959b8fcb1.jpg"><br>
 <br>
 <span style="font-family:新細明體,serif"><strong>3. 自由現金流量</strong></span><br>
 &nbsp;<br>
@@ -272,12 +263,9 @@ ROE = (淨利 / 股東權益) * 100%<br>
 金流量表確有每股自由現金流入可供參考. 從下圖來看台積電跟聯電都符合上述二個條<br>
 件的要求, 但台積電的無負值表現更勝一籌.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/1538997529fff3.jpg"><br>
 <br>
 除了書上提到的這三個指標外, 財報狗網上還有流速動比, 利息保障倍數的資料, 投資人<br>
 可以參酌使用. 個人偏好用速動比, 不喜歡投資速動比 &lt; 100% 的股票.<br>
-<br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/1538999234c86e.jpg"><br>
 <br>
 安全性指標雖然愈高愈安全, 但跟上一篇提到的獲利性指標相對上來說是一種門檻指標.<br>
 也就是只要及格就可以考慮, 股價會上漲更偏向獲利跟成長. 因此, 一般情形下, 如果有<br>
@@ -310,7 +298,6 @@ ROE = (淨利 / 股東權益) * 100%<br>
 &nbsp;<br>
 <span style="font-family:新細明體,serif">而本書也提供一個非常實用的對照表讓投資人參考</span>.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389a7337b5ad.jpg"><br>
 &nbsp;<br>
 <span style="font-family:新細明體,serif">書中也說明了合理本益比的算法是假設公司以此年複合成長率</span>, <span style="font-family:新細明體,serif">連續成長</span>4<span style="font-family:新細明體,serif">年後停滯</span>,<br>
 <span style="font-family:新細明體,serif">以此</span>4<span style="font-family:新細明體,serif">年後的</span>EPS<span style="font-family:新細明體,serif">的</span>10<span style="font-family:新細明體,serif">倍當作合理的本益比</span>, <span style="font-family:新細明體,serif">並取適當的安全邊際</span>, <span style="font-family:新細明體,serif">從跟我加上的</span>PEG<br>
@@ -320,12 +307,10 @@ ROE = (淨利 / 股東權益) * 100%<br>
 在股價的高點, 因此較適合用股價淨值比來評估.<br>
 <br>
 下圖是台積電跟聯電過去8年本益比的比較<br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389aa2f81e0d.jpg"><br>
 <br>
 財報狗網站也提供了本益比河流(PE Band)的圖形, 可以讓投資人了解股票歷史的本<br>
 益比區間, 投資人可利用本益比區間來回操作, 也就是用基本面的方法選擇買賣時機.<br>
 但這只是參考, 如同前面所說的未來本益比的高低還要看未來的成長性.<br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389aa54ae4b7.jpg"><br>
 &nbsp;<br>
 <span style="font-family:新細明體,serif"><strong>2. 股價淨值比</strong></span><br>
 <br>
@@ -346,16 +331,13 @@ ROE = (淨利 / 股東權益) * 100%<br>
 的獲利更高才能得到市場更高的評價. 也代表如果今天就清算的話, 聯電投資人能拿到的<br>
 錢相對的較多. 尤其聯電的股價淨值比在1以下, 如果資產的淨值跟市價差不多, 那麼今天<br>
 就清算的話, 聯電投資人還可賺錢.<br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389aa6f493cb.jpg"><br>
 從下圖來看聯電的股價淨值比區間相對穩定<br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389ae71c76e6.jpg"><br>
 <br>
 <strong><span style="font-family:新細明體,serif">3. 股利折現點評價</span>&nbsp;</strong><br>
 <br>
 <span style="font-family:新細明體,serif">這個方法是假設我們買股票預計持有</span>8<span style="font-family:新細明體,serif">年</span>, <span style="font-family:新細明體,serif">預估未來</span>8<span style="font-family:新細明體,serif">年的現金股利及</span>8<span style="font-family:新細明體,serif">年後的股價透過<br>
 需要報酬率的折現來計算出目前的合理價位</span>. 折現公式及書中例子如下:<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15392836c8b9b7.jpg"><br>
 這個評價的精華之處在於這個評價公式中一些參數的依據及計算:<br>
 <br>
 A. 預期ROE=過去20季「近4季ROE」平均值<br>
@@ -391,12 +373,10 @@ H. 預期賣出價 = 第8年EPS (F) * 預期本益比 (G)<br>
 由於財報每季公布一次, 尤其每年第一季季報配合前一年年報公布的更晚, 不像營收及時,<br>
 因此每月公布的營收及營收年增率就成了投資人必須追蹤的重要指標.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389c9fc44f6a.jpg"><br>
 <br>
 上圖是財報狗的月營收年增率圖, 只是沒有累計營收年增率, 建議可以參考Yahoo的下表<br>
 暫估該股的年成長率以估算EPS(假如毛利率跟營業利益率沒有太大變化的話). 再用本益<br>
 比及成長率估算合理的股價.<br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389cb68271b8.jpg"><br>
 <br>
 <strong>2. 淨利年增率</strong><br>
 <br>
@@ -405,7 +385,6 @@ H. 預期賣出價 = 第8年EPS (F) * 預期本益比 (G)<br>
 <br>
 從下圖看來台積的淨利年增率較聯電穩定得多, 也較適合長期投資.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389cd952e202.jpg"><br>
 &nbsp;<br>
 書中還有產業分析及選股實戰二篇精彩的內容, 建議投資人自己買書來看. 本書的內容<br>
 就摘要地整理到這兒.&nbsp;<br>
