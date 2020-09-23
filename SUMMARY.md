@@ -251,7 +251,7 @@
    * [專業投機原理](book/zhuan_ye_tou_ji_yuan_li.md)
    * [一個投機者的告白](book/yi_ge_tou_ji_zhe_de_gao_bai.md)
    * [景氣為什麼會循環(一)--Lars Tvede](book/jing_qi_wei_shi_me_hui_xun_74b028_4e0029--_lars_tv.md)
-   * 彼得林區選股策略
+   * [彼得林區選股策略](book/bi_de_lin_qu_xuan_gu_ce_lve.md)
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
