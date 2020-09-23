@@ -250,6 +250,7 @@
    * [投機客養成教育](book/tou_ji_ke_yang_cheng_jiao_yu.md)
    * [專業投機原理](book/zhuan_ye_tou_ji_yuan_li.md)
    * [一個投機者的告白](book/yi_ge_tou_ji_zhe_de_gao_bai.md)
+   * 景氣為什麼會循環(一)--Lars Tvede
 * [書單&網站](resource/README.md)
    * [巴小智](resource/81.md)
    * [尼莫](resource/82.md)
