@@ -166,7 +166,6 @@ D. 趨勢向上型 -- 火紅產業或公司具有競爭實力<br>
 從下圖中可看出晶圓雙雄中, 台積電的ROE較聯電穩定, 尤其是在金融海嘯期間. 從巴菲<br>
 特選股的角度來看, 台積電有機會入選, 聯電則無.<br>
 <br>
-<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15378734d434e2.jpg"></div>
 </div>
 
 <p>&nbsp;<br>
@@ -196,4 +195,222 @@ ROE = (淨利 / 股東權益) * 100%<br>
 <br>
 <br>
 &nbsp;</p>
-        
+
+
+<p><span style="font-family:新細明體,serif"><strong><u>安全性分析</u></strong></span><br>
+&nbsp;<br>
+<strong><span style="font-family:新細明體,serif">1. 長短期金融負債比</span></strong><br>
+<br>
+<span style="font-family:新細明體,serif">本書提到用負債比衡量企業的財務風險有盲點</span>, <span style="font-family:新細明體,serif">因為負債項目中</span>, <span style="font-family:新細明體,serif">有些是沒有利息的好債</span>,<br>
+<span style="font-family:新細明體,serif">主要有二類</span>:<br>
+<br>
+<span style="font-family:新細明體,serif">A. 應付帳款</span>--<span style="font-family:新細明體,serif">向上游供應商進貨</span>, <span style="font-family:新細明體,serif">晚點再付錢</span>. <span style="font-family:新細明體,serif">因為應付賬款期間長造成的應付賬款較高<br>
+是好債</span>. <span style="font-family:新細明體,serif">以零售通路業較為常見</span>.&nbsp;<br>
+<br>
+<span style="font-family:新細明體,serif">B. 預收貨款</span>—<span style="font-family:新細明體,serif">先跟下游客戶拿錢</span>, <span style="font-family:新細明體,serif">晚點再出貨</span>. <span style="font-family:新細明體,serif">客戶願意先付現金給公司</span>, <span style="font-family:新細明體,serif">代表企業的產<br>
+品或服務具有優勢</span>. <span style="font-family:新細明體,serif">預收貨款高者以保全業為代表</span>.&nbsp;<br>
+<br>
+<span style="font-family:新細明體,serif">因此如果用負債比來衡量財務風險可能會錯殺上述零售通路或保全業的好公司</span>, <span style="font-family:新細明體,serif">本書建<br>
+議用「長短期金融負債比」來取代負債比</span>.<br>
+&nbsp;<br>
+<strong><span style="font-family:新細明體,serif">長短期金融負債</span> = <span style="font-family:新細明體,serif">短期借款</span> + <span style="font-family:新細明體,serif">應付短期票據</span> + <span style="font-family:新細明體,serif">一年內到期的長期負債</span> + <span style="font-family:新細明體,serif">長期負債</span>.</strong><br>
+&nbsp;<br>
+<strong><span style="font-family:新細明體,serif">長短期金融負債比</span> = (<span style="font-family:新細明體,serif">長短期金融負債</span> / <span style="font-family:新細明體,serif">總資產</span>)*100%</strong><br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">原則上不超過</span>40%<span style="font-family:新細明體,serif">較理想</span>, 30%<span style="font-family:新細明體,serif">則較穩健</span><br>
+<br>
+雖然前面提到負債比有盲點, 但是財報狗網站只有負債比資訊, 如遇到有上述提到可能有<br>
+好債的產業或公司, 只好自己計算了. 下面圖形是台積電跟聯電過去8年的負債比, 從圖中<br>
+可發現二家公司的負債比都在提高, 也許跟晶圓廠的投資金額愈來愈大有關, 但都還在<br>
+40%以下, 都算安全.<br>
+<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/1538994955be6b.jpg"><br>
+<br>
+<br>
+&nbsp;<br>
+<strong><span style="font-family:新細明體,serif">2. 營業現金流佔淨利比重</span></strong><br>
+<br>
+<span style="font-family:新細明體,serif">由於會計採用權責基礎</span>, <span style="font-family:新細明體,serif">出貨開出發票就算現金還沒收回來就認列營業收入</span>, <span style="font-family:新細明體,serif">因此就算期<br>
+末結算有獲利也不能保證有現今的淨流入</span>. <span style="font-family:新細明體,serif">如果應收帳款收不回來被倒債造成壞帳損失</span>,<br>
+<span style="font-family:新細明體,serif">那之前所謂的淨利就不見了</span>. <span style="font-family:新細明體,serif">所以看到營收成長先不要開心</span>, <span style="font-family:新細明體,serif">還要看所謂的獲利含金量如何</span>.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">本書建議的獲利含金量指標為「營業現金流佔淨利比重」</span><br>
+&nbsp;<br>
+<strong><span style="font-family:新細明體,serif">營業現金流佔淨利比重</span> = (<span style="font-family:新細明體,serif">營業現金流入</span> / <span style="font-family:新細明體,serif">稅後淨利</span> )*100%</strong><br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">二個衡量的標準</span>:<br>
+&nbsp;<br>
+<strong><span style="font-family:新細明體,serif">A. 長期獲利含金量</span>80%~100%<span style="font-family:新細明體,serif">以上</span></strong><br>
+<br>
+<strong><span style="font-family:新細明體,serif">B. 長期含金量低於</span>50%, <span style="font-family:新細明體,serif">應探究營業現金短缺原因</span></strong><br>
+<br>
+從下圖可看出台積電跟聯電過去7年的獲利含金量都在100以上, 也可說是非常健康.<br>
+<br>
+&nbsp;<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389959b8fcb1.jpg"><br>
+<br>
+<span style="font-family:新細明體,serif"><strong>3. 自由現金流量</strong></span><br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">有些公司雖然很賺錢但是卻必須不斷地做資本支出</span>, <span style="font-family:新細明體,serif">如果資本支出未來產生預期的效益而<br>
+成長獲利那還好</span>; <span style="font-family:新細明體,serif">如果產品價格因各家公司大量的資本投資造成共給過剩而下跌造成獲利<br>
+不如預期甚至損失</span>, <span style="font-family:新細明體,serif">那這種公司的風險就高了</span>, <span style="font-family:新細明體,serif">最典型的例子就是之前的面板跟</span>DRAM.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">為了不買到這種慘業股</span>, <span style="font-family:新細明體,serif">可看自由現金流量來避開</span>, <span style="font-family:新細明體,serif">而這個指標也是巴菲特衡量公司風險<br>
+很重要的指標</span>.<br>
+&nbsp;<br>
+<strong><span style="font-family:新細明體,serif">自由現金</span> = <span style="font-family:新細明體,serif">營業現金收入</span> – <span style="font-family:新細明體,serif">投資現金收入</span></strong><br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">自由現金就是公司營運帶來的現金扣除購併</span>, <span style="font-family:新細明體,serif">蓋廠</span>, <span style="font-family:新細明體,serif">購買機器設備等投資現金支出後所剩<br>
+餘的現金</span>. <span style="font-family:新細明體,serif">這些現金可以用來還債或是轉成股利發還給股東等</span>, <span style="font-family:新細明體,serif">可讓公司自由應用</span>.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">自由現金的衡量以年為單位</span>, <span style="font-family:新細明體,serif">參考標準如下</span>:<br>
+&nbsp;<br>
+<strong><span style="font-family:新細明體,serif">A. 近</span>8<span style="font-family:新細明體,serif">年自由現金流量</span>, <span style="font-family:新細明體,serif">其中至少</span>4~5</strong><span style="font-family:新細明體,serif"><strong>年為正值</strong></span><br>
+<br>
+<strong><span style="font-family:新細明體,serif">B. 近</span>8<span style="font-family:新細明體,serif">年自由現金流量</span>, <span style="font-family:新細明體,serif">總和為正值</span>&nbsp;</strong><br>
+<br>
+很可惜財報狗在安全性分析中沒有現成的數值跟圖表, 但在報表數據比較項下的現金流<br>
+金流量表確有每股自由現金流入可供參考. 從下圖來看台積電跟聯電都符合上述二個條<br>
+件的要求, 但台積電的無負值表現更勝一籌.<br>
+<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/1538997529fff3.jpg"><br>
+<br>
+除了書上提到的這三個指標外, 財報狗網上還有流速動比, 利息保障倍數的資料, 投資人<br>
+可以參酌使用. 個人偏好用速動比, 不喜歡投資速動比 &lt; 100% 的股票.<br>
+<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/1538999234c86e.jpg"><br>
+<br>
+安全性指標雖然愈高愈安全, 但跟上一篇提到的獲利性指標相對上來說是一種門檻指標.<br>
+也就是只要及格就可以考慮, 股價會上漲更偏向獲利跟成長. 因此, 一般情形下, 如果有<br>
+二支股票, 如果都過安全性分析的門檻, 擁有較高獲利性跟成長性的股票應該是較好的<br>
+標的, 即使它全性指標的分數不如另一支.<br>
+&nbsp;</p>
+
+<div class="article-content-inner" id="article-content-inner" itemprop="articleBody">
+                <p><span style="font-family:新細明體,serif"><u><strong>價值評估</strong></u></span><br>
+<br>
+<span style="font-family:新細明體,serif"><strong>1. 本益比</strong></span><br>
+<br>
+<span style="font-family:新細明體,serif">如果公司的獲利性佳</span>, <span style="font-family:新細明體,serif">安全性高</span>, <span style="font-family:新細明體,serif">就可以放進選股的觀察名單了</span>. <span style="font-family:新細明體,serif">但好股也要買在好價錢</span>,<br>
+<span style="font-family:新細明體,serif">如果買貴了還是會住套房</span>. <span style="font-family:新細明體,serif">要判斷股價貴不貴</span>, <span style="font-family:新細明體,serif">最常見的指標是<strong>本益比</strong></span><strong>(<span style="font-family:新細明體,serif">簡稱</span>PE). <span style="font-family:新細明體,serif">本指股<br>
+價</span>, <span style="font-family:新細明體,serif">益指每股稅後盈餘</span>(<span style="font-family:新細明體,serif">簡稱</span>EPS)</strong>. <span style="font-family:新細明體,serif">本益比就是每股股價相對於每股盈餘的倍數</span>.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">如果把本益比倒過來</span>, <span style="font-family:新細明體,serif">就變成</span>EPS/<span style="font-family:新細明體,serif">每股股價</span>, <span style="font-family:新細明體,serif">也稱作外部股東報酬率</span>, <span style="font-family:新細明體,serif">也就是買進股票後</span><br>
+, <span style="font-family:新細明體,serif">公司為你賺到的報酬率</span>. <span style="font-family:新細明體,serif">因此本益比愈低</span>, <span style="font-family:新細明體,serif">外部股東報酬率愈高</span>, <span style="font-family:新細明體,serif">股價也就愈便宜</span>.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">公司合理的本益比與</span>EPS<span style="font-family:新細明體,serif">的成長性有關</span>. <span style="font-family:新細明體,serif">如果每年</span>EPS<span style="font-family:新細明體,serif">變動不大</span>, <span style="font-family:新細明體,serif">合理本益比約為</span>10<span style="font-family:新細明體,serif">倍</span>,<br>
+<span style="font-family:新細明體,serif">也就是外部股東報酬率為</span>10%. <span style="font-family:新細明體,serif">若是公司的</span>EPS<span style="font-family:新細明體,serif">呈成長趨勢</span>, <span style="font-family:新細明體,serif">則合理本益比可以更高</span>;<br>
+<span style="font-family:新細明體,serif">但如果呈衰退趨勢</span>, <span style="font-family:新細明體,serif">那當然就會低於</span>10<span style="font-family:新細明體,serif">倍了</span>.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">這邊要注意的是一般公布的本益比用的是過去四季獲利的平均</span>, <span style="font-family:新細明體,serif">而股價反映的是未來</span>.<br>
+<span style="font-family:新細明體,serif">因此</span>, <span style="font-family:新細明體,serif">券商個股研究報告的目標價就是先估出公司的的</span>EPS, <span style="font-family:新細明體,serif">再給這間公司一個合理的<br>
+本益比</span>, <span style="font-family:新細明體,serif">把預估</span>EPS<span style="font-family:新細明體,serif">乘上合理本益比即可得到目標價</span>.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">彼得林區有一個</span>PEG<span style="font-family:新細明體,serif">的選股指標</span>, <span style="font-family:新細明體,serif">也就是</span> <span style="font-family:新細明體,serif">本益比</span>(PE) / EPS<span style="font-family:新細明體,serif">成長率</span>, <span style="font-family:新細明體,serif">他建議買進</span><br>
+<strong>PEG &lt;= 1</strong> <span style="font-family:新細明體,serif">的公司股票</span>, <span style="font-family:新細明體,serif">例如</span>: 20<span style="font-family:新細明體,serif">倍本益比需有</span>20% <span style="font-family:新細明體,serif">的</span>EPS<span style="font-family:新細明體,serif">成長率</span>.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">而本書也提供一個非常實用的對照表讓投資人參考</span>.<br>
+<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389a7337b5ad.jpg"><br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">書中也說明了合理本益比的算法是假設公司以此年複合成長率</span>, <span style="font-family:新細明體,serif">連續成長</span>4<span style="font-family:新細明體,serif">年後停滯</span>,<br>
+<span style="font-family:新細明體,serif">以此</span>4<span style="font-family:新細明體,serif">年後的</span>EPS<span style="font-family:新細明體,serif">的</span>10<span style="font-family:新細明體,serif">倍當作合理的本益比</span>, <span style="font-family:新細明體,serif">並取適當的安全邊際</span>, <span style="font-family:新細明體,serif">從跟我加上的</span>PEG<br>
+<span style="font-family:新細明體,serif">一欄比較</span>, <span style="font-family:新細明體,serif">都接近彼得林區</span>&lt;=1<span style="font-family:新細明體,serif">的規則</span>.<br>
+<br>
+景氣循環股的獲利較不穩定且獲利高點通常在景氣最熱時, 也就是本益比的低點通常發生<br>
+在股價的高點, 因此較適合用股價淨值比來評估.<br>
+<br>
+下圖是台積電跟聯電過去8年本益比的比較<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389aa2f81e0d.jpg"><br>
+<br>
+財報狗網站也提供了本益比河流(PE Band)的圖形, 可以讓投資人了解股票歷史的本<br>
+益比區間, 投資人可利用本益比區間來回操作, 也就是用基本面的方法選擇買賣時機.<br>
+但這只是參考, 如同前面所說的未來本益比的高低還要看未來的成長性.<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389aa54ae4b7.jpg"><br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif"><strong>2. 股價淨值比</strong></span><br>
+<br>
+<span style="font-family:新細明體,serif">上述的本益比只適合判斷獲利穩定成長的公司</span>, <span style="font-family:新細明體,serif">如果獲利不穩定有時賺有時賠</span>, <span style="font-family:新細明體,serif">則可考<br>
+慮<strong>股價淨值比</strong></span><strong>(<span style="font-family:新細明體,serif">簡稱</span>PBR) = <span style="font-family:新細明體,serif">股價</span> / <span style="font-family:新細明體,serif">淨值</span></strong>, <span style="font-family:新細明體,serif">而所謂的淨值就是股東權益</span>, <span style="font-family:新細明體,serif">也就是資產減掉<br>
+負債</span>.<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">本益比是從獲利的角度衡量股價</span>, <span style="font-family:新細明體,serif">而股價淨值比是從安全的角度來衡量</span>. <span style="font-family:新細明體,serif">也就是預估公司<br>
+如果有天歇業了</span>, <span style="font-family:新細明體,serif">股東能拿回的前站當初買股票的錢比重是多少</span>. <span style="font-family:新細明體,serif">運用這個指標有幾個特點</span>:<br>
+&nbsp;<br>
+<span style="font-family:新細明體,serif">A. 科技股的設備折舊快</span>, <span style="font-family:新細明體,serif">股價淨值比常遠低於</span>1<br>
+<span style="font-family:新細明體,serif">B. 資產股就算年年賠</span>, <span style="font-family:新細明體,serif">股價淨值比仍居高不下</span>, <span style="font-family:新細明體,serif">因為資產實際價值遠高於帳面價值</span>.<br>
+<span style="font-family:新細明體,serif">C. 景氣循環股是用股價淨值比來回操作</span>, <span style="font-family:新細明體,serif">股市指數也會隨著景氣上下</span>, <span style="font-family:新細明體,serif">也適合用股價淨值<br>
+&nbsp; &nbsp; &nbsp;比來操作</span>.<br>
+<span style="font-family:新細明體,serif">D. 股價淨值比愈墊愈低</span>, <span style="font-family:新細明體,serif">暗示產業衰退</span>&nbsp;<br>
+<br>
+下圖是台積電跟聯電的股價淨值比, 台積電一值比聯電高, 代表台積電每一元淨值能創造<br>
+的獲利更高才能得到市場更高的評價. 也代表如果今天就清算的話, 聯電投資人能拿到的<br>
+錢相對的較多. 尤其聯電的股價淨值比在1以下, 如果資產的淨值跟市價差不多, 那麼今天<br>
+就清算的話, 聯電投資人還可賺錢.<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389aa6f493cb.jpg"><br>
+從下圖來看聯電的股價淨值比區間相對穩定<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389ae71c76e6.jpg"><br>
+<br>
+<strong><span style="font-family:新細明體,serif">3. 股利折現點評價</span>&nbsp;</strong><br>
+<br>
+<span style="font-family:新細明體,serif">這個方法是假設我們買股票預計持有</span>8<span style="font-family:新細明體,serif">年</span>, <span style="font-family:新細明體,serif">預估未來</span>8<span style="font-family:新細明體,serif">年的現金股利及</span>8<span style="font-family:新細明體,serif">年後的股價透過<br>
+需要報酬率的折現來計算出目前的合理價位</span>. 折現公式及書中例子如下:<br>
+<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15392836c8b9b7.jpg"><br>
+這個評價的精華之處在於這個評價公式中一些參數的依據及計算:<br>
+<br>
+A. 預期ROE=過去20季「近4季ROE」平均值<br>
+B. 預期現金股利發放率=過去5年現金股利發放率平均<br>
+C. 本期每股淨值=上期每股淨值+(上期EPS-上期現金股利)<br>
+<br>
+D. 本期EPS = 預期ROE (A) * 本期初每股淨值 (C)<br>
+E. 本期現金股利 = 本期EPS (D) * 預期現金股利發放率 (B)<br>
+<br>
+F. 第8年EPS =&nbsp;預期ROE (A) * 第8年初每股淨值 (C)<br>
+G. 預期本益比 = 過去5年共20季的平均值<br>
+H. 預期賣出價 = 第8年EPS (F) * 預期本益比 (G)<br>
+<br>
+從上面的公式可得出, 在預期ROE (A) 跟預期現金發放率 (B) 8年都假設一樣的情況下,<br>
+在一般現金股利發放率 &lt; 100% 的情形下, 每股淨值, EPS 跟現金股利會逐年增加.<br>
+<br>
+這個方法因為其假設的關係, 跟本益比法一樣只適合用在獲利穩定的公司.<br>
+<br>
+<span style="font-family:新細明體,serif">這個方法對一般投資人來說有相當的難度</span>, 但計算可用Excel先把8年的公式設好, 再把<br>
+上述的A, B 跟 G 項的個股資料帶進去就好. &nbsp;如果不想自己算的投資人有二條路可以走:<br>
+<br>
+1. 用本益比的方法就好<br>
+<span style="font-family:新細明體,serif">&nbsp;2.加入財報狗網站的付費會員</span><br>
+<br>
+&nbsp;<br>
+<u><strong><span style="font-family:新細明體,serif">成長性分析</span></strong></u><br>
+&nbsp;<br>
+成長性看的是年增率走勢, 也就是所謂的(YoY), 即該月跟去年同一月份相比. 看年增率可<br>
+避免季節性的影響. 關於成長性我們主要看的是營收成長年增率跟淨利的年增率.<br>
+<br>
+<strong>1. 營收年增率</strong><br>
+<br>
+由於財報每季公布一次, 尤其每年第一季季報配合前一年年報公布的更晚, 不像營收及時,<br>
+因此每月公布的營收及營收年增率就成了投資人必須追蹤的重要指標.<br>
+<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389c9fc44f6a.jpg"><br>
+<br>
+上圖是財報狗的月營收年增率圖, 只是沒有累計營收年增率, 建議可以參考Yahoo的下表<br>
+暫估該股的年成長率以估算EPS(假如毛利率跟營業利益率沒有太大變化的話). 再用本益<br>
+比及成長率估算合理的股價.<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389cb68271b8.jpg"><br>
+<br>
+<strong>2. 淨利年增率</strong><br>
+<br>
+但光營收增加還不算數, 還要看最後的獲利是不是也跟著增加, 獲利包含毛利, 營<br>
+業利益及稅後淨利.&nbsp;<br>
+<br>
+從下圖看來台積的淨利年增率較聯電穩定得多, 也較適合長期投資.<br>
+<br>
+<img loading="lazy" title="" style="text-align: center; font-size: 12px; border-width: 0px; margin: 0.7em 0px;" alt="" src="http://pics18.yamedia.tw/43/userfile/w/wj2008/blog/15389cd952e202.jpg"><br>
+&nbsp;<br>
+書中還有產業分析及選股實戰二篇精彩的內容, 建議投資人自己買書來看. 本書的內容<br>
+就摘要地整理到這兒.&nbsp;<br>
+<br>
+<br>
+&nbsp;<br>
+&nbsp;</p>
+            </div>
