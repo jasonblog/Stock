@@ -341,7 +341,7 @@
    * [呂宗耀的投資原則](good/lv_zong_yao_de_tou_zi_yuan_ze.md)
    * [系山英太郎<賺錢哲學>](good/xi_shan_ying_tai_90ce3c_zhuan_qian_zhe_5b783e.md)
    * [炒股的智慧](good/chao_gu_de_zhi_hui.md)
-   * 勝可知, 而不可為
+   * [勝可知, 而不可為](good/sheng_ke_77e52c_er_bu_ke_wei.md)
 * [溫國信](arsin/wen_guo_xin.md)
    * [除權息旺季](arsin/chu_quan_xi_wang_ji.md)
    * [「價值投資人」不要誤認8000點太高](arsin/300c_jia_zhi_tou_zi_ren_300d_bu_yao_wu_ren_8000_di.md)
