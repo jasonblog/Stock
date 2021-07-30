@@ -521,6 +521,7 @@
 * [撿股讚](wespai/jian_gu_zan.md)
 * [BOS巴菲特](BOS/bosba_fei_te.md)
 * [美股投資](US_STOCK/mei_gu_tou_zi.md)
+   
    * [全球最強生活概念股!一次帶你認識10家最強企業](US_STOCK/quan_qiu_zui_qiang_sheng_huo_gai_nian_80a121_yi_ci.md)
    * [30歲警官靠美股提早退休](US_STOCK/30sui_jing_guan_kao_mei_gu_ti_zao_tui_xiu.md)
    * [個股投資找出飊股](US_STOCK/ge_gu_tou_zi_zhao_chu_98ca_gu.md)
@@ -529,5 +530,14 @@
    * [美股的配息(Dividend)與稅務(Tax)](US_STOCK/mei_gu_de_pei_606f28_dividend_yu_shui_52d928_tax.md)
    * [篩選](US_STOCK/shai_xuan.md)
        * [如何尋找低估的績優公司](US_STOCK/ru_he_xun_zhao_di_gu_de_ji_you_gong_si.md)
+       
        * [10個指標](US_STOCK/10ge_zhi_biao.md)
+       
+           
+
+- [短線交易](short_swing_trading/short_swing_trading.md)
+
+    - [短波段必勝交易法](short_swing_trading/skills.md)
+
+    
 
