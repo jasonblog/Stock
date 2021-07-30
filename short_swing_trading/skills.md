@@ -21,6 +21,25 @@
 
 - 停損就在前一天啟動低檔區
 - 一旦進入加碼代表原始倉位是對的 就不能賠回去 平損設在均價上方 
+    - **加碼資金不能超過原始資金太多不然成本會高於原本獲利的**
+
+- 移動停損技巧 加碼前的大紅K低點 或者缺口不要讓他回補
+- 永遠都買再最高點 永遠買再最有動能的地方 反而最安全 , 盤整偏高地方可能是很危險的 ～ 波動**啟動**的時候不用害怕
+    - 要看位階 
+
+![img](images/short_swing_trading.md)
+
+
+
+![img](images/hJVzYm4GFYtDEZ0rXaKi0nUjyuCLiXqHZViX_NmjjKH--ZxonBuJxsiqzEz9Pn4YD4MhO67HE6rMWoUqdPtoiKQ71AnzaI0KfDuMgm5vlK25SgCBBqCbDaFhKymFm7UAzoahAXVP)
+
+![img](images/eL7C5-vsvx-F23eO28CDhn2IpWf0rH6s7Z2Wb80m126uAZYPbolVtC-xzs-_SoFNib26uhoEIYMLga-E-1xBQWxO6XtN_ua408Dr9GqjTsMMYBgOM3y6qei6FhDrUb8SObsZr4gV)
+
+![img](images/om0ZOAYEHmtQ59JPmFsIz6ym_NtS0nRP83T577oJbDxavNBHb79QWmaKid4sh9xhKJfsCxBOfiqGqQR-9fS_RnyVaQjd3h4mFIb22U6O09lBFqZUVE1MUG7ztwVRGYJ4GeMOA_b4)
+
+
+
+![img](images/AmhcqvpcvkaLC0hBNiLD27ybjzfvTPCLkgQApvJcaRJojPr4vPQPFwasWkdAKik4tadaWdq_6cFSIcnPvuRn5dotXz4c3pzOulSRcPEgAWDLmkfXsGcdqas0tztfq1qCIYvE5gqg)
 
 
 
@@ -36,7 +55,15 @@
 
 ​        透過分批買進及設立停損點的方式，試圖將風險降至最低。**而困難點還是在於如何選擇適合的標的?**如何看出某檔個股將有一大波漲幅?按照散戶的速度都是訊息末端，往往等到股價上漲了才能來決定是否入場。**這時從創新高的個股中來挑選會是一個好的開始。**股價要翻漲一倍之前，會先漲百分之50，在那之前會漲百分之25。因此從這些上漲的個股中，再挑選能夠抗跌並優先於大盤開始上漲的個股以縮小範圍，最後由自己大膽挑選出會持續上漲的個股然後買入，就有可能享受到跟著大盤上漲的快感。
 
-​         **這樣看來好像是在追高，追高不是勝率不高嗎?那何必明知卻要追買?等著被主力收割?但既然鎖定的標的已經經過挑選，就要讓自己背負一些風險。****月光認為試單很重要，沒有試一切都是紙上談兵，這是短線交易很重要的一點。要有容錯率，容許自己失敗，甚至失敗到不會影響到心情，仍然照自己設定的方向走，這樣才是走短線應有的操作心法。
+​         **這樣看來好像是在追高，追高不是勝率不高嗎?那何必明知卻要追買?等著被主力收割?但既然鎖定的標的已經經過挑選，就要讓自己背負一些風險。**月光認為試單很重要，沒有試一切都是紙上談兵，這是短線交易很重要的一點。要有容錯率，容許自己失敗，甚至失敗到不會影響到心情，仍然照自己設定的方向走，這樣才是走短線應有的操作心法。
 
 ---
 
+## 「獨門秘密」移動加碼「3」定律！ 
+
+https://www.youtube.com/watch?v=sRCjzD7rU8M
+
+- 加碼後就不能賠錢 停損設在成本價之上-
+-  波段不能加碼太快 不能增加風險很容易被掃出去 ex:賺20% 再考加碼
+-  3~5支 ex: 5支都賺錢 找賺最多的加碼 趨勢最明顯 加碼也不容易賠錢
+-  加碼多少 ？因個股＆資金而異 
