@@ -539,6 +539,9 @@
 
     - [短波段必勝交易法](short_swing_trading/skills.md)
     - [老王-短線操作 (season 1+2)](short_swing_trading/old_wang.md)
+    - [阿魯米說書筆記](short_swing_trading/LDS.md)
+        - [超級績效1](short_swing_trading/超級績效1.md)
+        - [超級績效2](short_swing_trading/超級績效2.md)
     
     
 
