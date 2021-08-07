@@ -18,7 +18,9 @@ serve:
 	@gitbook serve
 
 build:
+	@sudo n 6
 	@gitbook build --gitbook=2.6
+	@sudo n 16	
 
 clean:
 	rm -fr _book
