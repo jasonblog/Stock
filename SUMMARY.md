@@ -545,6 +545,7 @@
     - [創新高後怎麼選進場時機](short_swing_trading/創新高後怎麼選進場時機.md)
     - [東山股市絕學](short_swing_trading/東山股市絕學.md)
     - [陳詩慧的天龍八步投資心法](short_swing_trading/陳詩慧的天龍八步投資心法.md)
+    - [孤獨求敗強勢股介紹](short_swing_trading/孤獨求敗強勢股介紹.md)
     
     
 
