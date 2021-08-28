@@ -546,6 +546,7 @@
     - [東山股市絕學](short_swing_trading/東山股市絕學.md)
     - [陳詩慧的天龍八步投資心法](short_swing_trading/陳詩慧的天龍八步投資心法.md)
     - [孤獨求敗強勢股介紹](short_swing_trading/孤獨求敗強勢股介紹.md)
+    - [比菲斯基本面選股4心法](short_swing_trading/比菲斯基本面選股4心法.md)
     
     
 
