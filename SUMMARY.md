@@ -547,6 +547,7 @@
     - [陳詩慧的天龍八步投資心法](short_swing_trading/陳詩慧的天龍八步投資心法.md)
     - [孤獨求敗強勢股介紹](short_swing_trading/孤獨求敗強勢股介紹.md)
     - [比菲斯基本面選股4心法](short_swing_trading/比菲斯基本面選股4心法.md)
+    - [廖崧沂辨別真假突破就靠這一招](short_swing_trading/廖崧沂辨別真假突破就靠這一招.md)
     
     
 
